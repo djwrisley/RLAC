@@ -17,9 +17,18 @@ The Digital Literacy Narrative is a progressive assignment in *three* steps, whi
 
 **Step 1**: copy the response provided by `chatGPT` given below and to place it in your highest level folder as a file named `dln.md`. You can use the `yaml` header in this same file and remove the prompt and guidelines. This first stage is ungraded.  
 
-**Step 2**: rewrite the file to reflect the kind of digital literacies you feel that you have and that you want to work on. Stay at approximately 500 words. Use a markdown cheatsheet such as this [one](https://www.markdownguide.org/cheat-sheet) to stylize your post, adding different layout features and embedded links if needed. You do not need to refer to the readings. Feel free to use multiple commits and commit messages explaining the kinds of changes you made. **Due date: 20 Feb**.
+**Step 1 Due date:** ASAP, ungraded.
+{: .notice}
 
-**Step 3**: At midterm, you will rewrite this post to reflect your current state of thinking on the question. You should increase the word limit to 750-1000 words. A rubric for how you can revise it will be provided. Make reference to an additional two resources from the course. **Due date: 5 April**.
+**Step 2**: rewrite the file to reflect the kind of digital literacies you feel that you have and that you want to work on. Stay at approximately 500 words. Use a markdown cheatsheet such as this [one](https://www.markdownguide.org/cheat-sheet) to stylize your post, adding different layout features and embedded links if needed. You do not need to refer to the readings. Feel free to use multiple commits and commit messages explaining the kinds of changes you made. 
+
+**Step 2 Due date:** 20 Feb, ungraded.
+{: .notice}
+
+**Step 3**: At midterm, you will rewrite this post to reflect your current state of thinking on the question. You should increase the word limit to 750-1000 words. A rubric for how you can revise it will be provided. Make reference to an additional two resources from the course. 
+
+**Step 3 Due date:** 5 April, 5% total grade.
+{: .notice}
 
 > Hints for Step 3: 
 
@@ -29,7 +38,10 @@ The Digital Literacy Narrative is a progressive assignment in *three* steps, whi
 - Make reference to two of the readings in class which we have had which discuss the points you bring up. 
 
 
-**Step 4**: At the end of the term, you will rewrite the post to reflect your end-of-term state of thinking about digital literacies. You should increase the word limit to 1000-1250 words. You can go beyond that, but remember few people want to read more than 1600 words. Make reference to an additional two resources from the course (6 total). **Due date: 5 May**.
+**Step 4**: At the end of the term, you will rewrite the post to reflect your end-of-term state of thinking about digital literacies. You should increase the word limit to 1000-1250 words. You can go beyond that, but remember few people want to read more than 1600 words. Make reference to an additional two resources from the course (6 total). 
+
+**Step 4 Due date:** 5 May, 5% total grade.
+{: .notice}
 
 Guiding questions: 
 - What are the platforms you use?
