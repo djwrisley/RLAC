@@ -4,10 +4,10 @@ main:
   - title: "Schedule"
     url: /schedule/
   - title: "Materials"
-    url: /materials/  
-  - title: "Requirements"
-    url: /requirements/
+    url: /materials/
   - title: "Outcomes"
     url: /outcomes/   
-  - title: "Posts"
-    url: /posts/
+  - title: "Assessment"
+    url: /assessment/  
+  - title: "Tags"
+    url: /tags/
