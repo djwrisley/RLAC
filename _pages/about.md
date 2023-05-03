@@ -5,17 +5,16 @@ author_profile: false
 ---
 
 # Introduction to Digital Arts and Humanities
-**Spring 2023**
-**Number of credits**: 4 (14 weeks)
-**Instructor**: David Wrisley (djw12@)
-**Mastodon**: @djwrisley@mstdn.social 
+- **Spring 2023**
+- **Number of credits**: 4 (14 weeks)
+- **Instructor**: David Wrisley (djw12@)
+- **Mastodon**: @djwrisley@mstdn.social
+- **Pre-requisites or co-requisites**: none
+- **Cross-listing**: This course is an IM elective.
 
 > This course is the foundation course for the minor in Digital Arts and Humanities. It is taught in person in Abu Dhabi, but is open to registration by study away students. Capacity will be limited to 15. 
 
-**Pre-requisites or co-requisites**: none
-**Cross-listed**: This course is an IM elective.
-
-| Element | Day | Timing | Location | 
+| **Element** | **Day** | **Timing** | **Location** | 
 | Lab | Tu | 3:35PM-6:15PM | C3 116 | 
 | Class | Th | 3:35PM-4:50PM | C3 116 | 
 | Virtual Office hour | W | 6:00-7:00PM | zoom |
