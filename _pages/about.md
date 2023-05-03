@@ -6,7 +6,7 @@ author_profile: false
 
 ## Introduction to Digital Arts and Humanities
 
-- **Spring 2023**
+- **Spring 2023 (25006)**
 - **Number of credits**: 4 (14 weeks)
 - **Instructor**: David Wrisley (djw12@)
 - **Mastodon**: @djwrisley@mstdn.social
