@@ -75,7 +75,7 @@ author:
 
 footer:
   links:
-    - lael: "Twitter"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
