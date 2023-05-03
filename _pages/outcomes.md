@@ -8,12 +8,10 @@ COURSE LEARNING OUTCOMES (CLOs):
 
 The Spring 2023 version of the course will be offered as an elective in Interactive Media. Below is a matrix which maps the CLOs to IM PLOs found here: 
 
-At the end of this course, students will be expected to be able to
-
-| DAAH # | Course Learning Outcome | IM # | PLO | Emphasis |
-| CLO 1 | Evaluate theoretical readings in the context of hands on practical exploration
- | PLO 2&4 | Analytical Thinking, Critical Thinking | Medium |
-| CLO 2 | Describe some forms of digital knowledge common in today’s society | 
+| DAAH # | CLO | IM # | PLO | Emphasis |
+| 1 | Evaluate theoretical readings in the context of hands on practical exploration
+ | 2&4 | Analytical Thinking, Critical Thinking | Medium |
+| 2 | Describe some forms of digital knowledge common in today’s society | 
 | 1 | Research and Understanding |
 Medium |
 
