@@ -1,6 +1,7 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
+author_profile: false
 ---
 
 # IM-UH 1511 (25006) Introduction to Digital Arts and Humanities
