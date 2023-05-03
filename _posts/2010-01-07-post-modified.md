@@ -7,7 +7,7 @@ tags:
   - Post Formats
   - readability
   - standard
-  - 2016 
+  - F16
 ---
 
 This post has been updated and should show a modified date if used in a layout.
