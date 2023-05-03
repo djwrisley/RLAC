@@ -11,9 +11,9 @@ tags:
   - Notice
 ---
 
-# Guidelines for the Assignment: 
+## Guidelines for the Assignment: 
 
-The Digital Literacy Narrative is a progressive assignment in three steps, which will be completed over the course of the semester, as well as being graded twice. 
+The Digital Literacy Narrative is a progressive assignment in *three* steps, which will be completed over the course of the semester, as well as being graded twice. 
 
 **Step 1**: copy the response provided by `chatGPT` given below and to place it in your highest level folder as a file named `dln.md`. You can use the `yaml` header in this same file and remove the prompt and guidelines. This first stage is ungraded.  
 
