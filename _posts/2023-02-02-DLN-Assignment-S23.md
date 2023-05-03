@@ -7,7 +7,8 @@ tags:
   - Assignments
   - Digital Literacy
   - chatGPT
-  - S23 
+  - S23
+  - Notice
 ---
 
 # Guidelines for the Assignment: 
@@ -36,13 +37,13 @@ Guiding questions:
 - What can you use some improvement in? 
 - What are you learning about new domains? 
 
-<!--more-->
 
-chatGPT Prompt with Jan 30 version: 
+**chatGPT Prompt with Jan 30 version:** 
 
 > Please write a 500 word digital literacy narrative from the perspective of a 20 year old university student taking an introductory course in digital humanities. Include the strategies they currently employ in their daily and academic lives for content creation, social interaction, as well as any platforms or software they use for research data management as well as data manipulation and analysis. Please offer your critical reflection on your current abilities, what you are discovering in the course as well as what you would like to learn.
 
-Response from chatGPT:
+**Response from chatGPT:** This is the 30 January 2023 version.
+{: .notice}
 
 As a 20 year old university student studying digital humanities, I am constantly learning about how to effectively utilize technology in my daily and academic life. Growing up in the digital age, I have always been familiar with various social media platforms and online tools for content creation. However, I never truly understood the potential of technology for research data management, data manipulation, and analysis until I started taking this introductory course in digital humanities.
 
