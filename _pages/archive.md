@@ -1,11 +1,13 @@
 ---
-permalink: /archive/
 title: "Archive"
+permalink: /archive/
+layout: page
+author_profile: false
 ---
 
-IM-UH 1511 Introduction to Digital Arts and Humanities is the foundation course for the minor in Digital Arts and Humanities. As we expect it to grow and change over the years, here we will archive the markdown files for the schedule. 
+IM-UH 1511 Introduction to Digital Arts and Humanities is the foundation course for the minor in Digital Arts and Humanities. As we expect it to grow and change over the years, we will archive the markdown files for the schedule here. 
 
-These syllabi schedules are provided as open educational resources with a CC BY-SA-NC 4.0 International license. If you reuse them, in part or in whole, please cite them.
+These syllabi are provided as open educational resources with a CC BY-SA-NC 4.0 International license. If you reuse them, in part or in whole, please cite them.
 
 [Fall 2016](https://wp.nyu.edu/ahcad139/) 
 [Fall 2017]()
