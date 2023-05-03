@@ -9,15 +9,12 @@ COURSE LEARNING OUTCOMES (CLOs):
 The Spring 2023 version of the course will be offered as an elective in Interactive Media. Below is a matrix which maps the CLOs to IM PLOs found here: 
 
 | DAAH # | CLO | IM # | PLO | Emphasis |
-| 1 | Evaluate theoretical readings in the context of hands on practical exploration
- | 2&4 | Analytical Thinking, Critical Thinking | Medium |
-| 2 | Describe some forms of digital knowledge common in today’s society | 
-| 1 | Research and Understanding |
+| 1 | Evaluate theoretical readings in the context of hands on practical exploration | 2&4 | Analytical Thinking, Critical Thinking | Medium |
+| 2 | Describe some forms of digital knowledge common in today’s society | 1 | Research and Understanding |
 Medium |
+| 3 | Employ data literacy skills they have acquired such as data modeling, web publishing, algorithmic classification, visualization, mapping | 5 | Technical Implementation | Medium |
 
-CLO 3: Employ data literacy skills they have acquired such as data modeling, web publishing, algorithmic classification, visualization, mapping
-Technical Implementation #5
-Medium
+
 CLO 4: Identify both the critical, intellectual labor as well as biases that become ‘hidden’ in data and algorithms-both analytical and generative
 Analytical Thinking #2
 High
