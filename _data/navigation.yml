@@ -9,7 +9,7 @@ main:
     url: /requirements/
   - title: "outcomes"
     url: /outcomes/   
-  - title: "Tags"
-    url: /tags/
+  - title: "Posts"
+    url: /posts/
   - title: "Archive"
     url: /archive/
