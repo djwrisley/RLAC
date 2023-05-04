@@ -4,7 +4,8 @@ permalink: /schedule/
 author_profile: false
 ---
 
-[Week 1](https://daahnyuad.github.io/schedule/#week-1)  [Week 2](https://daahnyuad.github.io/schedule/#week-2)  [Week 3](https://daahnyuad.github.io/schedule/#week-3)  [Week 4](https://daahnyuad.github.io/schedule/#week-4)  [Week 5](https://daahnyuad.github.io/schedule/#week-5) 
+[Week 1](https://daahnyuad.github.io/schedule/#week-1)  [Week 2](https://daahnyuad.github.io/schedule/#week-2)  [Week 3](https://daahnyuad.github.io/schedule/#week-3)  [Week 4](https://daahnyuad.github.io/schedule/#week-4)  [Week 5](https://daahnyuad.github.io/schedule/#week-5) [Week 6](https://daahnyuad.github.io/schedule/#week-6) [Week 7](https://daahnyuad.github.io/schedule/#week-7) [Week 8](https://daahnyuad.github.io/schedule/#week-8) [Week 9](https://daahnyuad.github.io/schedule/#week-9) [Week 10](https://daahnyuad.github.io/schedule/#week-10) [Week 11](https://daahnyuad.github.io/schedule/#week-11) [Week 12](https://daahnyuad.github.io/schedule/#week-12) [Week 13](https://daahnyuad.github.io/schedule/#week-13) [Week 14](https://daahnyuad.github.io/schedule/#week-14) [Week 15](https://daahnyuad.github.io/schedule/#week-15) 
+
 
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 
