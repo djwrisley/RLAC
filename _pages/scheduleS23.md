@@ -35,7 +35,10 @@ Thurs, 2 Feb 		Posner, "How Did They Make That"  [blog] 2014.
 Agenda			The Making and Knowing Project
 DLN: You will each make a digital literacy narrative. You can publish it to your site as a page located anywhere.  (due date 25 Feb)  Check out some generated DLNs here. DLN Assignment instructions  A rubric will not be made for this assignment since it is ungraded in the first step. 
 
-Week 3		Data and Metadata in the Arts and Humanities 1 
+### Week 3
+
+Data and Metadata in the Arts and Humanities 1 
+
 Tues, 7 Feb		Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 
 3:35PM-6:15PM	April 2018.
 Agenda			Drucker, ch 2 (19-33) & 4 (52-69)
@@ -58,8 +61,12 @@ In collaboration with Love Data Month and NYUAD Library (location NYUAD
 
 
 ASSIGNMENT 1 : Working with the metadata for an item in the Digital Library of the Middle East. For this assignment you will find two or three items from different collections in the DLME, you will discuss their metadata, do research to complete the metadata where possible and discuss how your virtual reunification of these objects allows us to see them together in a new light. You can be as creative or analytical as you like.  Due: 2 March  (revised). A detailed description of the exercise, guiding questions, and requirements will be provided.  
-TEXTUAL
-Week 4		Textual Bodies
+
+## UNIT 2: TEXTUAL
+
+### Week 4
+
+Textual Bodies
 Tues, 14 Feb		Drucker, ch 7, 110-120.
 3:35PM-6:15PM	Clark et al, "What's Trending in the Chinese Google Books Corpus" Global 
 			Debates in the Digital Humanities, 2022
@@ -90,9 +97,10 @@ Thurs, 23 Feb		Generative text & GPT
 			Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. 
 Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020
 
-SPATIAL 
+## UNIT 3: SPATIAL 
 
-			Spatial Horizons
+Spatial Horizons
+
 Tues, 28 Feb		Drucker, ch 8, 130-150
 3:35PM-6:15PM	Exploring Spatial Projects
 Journal Club: 5-6pm  Robert Ackland & Ann Evans, “Using the web to examine the evolution of the abortion debate in Australia, 2005–2015” at The Web as History.
@@ -120,8 +128,11 @@ Agenda			Journal of International Affairs 16.2(2015): 91-101.
 			Exploring Humanitarian OSM 
 
 ***BREAK 15-22 March*** 
+
 *** on or around 23 March, Ramadan begins ***
-		Culture on the z-Axis
+
+Culture on the z-Axis
+
 Thurs, 23 Mar		Drucker, ch 9, 151-171.
 3:35PM-4:50PM	Web resources: Thingiverse, 3duniverse, 3dwarehouse, Yeggi
 Agenda			Nieves, "Digital Queer Witnessing," The Digital Black Atlantic, 2021, 58-68.
@@ -146,7 +157,8 @@ Thurs, 30 Mar		Tissen, "3d Printing and the Art World: Current Developments and 
 
 	Optional event: Unlocking Archives with AI 2, Iftar and presentation (640-940pm) 
 
-IMAGE  
+## UNIT 4: IMAGE  
+
 		Image Collections 
 			
 Tues 4 Apr		Lab: WCMA digital project | Selfie City | Photogrammar | MoMA photography | 
@@ -193,9 +205,10 @@ Palestine Open Maps is a collection of historical maps of Palestine. In this wor
 Optional talk: "Open data and knowledge stewardship, the case of Palestine Open Maps" (Majd Shihadi, University of Toronto) Thursday, 20 April, 12-130pm location TBA
 
 
-TOWARDS DIGITAL PROJECT WORK
+## UNIT 5: TOWARDS DIGITAL PROJECT WORK
 
-	Data and Metadata in the Arts and Humanities 2 
+Data and Metadata in the Arts and Humanities 2 
+
 Tues, 25 April 		Cleaning Data: Sublime or Mundane?
 3:35PM-6:15PM	Vetter, "Why you need to understand Wikidata, no matter what field you're in", 
 			2021.
@@ -226,6 +239,6 @@ Tues, 9 May 		group work
 Thurs, 11 May 		final presentations 
 Final portfolio   
 
-All work is due Sunday, May 14, 11:59pm.
+**All work is due Sunday, May 14, 11:59pm.**
 
 
