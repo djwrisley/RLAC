@@ -28,7 +28,7 @@ This exercise has two main elements: (1) illustrating how federated libraries ca
 
 **OMITTED STEP 2b (2 March)**: For images, you need to take a single screenshot (either of the two images together in Mirador or otherwise placed along side of each other), rename that file and place it in the assets folder of your Github pages site. Insert the following line where you want the image to show up in the body of the .md file of your assignment:
 
-<img src="/assets/{filename}.png" style="zoom:50%"/>
+> <img src="/assets/{filename}.png" style="zoom:50%"/>
 
 Use the zoom percentage to size the file. An example of the code of one of your instructor's research projects can be found [here](https://raw.githubusercontent.com/parisbible/parisbible.github.io/main/_posts/2022-10-31-bible-hunting-Italy.md)
 
