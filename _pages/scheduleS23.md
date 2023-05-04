@@ -9,18 +9,15 @@ author_profile: false
 ### Week 1		
 
 Digital Arts and Humanities: innovation, creativity & contexts
-	
 
 | Time/Date | Reading | Activity |
 | Tues, 24 Jan (3:35PM-6:15PM) | -Drucker, ch 1, 1-18. <br> -Loudon, "Creativity Can Be the Bridge", The Conversation, 16 October 2018 <br> -Rogers, So You want to make a DH Website | Lab on Web Publishing Alternatives: Github Pages, Hypotheses, Web Hosting (WordPress), Notion, Vercel, NYU WP, Humanities Commons. |
+| Thurs, 26 Jan	(3:35PM-4:50PM) | -Schneider, "Why Digital Humanities", Politics East Asia, 4 November 2013.<br> -Sneha, "Mapping Digital Humanities in India" CIS Bangalore, 2016, 5-14, 52-57. <br> -Kidd, "Nobody Cares about your blog!" 2022. | discussion |
 
+### Week 2		
 
+Making and Project-Based Thinking 
 
-Thurs, 26 Jan		Schneider, "Why Digital Humanities", Politics East Asia, 4 November 2013.
-3:35PM-4:50PM	Sneha, "Mapping Digital Humanities in India" CIS Bangalore, 2016, 5-14, 52-57.
-agenda			Kidd, "Nobody Cares about your blog!" 2022. 
-
-Week 2		Making and Project-Based Thinking 
 Tues, 31 Jan		Berry/Fagerjord, “On the Way to Computational Thinking,” Digital Humanities: 
 3:35PM-6:15PM	Knowledge and Critique in the Digital Age, 2017, 40-59. 
 Agenda			Lab: 
