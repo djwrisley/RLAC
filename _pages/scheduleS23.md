@@ -9,13 +9,12 @@ author_profile: false
 ### Week 1		
 
 Digital Arts and Humanities: innovation, creativity & contexts
+	
 
-Tues, 24 Jan (3:35PM-6:15PM)	
+| Time/Date | Reading | Lab Activity |
+| Tues, 24 Jan (3:35PM-6:15PM) | Drucker, ch 1, 1-18.  
+Loudon, "Creativity Can Be the Bridge", The Conversation, 16 October 2018. Rogers, So You want to make a DH Website | Web Publishing Alternatives: Github Pages, Hypotheses, Web Hosting (WordPress), Notion, Vercel, NYU WP, Humanities Commons. |
 
-| Reading | Lab Activity |
-| Drucker, ch 1, 1-18.  
-Loudon, "Creativity Can Be the Bridge", The Conversation, 16 October 2018.
-Rogers, So You want to make a DH Website | Web Publishing Alternatives: Github Pages, Hypotheses, Web Hosting (WordPress), Notion, Vercel, NYU WP, Humanities Commons. |
 
 
 Thurs, 26 Jan		Schneider, "Why Digital Humanities", Politics East Asia, 4 November 2013.
