@@ -12,8 +12,7 @@ Digital Arts and Humanities: innovation, creativity & contexts
 	
 
 | Time/Date | Reading | Lab Activity |
-| Tues, 24 Jan (3:35PM-6:15PM) | Drucker, ch 1, 1-18.  
-Loudon, "Creativity Can Be the Bridge", The Conversation, 16 October 2018. Rogers, So You want to make a DH Website | Web Publishing Alternatives: Github Pages, Hypotheses, Web Hosting (WordPress), Notion, Vercel, NYU WP, Humanities Commons. |
+| Tues, 24 Jan (3:35PM-6:15PM) | -Drucker, ch 1, 1-18. -Loudon, "Creativity Can Be the Bridge", The Conversation, 16 October 2018 -Rogers, So You want to make a DH Website | Web Publishing Alternatives: Github Pages, Hypotheses, Web Hosting (WordPress), Notion, Vercel, NYU WP, Humanities Commons. |
 
 
 
