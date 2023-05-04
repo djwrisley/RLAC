@@ -24,6 +24,7 @@ Digital Arts and Humanities: innovation, creativity & contexts
 
 Making and Project-Based Thinking 
 
+| Time/Date | Reading | Activity |
 Tues, 31 Jan		Berry/Fagerjord, “On the Way to Computational Thinking,” Digital Humanities: 
 3:35PM-6:15PM	Knowledge and Critique in the Digital Age, 2017, 40-59. 
 Agenda			Lab: 
@@ -40,6 +41,7 @@ DLN: You will each make a digital literacy narrative. You can publish it to your
 
 Data and Metadata in the Arts and Humanities 1 
 
+| Time/Date | Reading | Activity |
 Tues, 7 Feb		Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 
 3:35PM-6:15PM	April 2018.
 Agenda			Drucker, ch 2 (19-33) & 4 (52-69)
@@ -49,6 +51,7 @@ Agenda			Drucker, ch 2 (19-33) & 4 (52-69)
 			Lab: Asking questions of cultural databases and their bias
 			Digital Library of the Middle East 
 			Notebook: Exploring the Harvard Art Museums API 
+
 
 
 Thurs, 9 Feb 		D'Ignazio/Klein, "Why Data Science Needs Feminism" and "The Numbers Don't 
@@ -68,6 +71,8 @@ ASSIGNMENT 1 : Working with the metadata for an item in the Digital Library of t
 ### Week 4
 
 Textual Bodies
+
+| Time/Date | Reading | Activity |
 Tues, 14 Feb		Drucker, ch 7, 110-120.
 3:35PM-6:15PM	Clark et al, "What's Trending in the Chinese Google Books Corpus" Global 
 			Debates in the Digital Humanities, 2022
@@ -84,7 +89,12 @@ Clark et al, "What's Trending in the Chinese Google Books Corpus" Global
 			Lab:  Text Mining: Easy to Less Easy Google NGram Viewer | Bookworm | 
 			Voyant | AntConc | Docuscope | CLiC
 Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast]
-		Text as Data 
+
+### Week 5
+
+Text as Data 
+
+| Time/Date | Reading | Activity |
 Tues, 21 Feb		Drucker, ch 6, 86-109.
 3:35PM-6:15PM	Text as Data podcast 
 (zoom)			Lab Notebook: Identifying Most Distinctive Words in Three (Sets of) Texts: 
@@ -100,8 +110,11 @@ Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cult
 
 ## UNIT 3: SPATIAL 
 
+### Week 6
+
 Spatial Horizons
 
+| Time/Date | Reading | Activity |
 Tues, 28 Feb		Drucker, ch 8, 130-150
 3:35PM-6:15PM	Exploring Spatial Projects
 Journal Club: 5-6pm  Robert Ackland & Ann Evans, “Using the web to examine the evolution of the abortion debate in Australia, 2005–2015” at The Web as History.
@@ -111,8 +124,11 @@ Thurs, 2 Mar 		Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 
 Agenda			Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107.
 			An Introduction to UMap | Kepler | Maps as Data
 
+### Week 7
+
 Map Visualization
-		
+
+| Time/Date | Reading | Activity |
 Tues, 7 Mar		Watch: Linked Maps and Spatial Searching 
 3:35PM-6:15PM	Read: A growing problem of deepfake geography
 Agenda			Read: Deep fake satellite imagery poses a not-so-distant threat
@@ -132,8 +148,11 @@ Agenda			Journal of International Affairs 16.2(2015): 91-101.
 
 *** on or around 23 March, Ramadan begins ***
 
+### Week 8 
+
 Culture on the z-Axis
 
+| Time/Date | Reading | Activity |
 Thurs, 23 Mar		Drucker, ch 9, 151-171.
 3:35PM-4:50PM	Web resources: Thingiverse, 3duniverse, 3dwarehouse, Yeggi
 Agenda			Nieves, "Digital Queer Witnessing," The Digital Black Atlantic, 2021, 58-68.
@@ -150,11 +169,11 @@ Tues, 28 Mar 		Lab: Finding Global Culture in 3d printing
 
 	Optional event: Unlocking Archives with AI 1, Iftar and presentation (640-845pm) 
 
+### Week 9 
 
-
+| Time/Date | Reading | Activity |
 Thurs, 30 Mar		Tissen, "3d Printing and the Art World: Current Developments and Future 
 3:35PM-4:50PM	Perspectives", Advances in 3d Printing, 2022.
-
 
 	Optional event: Unlocking Archives with AI 2, Iftar and presentation (640-940pm) 
 
@@ -210,21 +229,18 @@ Optional talk: "Open data and knowledge stewardship, the case of Palestine Open 
 
 Data and Metadata in the Arts and Humanities 2 
 
-Tues, 25 April 		Cleaning Data: Sublime or Mundane?
-3:35PM-6:15PM	Vetter, "Why you need to understand Wikidata, no matter what field you're in", 
-			2021.
-Rawson/Muñoz, "Against Cleaning", Debates in the Digital Humanities, 2019, 279-292
-Lab: OpenRefine and Wikidata
-
-Thurs, 27 April 		Drucker, ch 5, 70-85. 
-3:35PM-4:50PM	Demo of reveal.js 
-
-			Planning and scoping final un-projects
+| Time/Date | Reading | Activity |
+| Tues, 25 April 3:35PM-6:15PM	| <br> -Vetter, "Why you need to understand Wikidata, no matter what field you're in", 2021. <br> -Rawson/Muñoz, "Against Cleaning", Debates in the Digital Humanities, 2019, 279-292 | Lab: OpenRefine and Wikidata | 
+| Thurs, 27 April 3:35PM-4:50PM | 	<br> -Drucker, ch 5, 70-85. | <br> -Demo of reveal.js  <br> -Planning and scoping final un-projects |
 
 
 Final "unproject":  Due 13 May.  Instructions here. 
 
+### Week xxx
+
 On the Social in Digital Arts and Humanities
+
+| Time/Date | Reading | Activity |
 Tues, 2 May 		Siemens, "It's a Team if you use 'Reply all'", Linguistic and Literary Computing 
 3:35PM-6:15PM	24.2(2009): 225-232.
 Nowviskie, On Capacity and Care, Debates in the Digital Humanities, 2019, 424-426.
@@ -236,9 +252,12 @@ Thurs, 4 May 		group work
 3:35PM-4:50PM
 		Wrap up
 
+### Week xyz
+
 Tues, 9 May 		group work
 Thurs, 11 May 		final presentations 
-Final portfolio   
+
+  
 
 **All work is due Sunday, May 14, 11:59pm.**
 
