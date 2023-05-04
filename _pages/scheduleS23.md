@@ -37,6 +37,8 @@ Thurs, 2 Feb 		Posner, "How Did They Make That"  [blog] 2014.
 Agenda			The Making and Knowing Project
 DLN: You will each make a digital literacy narrative. You can publish it to your site as a page located anywhere.  (due date 25 Feb)  Check out some generated DLNs here. DLN Assignment instructions  A rubric will not be made for this assignment since it is ungraded in the first step. 
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
 ### Week 3
 
 Data and Metadata in the Arts and Humanities 1 
@@ -52,8 +54,6 @@ Agenda			Drucker, ch 2 (19-33) & 4 (52-69)
 			Digital Library of the Middle East 
 			Notebook: Exploring the Harvard Art Museums API 
 
-
-
 Thurs, 9 Feb 		D'Ignazio/Klein, "Why Data Science Needs Feminism" and "The Numbers Don't 
 3:35PM-4:50PM	Speak for Themselves", Data Feminism, 16 March 2020.
 Agenda			Mindscape [podcast], Catherine D'Ignazio on Data Objectivity and Bias
@@ -62,6 +62,8 @@ Agenda			Mindscape [podcast], Catherine D'Ignazio on Data Objectivity and Bias
 			Prepare two questions for the general discussion and put them in the class space.. 
 In collaboration with Love Data Month and NYUAD Library (location NYUAD 
 	Library, room 329), session led by Suphan Kirmizialtin
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
 ASSIGNMENT 1 : Working with the metadata for an item in the Digital Library of the Middle East. For this assignment you will find two or three items from different collections in the DLME, you will discuss their metadata, do research to complete the metadata where possible and discuss how your virtual reunification of these objects allows us to see them together in a new light. You can be as creative or analytical as you like.  Due: 2 March  (revised). A detailed description of the exercise, guiding questions, and requirements will be provided.  
@@ -90,6 +92,9 @@ Clark et al, "What's Trending in the Chinese Google Books Corpus" Global
 			Voyant | AntConc | Docuscope | CLiC
 Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast]
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
+
 ### Week 5
 
 Text as Data 
@@ -108,6 +113,8 @@ Thurs, 23 Feb		Generative text & GPT
 			Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. 
 Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
 ## UNIT 3: SPATIAL 
 
 ### Week 6
@@ -123,6 +130,8 @@ Thurs, 2 Mar 		Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 
 3:35PM-4:50PM	Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116
 Agenda			Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107.
 			An Introduction to UMap | Kepler | Maps as Data
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 ### Week 7
 
@@ -144,9 +153,11 @@ Thurs, 9 Mar 		Guest speaker: Mary Michael (UCSB) "What can data be?"
 Agenda			Journal of International Affairs 16.2(2015): 91-101.	
 			Exploring Humanitarian OSM 
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
 ***BREAK 15-22 March*** 
 
-*** on or around 23 March, Ramadan begins ***
+***on or around 23 March, Ramadan begins***
 
 ### Week 8 
 
@@ -169,6 +180,8 @@ Tues, 28 Mar 		Lab: Finding Global Culture in 3d printing
 
 	Optional event: Unlocking Archives with AI 1, Iftar and presentation (640-845pm) 
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
 ### Week 9 
 
 | Time/Date | Reading | Activity |
@@ -176,6 +189,9 @@ Thurs, 30 Mar		Tissen, "3d Printing and the Art World: Current Developments and 
 3:35PM-4:50PM	Perspectives", Advances in 3d Printing, 2022.
 
 	Optional event: Unlocking Archives with AI 2, Iftar and presentation (640-940pm) 
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
 
 ## UNIT 4: IMAGE  
 
@@ -196,7 +212,11 @@ In class exploration: ARt Image Exploration Space for manual alignment using two
 
 ASSIGNMENT 3:  Analyzing your custom image corpora with Orange. Due 4 May. Instructions here. 
 
-		Computational approaches to image 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
+
+Computational approaches to image 
+
 Tues, 11 Apr 		Orange Data Mining for image classification
 3:35PM-6:15PM	Lab: Working with Datasets of Arabic Book & Magazine Covers, VanGogh 
 			paintings, Flickr Faces, Yoga Poses, Wikiart self-portraits, Ebony Magazine 
@@ -209,6 +229,7 @@ Thurs, 13 Apr 		Group Ideation for Final "Unproject"
 (guest instructor)	open access > read open access > ch 2 Emerging Methods and Genres, page 35 
 			in chapter pdf.
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
 Tues, 18 April		Junginger et al, "The Close-up Cloud" Journal of Digital Art History, 2020
@@ -224,6 +245,8 @@ Palestine Open Maps is a collection of historical maps of Palestine. In this wor
 
 Optional talk: "Open data and knowledge stewardship, the case of Palestine Open Maps" (Majd Shihadi, University of Toronto) Thursday, 20 April, 12-130pm location TBA
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
 
 ## UNIT 5: TOWARDS DIGITAL PROJECT WORK
 
@@ -235,6 +258,8 @@ Data and Metadata in the Arts and Humanities 2
 
 
 Final "unproject":  Due 13 May.  Instructions here. 
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 ### Week xxx
 
@@ -252,6 +277,9 @@ Thurs, 4 May 		group work
 3:35PM-4:50PM
 		Wrap up
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
+
 ### Week xyz
 
 Tues, 9 May 		group work
@@ -262,3 +290,4 @@ Thurs, 11 May 		final presentations
 **All work is due Sunday, May 14, 11:59pm.**
 
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
