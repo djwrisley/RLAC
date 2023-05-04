@@ -25,12 +25,7 @@ Digital Arts and Humanities: innovation, creativity & contexts
 Making and Project-Based Thinking 
 
 | Time/Date | Reading | Activity |
-Tues, 31 Jan		Berry/Fagerjord, “On the Way to Computational Thinking,” Digital Humanities: 
-3:35PM-6:15PM	Knowledge and Critique in the Digital Age, 2017, 40-59. 
-Agenda			Lab: 
-			Working on our own blogs / pushing material to them using GitHub Desktop
-Introduction to RStudio and RStudio Cloud (posit cloud)
-	Humanities Data Fundamentals
+| Tues, 31 Jan 3:35PM-6:15PM |	Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/1quXS42vdwv0B4xBjzzvHgrkbLS9UVV56/view?usp=sharing),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. | Lab: <br> -Working on our own blogs / pushing material to them using GitHub Desktop <br> -Introduction to RStudio and RStudio.cloud (Posit.cloud) <br> -[Humanities Data Fundamentals](https://hdf.benschmidt.org/) | 
 
 Thurs, 2 Feb 		Posner, "How Did They Make That"  [blog] 2014.	
 3:35PM-4:50PM	Chachra, "Why I am Not a Maker" The Atlantic, 23 January 2015. Full text here 
