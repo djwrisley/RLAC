@@ -17,7 +17,7 @@ Digital Arts and Humanities: innovation, creativity & contexts
 | Tues, 24 Jan (3:35PM-6:15PM) | -Drucker, ch 1, 1-18. <br> -Loudon, "[Creativity Can Be the Bridge](https://theconversation.com/creativity-can-be-the-bridge-between-science-and-humanities-education-99610)", The Conversation, 16 October 2018 <br> -Rogers, [So You want to make a DH Website](http://www.kelseymarierogers.com/tutorial/2018/02/24/digital-humanities-platforms.html) | Lab on Web Publishing Alternatives: Github Pages, [Google Sites](https://workspace.google.com/products/sites/), [Hypotheses](https://hypotheses.org/), [NYU Web Hosting (WordPress)](https://hosting.nyu.edu/), [Notion](https://www.notion.so/), [Vercel](https://vercel.com/), [NYU WP](https://wp.nyu.edu/), [Humanities Commons](https://hcommons.org/). |
 | Thurs, 26 Jan	(3:35PM-4:50PM) | -Schneider, "[Why Digital Humanities](http://www.politicseastasia.com/research/digital-nationalism/digital-humanities/)", Politics East Asia, 4 November 2013.<br> -Sneha, "[Mapping Digital Humanities in India](https://cis-india.org/papers/mapping-digital-humanities-in-india)" CIS Bangalore, 2016, 5-14, 52-57. <br> -Kidd, "[Nobody Cares about your blog!](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)" 2022. | discussion |
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 ### Week 2		
 
