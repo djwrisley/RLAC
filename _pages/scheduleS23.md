@@ -14,7 +14,7 @@ author_profile: false
 
 Digital Arts and Humanities: innovation, creativity & contexts
 
-| Time/Date | Reading | Activity |
+| Time/Date | Reading/Material | Activity |
 | Tues, 24 Jan (3:35PM-6:15PM) | -Drucker, ch 1, 1-18. <br> -Loudon, "[Creativity Can Be the Bridge](https://theconversation.com/creativity-can-be-the-bridge-between-science-and-humanities-education-99610)", The Conversation, 16 October 2018 <br> -Rogers, [So You want to make a DH Website](http://www.kelseymarierogers.com/tutorial/2018/02/24/digital-humanities-platforms.html) | Lab on Web Publishing Alternatives: Github Pages, [Google Sites](https://workspace.google.com/products/sites/), [Hypotheses](https://hypotheses.org/), [NYU Web Hosting (WordPress)](https://hosting.nyu.edu/), [Notion](https://www.notion.so/), [Vercel](https://vercel.com/), [NYU WP](https://wp.nyu.edu/), [Humanities Commons](https://hcommons.org/). |
 | Thurs, 26 Jan	(3:35PM-4:50PM) | -Schneider, "[Why Digital Humanities](http://www.politicseastasia.com/research/digital-nationalism/digital-humanities/)", Politics East Asia, 4 November 2013.<br> -Sneha, "[Mapping Digital Humanities in India](https://cis-india.org/papers/mapping-digital-humanities-in-india)" CIS Bangalore, 2016, 5-14, 52-57. <br> -Kidd, "[Nobody Cares about your blog!](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)" 2022. | discussion |
 
@@ -24,10 +24,9 @@ Digital Arts and Humanities: innovation, creativity & contexts
 
 Making and Project-Based Thinking 
 
-| Time/Date | Reading | Activity |
-| Tues, 31 Jan 3:35PM-6:15PM |	Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/1quXS42vdwv0B4xBjzzvHgrkbLS9UVV56/view?usp=sharing),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. | Lab: <br> -Working on our own blogs / pushing material to them using GitHub Desktop <br> -Introduction to RStudio and RStudio.cloud (Posit.cloud) <br> -[Humanities Data Fundamentals](https://hdf.benschmidt.org/) | 
-
-| Thurs, 2 Feb 	3:35PM-4:50PM |	<br> -Posner, "How Did They Make That" 2014. <br> -Chachra, "Why I am Not a Maker" The Atlantic, 23 January 2015. Full text here <br> -The Making and Knowing Project |
+| Time/Date | Reading/Material | Activity |
+| Tues, 31 Jan 3:35PM-6:15PM |	<br> -Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/1quXS42vdwv0B4xBjzzvHgrkbLS9UVV56/view?usp=sharing),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. <br> -[Humanities Data Fundamentals](https://hdf.benschmidt.org/)| Lab: <br> -Working on our own blogs / pushing material to them using GitHub Desktop <br> -Introduction to RStudio and RStudio.cloud (Posit.cloud) | 
+| Thurs, 2 Feb 	3:35PM-4:50PM |	<br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -The Making and Knowing Project | discussion | 
 
 **Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/)** Due Date 2 March, 20% final grade.
 {: .notice}
