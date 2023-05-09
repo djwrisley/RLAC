@@ -80,14 +80,8 @@ Text as Data
 Spatial Horizons
 
 | Time/Date | Reading | Activity |
-Tues, 28 Feb		Drucker, ch 8, 130-150
-3:35PM-6:15PM	Exploring Spatial Projects
-Journal Club: 5-6pm  Robert Ackland & Ann Evans, “Using the web to examine the evolution of the abortion debate in Australia, 2005–2015” at The Web as History.
-
-Thurs, 2 Mar 		Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. 
-3:35PM-4:50PM	Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116
-Agenda			Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107.
-			An Introduction to UMap | Kepler | Maps as Data
+| Tues, 28 Feb 3:35PM-6:15PM |	<br> -Drucker, ch 8, 130-150 | Exploring Spatial Projects | 
+| Thurs, 2 Mar 3:35PM-4:50PM |	<br> -Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. <br> -Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116 <br> -Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107. | An Introduction to UMap / Kepler / Maps as Data |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
