@@ -81,7 +81,7 @@ Spatial Horizons
 
 | Time/Date | Reading | Activity |
 | Tues, 28 Feb 3:35PM-6:15PM |	<br> -Drucker, ch 8, 130-150 | Exploring Spatial Projects | 
-| Thurs, 2 Mar 3:35PM-4:50PM |	<br> -Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. <br> -Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116 <br> -Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107. | An Introduction to UMap / Kepler / Maps as Data |
+| Thurs, 2 Mar 3:35PM-4:50PM |	<br> -Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. (in drive) <br> -Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116 (in drive) <br> -Wrisley, "[Spatial Humanities](https://archive.nyu.edu/handle/2451/43476)", Porphyra 22(2014): 96-107. | An Introduction to [UMap](http://umap.openstreetmap.fr/en/) / [Kepler](https://kepler.gl/) / [Maps as Data](https://hdf.benschmidt.org/R/mapping/) |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
@@ -90,20 +90,8 @@ Spatial Horizons
 Map Visualization
 
 | Time/Date | Reading | Activity |
-Tues, 7 Mar		Watch: Linked Maps and Spatial Searching 
-3:35PM-6:15PM	Read: A growing problem of deepfake geography
-Agenda			Read: Deep fake satellite imagery poses a not-so-distant threat
-			Listen: Fake Satellite Imagery 
-			Lab: (1) Make an OpenStreetMap account here. Visualizing previous datasets in 
-			UMap (2) Using code to make maps with leaflet.js (3) Making your own fantasy 
-			map for world building (4) Adding an interactive map to Wikipedia 
-			in Your Language 
-			 
-
-Thurs, 9 Mar 		Guest speaker: Mary Michael (UCSB) "What can data be?" 
-3:35PM-4:50PM	Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown 
-Agenda			Journal of International Affairs 16.2(2015): 91-101.	
-			Exploring Humanitarian OSM 
+| Tues, 7 Mar 3:35PM-6:15PM	| <br> -Watch: Linked Maps and Spatial Searching <br> -Read: A growing problem of deepfake geography <br> -Read: Deep fake satellite imagery poses a not-so-distant threat <br> -Listen: Fake Satellite Imagery | Lab: <br> -Make an OpenStreetMap account here. <br> -Visualizing previous datasets in UMap <br> -Using code to make maps with leaflet.js <br> -Making your own fantasy map for world building <br> -Adding an interactive map to Wikipedia in your Language |
+| Thurs, 9 Mar 3:35PM-4:50PM |  <br> -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101. <br> -Exploring Humanitarian OSM | Guest speaker: Mary Michael (UCSB) "What can data be?" |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
@@ -225,21 +213,21 @@ Burdick et al. "The Social Lives of Digital Humanities," Digital_Humanities, 201
 Drucker, ch 12, 211-225. 
 group work 
 
-Thurs, 4 May 		group work 
-3:35PM-4:50PM
-		Wrap up
+| Thurs, 4 May 3:35PM-4:50PM | group work |
+
+Wrap up
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
 ### Week xyz
 
-Tues, 9 May 		group work
-Thurs, 11 May 		final presentations 
-
+| Tues, 9 May 3:35PM-6:15PM | group work |
+| Thurs, 11 May 3:35PM-4:50PM | final presentations |
   
 
 **All work is due Sunday, May 14, 11:59pm.**
+{: .notice}
 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
