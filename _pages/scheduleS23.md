@@ -38,10 +38,8 @@ Making and Project-Based Thinking
 Data and Metadata in the Arts and Humanities 1 
 
 | Time/Date | Reading | Activity |
-Tues, 7 Feb		Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 
-3:35PM-6:15PM	April 2018.
-Agenda			Drucker, ch 2 (19-33) & 4 (52-69)
-			De Bastion/Mukku, Data and the Global South, 2020.
+| Tues, 7 Feb 3:35PM-6:15PM | <br> -Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 April 2018. <br> -Drucker, ch 2 (19-33) & 4 (52-69) <br> -De Bastion/Mukku, Data and the Global South, 2020.
+
 			metadata | API | discoverability | federated database | IIIF
 
 			Lab: Asking questions of cultural databases and their bias
