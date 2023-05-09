@@ -40,19 +40,16 @@ Data and Metadata in the Arts and Humanities 1
 | Time/Date | Reading | Activity |
 | Tues, 7 Feb 3:35PM-6:15PM | <br> -Broman/Woo "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", The American Statistician, 24 April 2018. <br> -Drucker, ch 2 (19-33) & 4 (52-69) <br> -De Bastion/Mukku, [Data and the Global South](https://us.boell.org/en/2020/10/20/data-and-global-south-key-issues-inclusive-digital-development), 2020. <br> -metadata / API / discoverability / federated database / IIIF | Lab: <br> -Asking questions of cultural databases and their bias <br> -Digital Library of the Middle East <br> -Notebook: Exploring the Harvard Art Museums API | 
 
-| Thurs, 9 Feb 	3:35PM-4:50PM |	<br> -D'Ignazio/Klein, "[Why Data Science Needs Feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6?readingCollection=0cd867ef)" and "[The Numbers Don't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3)", Data Feminism, 16 March 2020.
-<br> -Mindscape [podcast], [Catherine D'Ignazio on Data Objectivity and Bias](https://www.preposterousuniverse.com/podcast/2021/07/19/156-catherine-dignazio-on-data-objectivity-and-bias/)
-<br> -Data & Society [podcast] [Data Feminism](https://datasociety.net/library/data-feminism/) | In collaboration with Love Data Month and NYUAD Library (location NYUAD Library, room 329), session led by Suphan Kirmizialtin | 
+| Thurs, 9 Feb 	3:35PM-4:50PM |	<br> -D'Ignazio/Klein, "[Why Data Science Needs Feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6?readingCollection=0cd867ef)" and "[The Numbers Don't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3)", Data Feminism, 16 March 2020. <br> -Mindscape [podcast], [Catherine D'Ignazio on Data Objectivity and Bias](https://www.preposterousuniverse.com/podcast/2021/07/19/156-catherine-dignazio-on-data-objectivity-and-bias/) <br> -Data & Society [podcast] [Data Feminism](https://datasociety.net/library/data-feminism/) | In collaboration with Love Data Month and NYUAD Library (location NYUAD Library, room 329), session led by Suphan Kirmizialtin | 
 
 **Prepare two questions for the general discussion and put them in the class space.**
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-**ASSIGNMENT 1 Instructions [here](https://daahnyuad.github.io/blog//)** Due Date 2 March, 20% final grade.
+**ASSIGNMENT 1 Instructions [here](https://daahnyuad.github.io/blog/DLME-Assignment1-S23/)** Due Date 2 March, 20% final grade.
 {: .notice}
-
-**ASSIGNMENT 1** : Working with the metadata for an item in the Digital Library of the Middle East. For this assignment you will find two or three items from different collections in the DLME, you will discuss their metadata, do research to complete the metadata where possible and discuss how your virtual reunification of these objects allows us to see them together in a new light. You can be as creative or analytical as you like.  Due: 2 March  (revised).   
+  
 
 ## UNIT 2: TEXTUAL
 
@@ -61,22 +58,9 @@ Data and Metadata in the Arts and Humanities 1
 Textual Bodies
 
 | Time/Date | Reading | Activity |
-Tues, 14 Feb		Drucker, ch 7, 110-120.
-3:35PM-6:15PM	Clark et al, "What's Trending in the Chinese Google Books Corpus" Global 
-			Debates in the Digital Humanities, 2022
-			Lab:  Text Mining: Easy to Less Easy Google NGram Viewer | Bookworm | 
-			Voyant | AntConc | Docuscope | CLiC
-Journal Club: 5-6pm Daniel Rosenberg, “Data Before the Fact” in Raw Data is an Oxymoron
+| Tues, 14 Feb 3:35PM-6:15PM | <br> -Drucker, ch 7, 110-120. <br> -Clark et al, "What's Trending in the Chinese Google Books Corpus" Global Debates in the Digital Humanities, 2022 | Lab:  Text Mining: Easy to Less Easy Google NGram Viewer / Bookworm / Voyant / AntConc / Docuscope / CLiC | 
  
-Thurs, 16 Feb 		Ramsey, "In Praise of Pattern," TEXT Technology 14.2(2005). 
-3:35PM-4:50PM	Klein, "Distant Reading after Moretti" [blog] 2018. 
-			Miller, "Using GPT on Library Collections", 2023. 
-Agenda	
-Clark et al, "What's Trending in the Chinese Google Books Corpus" Global 
-	Debates in the Digital Humanities, 2022
-			Lab:  Text Mining: Easy to Less Easy Google NGram Viewer | Bookworm | 
-			Voyant | AntConc | Docuscope | CLiC
-Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast]
+| Thurs, 16 Feb 3:35PM-4:50PM | <br> -Ramsey, "In Praise of Pattern," TEXT Technology 14.2(2005). <br> -Klein, "Distant Reading after Moretti" [blog] 2018. <br> -Miller, "Using GPT on Library Collections", 2023. <br> -Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast] | Discussion |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
@@ -86,18 +70,9 @@ Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast]
 Text as Data 
 
 | Time/Date | Reading | Activity |
-Tues, 21 Feb		Drucker, ch 6, 86-109.
-3:35PM-6:15PM	Text as Data podcast 
-(zoom)			Lab Notebook: Identifying Most Distinctive Words in Three (Sets of) Texts: 
-			Working with Two Genres: Children's Literature and Science Fiction 
+| Tues, 21 Feb	3:35PM-6:15PM (zoom) |	<br> -Drucker, ch 6, 86-109. <br> -Text as Data podcast | Lab Notebook: <br> -Identifying Most Distinctive Words in Three (Sets of) Texts <br> -Working with Two Genres: Children's Literature and Science Fiction 
 
-Thurs, 23 Feb		Generative text & GPT 
-3:35PM-4:50PM	Critical prompts for GPT with OpenAI and other APIs 
-(zoom)			Hardfork, Can ChatGPT write this podcast? (podcast)
-			chatGPT and the Sweatshops Powering the Digital Age (Nyabola)
-			Hardfork, Generative AI is here : who should control it? (podcast)	
-			Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. 
-Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020
+| Thurs, 23 Feb	3:35PM-4:50PM | Generative text & GPT | <br> -"Prompt engineering" for GPT with OpenAI and other APIs <br> -Hardfork, Can ChatGPT write this podcast? (podcast) <br> -chatGPT and the Sweatshops Powering the Digital Age (Nyabola) <br> -Hardfork, Generative AI is here : who should control it? (podcast) <br> -Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. <br> -Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020 | Discussion | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
