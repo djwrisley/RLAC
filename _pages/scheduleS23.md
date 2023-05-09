@@ -38,27 +38,21 @@ Making and Project-Based Thinking
 Data and Metadata in the Arts and Humanities 1 
 
 | Time/Date | Reading | Activity |
-| Tues, 7 Feb 3:35PM-6:15PM | <br> -Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 April 2018. <br> -Drucker, ch 2 (19-33) & 4 (52-69) <br> -De Bastion/Mukku, Data and the Global South, 2020.
+| Tues, 7 Feb 3:35PM-6:15PM | <br> -Broman/Woo "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", The American Statistician, 24 April 2018. <br> -Drucker, ch 2 (19-33) & 4 (52-69) <br> -De Bastion/Mukku, [Data and the Global South](https://us.boell.org/en/2020/10/20/data-and-global-south-key-issues-inclusive-digital-development), 2020. <br> -metadata / API / discoverability / federated database / IIIF | Lab: <br> -Asking questions of cultural databases and their bias <br> -Digital Library of the Middle East <br> -Notebook: Exploring the Harvard Art Museums API | 
 
-			metadata | API | discoverability | federated database | IIIF
+| Thurs, 9 Feb 	3:35PM-4:50PM |	<br> -D'Ignazio/Klein, "[Why Data Science Needs Feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6?readingCollection=0cd867ef)" and "[The Numbers Don't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3)", Data Feminism, 16 March 2020.
+<br> -Mindscape [podcast], [Catherine D'Ignazio on Data Objectivity and Bias](https://www.preposterousuniverse.com/podcast/2021/07/19/156-catherine-dignazio-on-data-objectivity-and-bias/)
+<br> -Data & Society [podcast] [Data Feminism](https://datasociety.net/library/data-feminism/) | In collaboration with Love Data Month and NYUAD Library (location NYUAD Library, room 329), session led by Suphan Kirmizialtin | 
 
-			Lab: Asking questions of cultural databases and their bias
-			Digital Library of the Middle East 
-			Notebook: Exploring the Harvard Art Museums API 
-
-Thurs, 9 Feb 		D'Ignazio/Klein, "Why Data Science Needs Feminism" and "The Numbers Don't 
-3:35PM-4:50PM	Speak for Themselves", Data Feminism, 16 March 2020.
-Agenda			Mindscape [podcast], Catherine D'Ignazio on Data Objectivity and Bias
-			Data & Society [podcast] Data Feminism  
-		
-			Prepare two questions for the general discussion and put them in the class space.. 
-In collaboration with Love Data Month and NYUAD Library (location NYUAD 
-	Library, room 329), session led by Suphan Kirmizialtin
+**Prepare two questions for the general discussion and put them in the class space.**
+{: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
+**ASSIGNMENT 1 Instructions [here](https://daahnyuad.github.io/blog//)** Due Date 2 March, 20% final grade.
+{: .notice}
 
-ASSIGNMENT 1 : Working with the metadata for an item in the Digital Library of the Middle East. For this assignment you will find two or three items from different collections in the DLME, you will discuss their metadata, do research to complete the metadata where possible and discuss how your virtual reunification of these objects allows us to see them together in a new light. You can be as creative or analytical as you like.  Due: 2 March  (revised). A detailed description of the exercise, guiding questions, and requirements will be provided.  
+**ASSIGNMENT 1** : Working with the metadata for an item in the Digital Library of the Middle East. For this assignment you will find two or three items from different collections in the DLME, you will discuss their metadata, do research to complete the metadata where possible and discuss how your virtual reunification of these objects allows us to see them together in a new light. You can be as creative or analytical as you like.  Due: 2 March  (revised).   
 
 ## UNIT 2: TEXTUAL
 
