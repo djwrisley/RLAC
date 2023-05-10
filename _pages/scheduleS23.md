@@ -104,66 +104,55 @@ Map Visualization
 Culture on the z-Axis
 
 | Time/Date | Reading | Activity |
-Thurs, 23 Mar		Drucker, ch 9, 151-171.
-3:35PM-4:50PM	Web resources: Thingiverse, 3duniverse, 3dwarehouse, Yeggi
-Agenda			Nieves, "Digital Queer Witnessing," The Digital Black Atlantic, 2021, 58-68.
+| Thurs, 23 Mar	3:35PM-4:50PM | <br> -Drucker, ch 9, 151-171. <br> -Web resources: Thingiverse, 3duniverse, 3dwarehouse, Yeggi
+Agenda			<br> -Nieves, "Digital Queer Witnessing," The Digital Black Atlantic, 2021, 58-68. | discussion |
 
+Digital Literacy Narrative Revision #1 Instructions here. Due 6 April. 5% final grade
+{: .notice}
 
-Digital Literacy Narrative Revision #1 : revised instructions in drive.  Due 6 April. 
-
-ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Due April 18. Instructions here. 
-
-
-Tues, 28 Mar 		Lab: Finding Global Culture in 3d printing
-3:35PM-6:15PM	Visit to Archives & Special Collections (430-530pm) + discussion of HTR
-
-
-	Optional event: Unlocking Archives with AI 1, Iftar and presentation (640-845pm) 
+ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Due April 18. Instructions here. 20% final grade
+{: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 ### Week 9 
 
 | Time/Date | Reading | Activity |
-Thurs, 30 Mar		Tissen, "3d Printing and the Art World: Current Developments and Future 
-3:35PM-4:50PM	Perspectives", Advances in 3d Printing, 2022.
+| Tues, 28 Mar 3:35PM-6:15PM |	| <br> -Lab: Finding Global Culture in 3d printing <br> -Visit to Archives & Special Collections (430-530pm) |
+| Thurs, 30 Mar	3:35PM-4:50PM | Tissen, "3d Printing and the Art World: Current Developments and Future Perspectives", Advances in 3d Printing, 2022. | discussion |
 
-	Optional event: Unlocking Archives with AI 2, Iftar and presentation (640-940pm) 
+Optional event: Unlocking Archives with AI](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai), Iftar and presentation (Tuesday and Thursday, 640-940pm)
+{: .notice}  
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
 ## UNIT 4: IMAGE  
 
-		Image Collections 
-			
-Tues 4 Apr		Lab: WCMA digital project | Selfie City | Photogrammar | MoMA photography | 
-3:35PM-6:15PM	This Was Paris in 1970
-Agenda			Vox, "Why I am Obsessed With these Cheap Paintings of Paris" 
-			Kinds of metadata in cultural collections: human created & computed
+### Week 10
 
+Image Collections 
 
-Thurs, 6 Apr		Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19
-3:35PM-4:50PM	Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. 
-Agenda	
-How does a lightbox work? 
-In class exploration: ARt Image Exploration Space for manual alignment using two image corpora 
-			Looking for Patterns in Image Collections with IMJ
+| Time/Date | Reading | Activity |		
+| Tues 4 Apr 3:35PM-6:15PM	| <br> -This Was Paris in 1970 <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -WCMA digital project / Selfie City / Photogrammar / MoMA photography <br> -Exploring cultural collections: human created & computed metadata | Lab:  <br> -ARt Image Exploration Space for manual alignment using two image corpora <br> -Looking for Patterns in Image Collections with IMJ |
+| Thurs, 6 Apr	3:35PM-4:50PM |	<br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. | discussion |	
 
-ASSIGNMENT 3:  Analyzing your custom image corpora with Orange. Due 4 May. Instructions here. 
+ASSIGNMENT 3:  Analyzing your custom image corpora with Orange. Due 4 May. Instructions here.
+{: .notice} 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
+### Week 11
 
 Computational approaches to image 
 
+| Time/Date | Reading | Activity |
 Tues, 11 Apr 		Orange Data Mining for image classification
 3:35PM-6:15PM	Lab: Working with Datasets of Arabic Book & Magazine Covers, VanGogh 
 			paintings, Flickr Faces, Yoga Poses, Wikiart self-portraits, Ebony Magazine 
 			Covers, Chinese Fine Art, Pokemon Images, 
 			Watch: How We Teach Computers to Understand Images (Li) and Clustering of 
 			Monet and Manet (Orange)
-
 Thurs, 13 Apr 		Group Ideation for Final "Unproject" 
 3:35PM-4:50PM	Burdick et al.  "A Portfolio of Case Studies," Digital_Humanities, 2016, 60-71 
 (guest instructor)	open access > read open access > ch 2 Emerging Methods and Genres, page 35 
@@ -171,7 +160,9 @@ Thurs, 13 Apr 		Group Ideation for Final "Unproject"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
+### Week 12
 
+| Time/Date | Reading | Activity |
 Tues, 18 April		Junginger et al, "The Close-up Cloud" Journal of Digital Art History, 2020
 3:35PM-6:15PM	Salvaggio, "How to Read an AI Image," 2022
 			Exploring the Atlas of KREA AI Generative Visuals
@@ -190,6 +181,8 @@ Optional talk: "Open data and knowledge stewardship, the case of Palestine Open 
 
 ## UNIT 5: TOWARDS DIGITAL PROJECT WORK
 
+### Week 13
+
 Data and Metadata in the Arts and Humanities 2 
 
 | Time/Date | Reading | Activity |
@@ -201,7 +194,7 @@ Final "unproject":  Due 13 May.  Instructions here.
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-### Week xxx
+### Week 14
 
 On the Social in Digital Arts and Humanities
 
@@ -213,14 +206,12 @@ Burdick et al. "The Social Lives of Digital Humanities," Digital_Humanities, 201
 Drucker, ch 12, 211-225. 
 group work 
 
-| Thurs, 4 May 3:35PM-4:50PM | group work |
-
-Wrap up
+| Thurs, 4 May 3:35PM-4:50PM | group work | Wrap up |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
-### Week xyz
+### Week 15
 
 | Tues, 9 May 3:35PM-6:15PM | group work |
 | Thurs, 11 May 3:35PM-4:50PM | final presentations |
