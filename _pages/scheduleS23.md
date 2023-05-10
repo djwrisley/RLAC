@@ -147,34 +147,24 @@ ASSIGNMENT 3:  Analyzing your custom image corpora with Orange. Due 4 May. Instr
 Computational approaches to image 
 
 | Time/Date | Reading | Activity |
-Tues, 11 Apr 		Orange Data Mining for image classification
-3:35PM-6:15PM	Lab: Working with Datasets of Arabic Book & Magazine Covers, VanGogh 
-			paintings, Flickr Faces, Yoga Poses, Wikiart self-portraits, Ebony Magazine 
-			Covers, Chinese Fine Art, Pokemon Images, 
-			Watch: How We Teach Computers to Understand Images (Li) and Clustering of 
-			Monet and Manet (Orange)
-Thurs, 13 Apr 		Group Ideation for Final "Unproject" 
-3:35PM-4:50PM	Burdick et al.  "A Portfolio of Case Studies," Digital_Humanities, 2016, 60-71 
-(guest instructor)	open access > read open access > ch 2 Emerging Methods and Genres, page 35 
-			in chapter pdf.
+| Tues, 11 Apr 	3:35PM-6:15PM	| Watch: <br> -Orange Data Mining <br> -How We Teach Computers to Understand Images (Li) <br> -Monet and Manet (Orange) | Lab: Image clustering and classification with Datasets of Arabic Book & Magazine Covers, VanGogh paintings, Flickr Faces, Yoga Poses, Wikiart self-portraits, Ebony Magazine Covers, Chinese Fine Art, Pokemon Images |
+| Thurs, 13 Apr 3:35PM-4:50PM	|	Burdick et al.  "A Portfolio of Case Studies," Digital_Humanities, 2016, 60-71 | Group Ideation for Final "Unproject" |
+	 
+NB: For the case studies, navigate to open access > read open access > ch 2 Emerging Methods and Genres, page 35 in chapter pdf.
+{: .notice} 
 
 [Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 ### Week 12
 
 | Time/Date | Reading | Activity |
-Tues, 18 April		Junginger et al, "The Close-up Cloud" Journal of Digital Art History, 2020
-3:35PM-6:15PM	Salvaggio, "How to Read an AI Image," 2022
-			Exploring the Atlas of KREA AI Generative Visuals
-			Vox, "The Text to Image Revolution, Explained" 
-			Lab: DALLE - 2 / Dreamstudio.ai / diffusion B / Lexica / Craiyon
+| Tues, 18 April 3:35PM-6:15PM	| <br> -Junginger et al, "The Close-up Cloud" Journal of Digital Art History, 2020 <br> -Salvaggio, "How to Read an AI Image," 2022 <br> -Exploring the Atlas of KREA AI Generative Visuals <br> -Vox, "The Text to Image Revolution, Explained" | Lab: DALLE - 2 / Dreamstudio.ai / diffusion B / Lexica / Craiyon |
 
+Optional Workshop: "Palestine Open Maps map-a-thon" Wednesday, 19 April, 3-530pm, A6.
+{: .notice} 
 
-Optional Workshop: "Palestine Open Maps mapathon" Wednesday, 19 April, 3-530pm. Location TBA.
-
-Palestine Open Maps is a collection of historical maps of Palestine. In this workshop, we will learn how the simple open source tools of OpenStreetMap can be used to extract geographic data from historical maps, and publish them for use by other researchers. We will also discuss how the ontology of historical maps gets adapted into the ontology of modern GIS tools, and how the data produced collectively opens questions around data ownership and public knowledge production. 
-
-Optional talk: "Open data and knowledge stewardship, the case of Palestine Open Maps" (Majd Shihadi, University of Toronto) Thursday, 20 April, 12-130pm location TBA
+Optional talk: "Open data and knowledge stewardship, the case of Palestine Open Maps" (Majd Shihadi, University of Toronto) Thursday, 20 April, 12-130pm, A6.
+{: .notice} 
 
 [Top](https://daahnyuad.github.io/schedule/#week-1) 
 
@@ -191,6 +181,7 @@ Data and Metadata in the Arts and Humanities 2
 
 
 Final "unproject":  Due 13 May.  Instructions here. 
+{: .notice} 
 
 [Top](https://daahnyuad.github.io/schedule/#week-1) 
 
@@ -199,12 +190,7 @@ Final "unproject":  Due 13 May.  Instructions here.
 On the Social in Digital Arts and Humanities
 
 | Time/Date | Reading | Activity |
-Tues, 2 May 		Siemens, "It's a Team if you use 'Reply all'", Linguistic and Literary Computing 
-3:35PM-6:15PM	24.2(2009): 225-232.
-Nowviskie, On Capacity and Care, Debates in the Digital Humanities, 2019, 424-426.
-Burdick et al. "The Social Lives of Digital Humanities," Digital_Humanities, 2016, 73-98.  (ch 3) 
-Drucker, ch 12, 211-225. 
-group work 
+| Tues, 2 May 3:35PM-6:15PM	| <br> -Siemens, "It's a Team if you use 'Reply all'", LLC 24.2(2009): 225-232. <br> -Nowviskie, On Capacity and Care, Debates in the Digital Humanities, 2019, 424-426. <br> -Burdick et al. "The Social Lives of Digital Humanities," Digital_Humanities, 2016, 73-98. <br> -Drucker, ch 12, 211-225. |group work |
 
 | Thurs, 4 May 3:35PM-4:50PM | group work | Wrap up |
 
