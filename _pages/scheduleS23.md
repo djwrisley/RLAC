@@ -18,7 +18,7 @@ Digital Arts and Humanities: innovation, creativity & contexts
 | Tues, 24 Jan (3:35PM-6:15PM) | -Drucker, ch 1, 1-18. <br> -Loudon, "[Creativity Can Be the Bridge](https://theconversation.com/creativity-can-be-the-bridge-between-science-and-humanities-education-99610)", The Conversation, 16 October 2018 <br> -Rogers, [So You want to make a DH Website](http://www.kelseymarierogers.com/tutorial/2018/02/24/digital-humanities-platforms.html) | Lab on Web Publishing Alternatives: Github Pages, [Google Sites](https://workspace.google.com/products/sites/), [Hypotheses](https://hypotheses.org/), [NYU Web Hosting (WordPress)](https://hosting.nyu.edu/), [Notion](https://www.notion.so/), [Vercel](https://vercel.com/), [NYU WP](https://wp.nyu.edu/), [Humanities Commons](https://hcommons.org/). |
 | Thurs, 26 Jan	(3:35PM-4:50PM) | -Schneider, "[Why Digital Humanities](http://www.politicseastasia.com/research/digital-nationalism/digital-humanities/)", Politics East Asia, 4 November 2013.<br> -Sneha, "[Mapping Digital Humanities in India](https://cis-india.org/papers/mapping-digital-humanities-in-india)" CIS Bangalore, 2016, 5-14, 52-57. <br> -Kidd, "[Nobody Cares about your blog!](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)" 2022. | discussion |
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 ### Week 2		
 
@@ -31,7 +31,7 @@ Making and Project-Based Thinking
 **Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/)** Due Date 2 March, 20% final grade.
 {: .notice}
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 ### Week 3
 
@@ -44,7 +44,7 @@ Data and Metadata in the Arts and Humanities 1
 **Prepare two questions for the general discussion and put them in the class space.**
 {: .notice}
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 **ASSIGNMENT 1 Instructions [here](https://daahnyuad.github.io/blog/DLME-Assignment1-S23/)** Due Date 2 March, 20% final grade.
 {: .notice}
@@ -60,7 +60,7 @@ Textual Bodies
 | Tues, 14 Feb 3:35PM-6:15PM | <br> -Drucker, ch 7, 110-120. <br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://muse.jhu.edu/pub/23/edited_volume/chapter/3144062)" Global Debates in the Digital Humanities, 2022 | Lab: Text Mining: Easy to Less Easy Google [NGram Viewer](https://books.google.com/ngrams/) / [Bookworm](https://bookworm.htrc.illinois.edu/develop/) / [Voyant](https://voyant-tools.org/) / [AntConc](https://www.laurenceanthony.net/software/antconc/releases/) / [Docuscope](https://evaluationtoolkit.mla.hcommons.org/docuscope/) / [CLiC](https://clic.bham.ac.uk/concordance?conc-q=&conc-subset=all&conc-type=whole&kwic-span=-5%3A5&table-filter=&table-type=basic) | 
 | Thurs, 16 Feb 3:35PM-4:50PM | <br> -Ramsey, "[In Praise of Pattern](https://texttechnology.mcmaster.ca/pdf/vol14_2/ramsay14-2.pdf)," TEXT Technology 14.2(2005). <br> -Klein, "[Distant Reading after Moretti](https://arcade.stanford.edu/blogs/distant-reading-after-moretti)" [blog] 2018. <br> -Miller, "[Using GPT on Library Collections](https://thisismattmiller.com/post/using-gpt-on-library-collections/)", 2023. <br> -[Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading) [podcast] | Discussion |
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 
 ### Week 5
@@ -83,7 +83,7 @@ Spatial Horizons
 | Tues, 28 Feb 3:35PM-6:15PM |	<br> -Drucker, ch 8, 130-150 | Exploring Spatial Projects | 
 | Thurs, 2 Mar 3:35PM-4:50PM |	<br> -Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. (in drive) <br> -Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116 (in drive) <br> -Wrisley, "[Spatial Humanities](https://archive.nyu.edu/handle/2451/43476)", Porphyra 22(2014): 96-107. | An Introduction to [UMap](http://umap.openstreetmap.fr/en/) / [Kepler](https://kepler.gl/) / [Maps as Data](https://hdf.benschmidt.org/R/mapping/) |
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 ### Week 7
 
@@ -93,7 +93,7 @@ Map Visualization
 | Tues, 7 Mar 3:35PM-6:15PM	| <br> -Watch: Linked Maps and Spatial Searching <br> -Read: A growing problem of deepfake geography <br> -Read: Deep fake satellite imagery poses a not-so-distant threat <br> -Listen: Fake Satellite Imagery | Lab: <br> -Make an OpenStreetMap account here. <br> -Visualizing previous datasets in UMap <br> -Using code to make maps with leaflet.js <br> -Making your own fantasy map for world building <br> -Adding an interactive map to Wikipedia in your Language |
 | Thurs, 9 Mar 3:35PM-4:50PM |  <br> -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101. <br> -Exploring Humanitarian OSM | Guest speaker: Mary Michael (UCSB) "What can data be?" |
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 ***BREAK 15-22 March*** 
 
@@ -113,7 +113,7 @@ Digital Literacy Narrative Revision #1 Instructions here. Due 6 April. 5% final 
 ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Due April 18. Instructions here. 20% final grade
 {: .notice}
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 ### Week 9 
 
@@ -124,7 +124,7 @@ ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Due April 18. Instruc
 Optional event: Unlocking Archives with AI](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai), Iftar and presentation (Tuesday and Thursday, 640-940pm)
 {: .notice}  
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 
 ## UNIT 4: IMAGE  
@@ -140,7 +140,7 @@ Image Collections
 ASSIGNMENT 3:  Analyzing your custom image corpora with Orange. Due 4 May. Instructions here.
 {: .notice} 
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 ### Week 11
 
@@ -158,7 +158,7 @@ Thurs, 13 Apr 		Group Ideation for Final "Unproject"
 (guest instructor)	open access > read open access > ch 2 Emerging Methods and Genres, page 35 
 			in chapter pdf.
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 ### Week 12
 
@@ -176,7 +176,7 @@ Palestine Open Maps is a collection of historical maps of Palestine. In this wor
 
 Optional talk: "Open data and knowledge stewardship, the case of Palestine Open Maps" (Majd Shihadi, University of Toronto) Thursday, 20 April, 12-130pm location TBA
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 
 ## UNIT 5: TOWARDS DIGITAL PROJECT WORK
@@ -192,7 +192,7 @@ Data and Metadata in the Arts and Humanities 2
 
 Final "unproject":  Due 13 May.  Instructions here. 
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 ### Week 14
 
@@ -208,7 +208,7 @@ group work
 
 | Thurs, 4 May 3:35PM-4:50PM | group work | Wrap up |
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
 
 
 ### Week 15
@@ -221,4 +221,4 @@ group work
 {: .notice}
 
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#week-1) 
