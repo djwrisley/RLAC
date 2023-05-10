@@ -6,7 +6,7 @@ author_profile: false
 
 [Week 1](https://daahnyuad.github.io/schedule/#week-1)  [2](https://daahnyuad.github.io/schedule/#week-2)  [3](https://daahnyuad.github.io/schedule/#week-3)  [4](https://daahnyuad.github.io/schedule/#week-4)  [5](https://daahnyuad.github.io/schedule/#week-5) [6](https://daahnyuad.github.io/schedule/#week-6) [7](https://daahnyuad.github.io/schedule/#week-7) [8](https://daahnyuad.github.io/schedule/#week-8) [9](https://daahnyuad.github.io/schedule/#week-9) [10](https://daahnyuad.github.io/schedule/#week-10) [11](https://daahnyuad.github.io/schedule/#week-11) [12](https://daahnyuad.github.io/schedule/#week-12) [13](https://daahnyuad.github.io/schedule/#week-13) [14](https://daahnyuad.github.io/schedule/#week-14) [15](https://daahnyuad.github.io/schedule/#week-15) 
 
-[Data in the Arts and Humanities](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) [Textual Data](https://daahnyuad.github.io/schedule/#unit-2-textual) [Spatial Data](https://daahnyuad.github.io/schedule/#unit-3-spatial) [Image Data](https://daahnyuad.github.io/schedule/#unit-4-image) [Towards Digital Project Work](https://daahnyuad.github.io/schedule/#unit-5-towards-digital-project-work)
+[Data in the Arts and Humanities](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) [Textual Data](https://daahnyuad.github.io/schedule/#unit-2-textual-data) [Spatial Data](https://daahnyuad.github.io/schedule/#unit-3-spatial-data) [Image Data](https://daahnyuad.github.io/schedule/#unit-4-image-data) [Towards Digital Project Work](https://daahnyuad.github.io/schedule/#unit-5-towards-digital-project-work)
 
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 
