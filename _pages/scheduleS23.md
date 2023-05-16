@@ -4,9 +4,9 @@ permalink: /schedule/
 author_profile: false
 ---
 
-[Week 1](https://daahnyuad.github.io/schedule/#week-1)  [2](https://daahnyuad.github.io/schedule/#week-2)  [3](https://daahnyuad.github.io/schedule/#week-3)  [4](https://daahnyuad.github.io/schedule/#week-4)  [5](https://daahnyuad.github.io/schedule/#week-5) [6](https://daahnyuad.github.io/schedule/#week-6) [7](https://daahnyuad.github.io/schedule/#week-7) [8](https://daahnyuad.github.io/schedule/#week-8) [9](https://daahnyuad.github.io/schedule/#week-9) [10](https://daahnyuad.github.io/schedule/#week-10) [11](https://daahnyuad.github.io/schedule/#week-11) [12](https://daahnyuad.github.io/schedule/#week-12) [13](https://daahnyuad.github.io/schedule/#week-13) [14](https://daahnyuad.github.io/schedule/#week-14) [15](https://daahnyuad.github.io/schedule/#week-15) 
+[Week 1](https://daahnyuad.github.io/schedule/#week-1)  [Week 2](https://daahnyuad.github.io/schedule/#week-2)  [Week 3](https://daahnyuad.github.io/schedule/#week-3)  [Week 4](https://daahnyuad.github.io/schedule/#week-4)  [Week 5](https://daahnyuad.github.io/schedule/#week-5) [Week 6](https://daahnyuad.github.io/schedule/#week-6) [Week 7](https://daahnyuad.github.io/schedule/#week-7) [Week 8](https://daahnyuad.github.io/schedule/#week-8) [Week 9](https://daahnyuad.github.io/schedule/#week-9) [Week 10](https://daahnyuad.github.io/schedule/#week-10) [Week 11](https://daahnyuad.github.io/schedule/#week-11) [Week 12](https://daahnyuad.github.io/schedule/#week-12) [Week 13](https://daahnyuad.github.io/schedule/#week-13) [Week 14](https://daahnyuad.github.io/schedule/#week-14) [Week 15](https://daahnyuad.github.io/schedule/#week-15) 
 
-[Data in the Arts and Humanities](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) [Textual Data](https://daahnyuad.github.io/schedule/#unit-2-textual-data) [Spatial Data](https://daahnyuad.github.io/schedule/#unit-3-spatial-data) [Image Data](https://daahnyuad.github.io/schedule/#unit-4-image-data) [Towards Digital Project Work](https://daahnyuad.github.io/schedule/#unit-5-towards-digital-project-work)
+[Unit 1](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) [Unit 2](https://daahnyuad.github.io/schedule/#unit-2-textual) [Unit 3](https://daahnyuad.github.io/schedule/#unit-3-spatial) [Unit 4](https://daahnyuad.github.io/schedule/#unit-4-image) [Unit 5](https://daahnyuad.github.io/schedule/#unit-5-towards-digital-project-work)
 
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 
@@ -18,49 +18,75 @@ Digital Arts and Humanities: innovation, creativity & contexts
 | Tues, 24 Jan (3:35PM-6:15PM) | -Drucker, ch 1, 1-18. <br> -Loudon, "[Creativity Can Be the Bridge](https://theconversation.com/creativity-can-be-the-bridge-between-science-and-humanities-education-99610)", The Conversation, 16 October 2018 <br> -Rogers, [So You want to make a DH Website](http://www.kelseymarierogers.com/tutorial/2018/02/24/digital-humanities-platforms.html) | Lab on Web Publishing Alternatives: Github Pages, [Google Sites](https://workspace.google.com/products/sites/), [Hypotheses](https://hypotheses.org/), [NYU Web Hosting (WordPress)](https://hosting.nyu.edu/), [Notion](https://www.notion.so/), [Vercel](https://vercel.com/), [NYU WP](https://wp.nyu.edu/), [Humanities Commons](https://hcommons.org/). |
 | Thurs, 26 Jan	(3:35PM-4:50PM) | -Schneider, "[Why Digital Humanities](http://www.politicseastasia.com/research/digital-nationalism/digital-humanities/)", Politics East Asia, 4 November 2013.<br> -Sneha, "[Mapping Digital Humanities in India](https://cis-india.org/papers/mapping-digital-humanities-in-india)" CIS Bangalore, 2016, 5-14, 52-57. <br> -Kidd, "[Nobody Cares about your blog!](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)" 2022. | discussion |
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 ### Week 2		
 
 Making and Project-Based Thinking 
 
 | Time/Date | Reading/Material | Activity |
-| Tues, 31 Jan 3:35PM-6:15PM |	<br> -Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/1quXS42vdwv0B4xBjzzvHgrkbLS9UVV56/view?usp=sharing),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. <br> -[Humanities Data Fundamentals](https://hdf.benschmidt.org/)| Lab: <br> -Working on our own blogs / pushing material to them using GitHub Desktop <br> -Introduction to RStudio and RStudio.cloud (Posit.cloud) | 
+| Tues, 31 Jan 3:35PM-6:15PM |	<br> -Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/1quXS42vdwv0B4xBjzzvHgrkbLS9UVV56/view?usp=sharing),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. <br> -[Humanities Data Fundamentals](https://hdf.benschmidt.org/)| Lab: <br> -Working on our own blogs / pushing material to them using [GitHub Desktop] <br> -Introduction to RStudio and [Posit.cloud] (formerly RStudio.cloud) | 
 | Thurs, 2 Feb 	3:35PM-4:50PM |	<br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -The Making and Knowing Project | discussion | 
 
 **Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/)** Due Date 2 March, 20% final grade.
 {: .notice}
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 ### Week 3
 
 Data and Metadata in the Arts and Humanities 1 
 
 | Time/Date | Reading | Activity |
-| Tues, 7 Feb 3:35PM-6:15PM | <br> -Broman/Woo "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", The American Statistician, 24 April 2018. <br> -Drucker, ch 2 (19-33) & 4 (52-69) <br> -De Bastion/Mukku, [Data and the Global South](https://us.boell.org/en/2020/10/20/data-and-global-south-key-issues-inclusive-digital-development), 2020. <br> -[metadata](https://en.wikipedia.org/wiki/Metadata) / [API](https://en.wikipedia.org/wiki/API) / [discoverability](https://en.wikipedia.org/wiki/Discoverability) / [federated database](https://en.wikipedia.org/wiki/Federated_database_system) / [IIIF](https://iiif.io/) | Lab: <br> -Asking questions of cultural databases and their bias <br> -[Digital Library of the Middle East](https://dlmenetwork.org/library) <br> -Notebook: Exploring the Harvard Art Museums API | 
-| Thurs, 9 Feb 	3:35PM-4:50PM |	<br> -D'Ignazio/Klein, "[Why Data Science Needs Feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6?readingCollection=0cd867ef)" and "[The Numbers Don't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3)", Data Feminism, 16 March 2020. <br> -Mindscape [podcast], [Catherine D'Ignazio on Data Objectivity and Bias](https://www.preposterousuniverse.com/podcast/2021/07/19/156-catherine-dignazio-on-data-objectivity-and-bias/) <br> -Data & Society [podcast] [Data Feminism](https://datasociety.net/library/data-feminism/) | In collaboration with Love Data Month and NYUAD Library (location NYUAD Library, room 329), session led by Suphan Kirmizialtin | 
+Tues, 7 Feb		Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 
+3:35PM-6:15PM	April 2018.
+Agenda			Drucker, ch 2 (19-33) & 4 (52-69)
+			De Bastion/Mukku, Data and the Global South, 2020.
+			metadata | API | discoverability | federated database | IIIF
 
-**Prepare two questions for the general discussion and put them in the class space.**
-{: .notice}
+			Lab: Asking questions of cultural databases and their bias
+			Digital Library of the Middle East 
+			Notebook: Exploring the Harvard Art Museums API 
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+Thurs, 9 Feb 		D'Ignazio/Klein, "Why Data Science Needs Feminism" and "The Numbers Don't 
+3:35PM-4:50PM	Speak for Themselves", Data Feminism, 16 March 2020.
+Agenda			Mindscape [podcast], Catherine D'Ignazio on Data Objectivity and Bias
+			Data & Society [podcast] Data Feminism  
+		
+			Prepare two questions for the general discussion and put them in the class space.. 
+In collaboration with Love Data Month and NYUAD Library (location NYUAD 
+	Library, room 329), session led by Suphan Kirmizialtin
 
-**ASSIGNMENT 1 Instructions [here](https://daahnyuad.github.io/blog/DLME-Assignment1-S23/)** Due Date 2 March, 20% final grade.
-{: .notice}
-  
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-## UNIT 2: TEXTUAL DATA
+
+ASSIGNMENT 1 : Working with the metadata for an item in the Digital Library of the Middle East. For this assignment you will find two or three items from different collections in the DLME, you will discuss their metadata, do research to complete the metadata where possible and discuss how your virtual reunification of these objects allows us to see them together in a new light. You can be as creative or analytical as you like.  Due: 2 March  (revised). A detailed description of the exercise, guiding questions, and requirements will be provided.  
+
+## UNIT 2: TEXTUAL
 
 ### Week 4
 
 Textual Bodies
 
 | Time/Date | Reading | Activity |
-| Tues, 14 Feb 3:35PM-6:15PM | <br> -Drucker, ch 7, 110-120. <br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://muse.jhu.edu/pub/23/edited_volume/chapter/3144062)" Global Debates in the Digital Humanities, 2022 | Lab: Text Mining: Easy to Less Easy Google [NGram Viewer](https://books.google.com/ngrams/) / [Bookworm](https://bookworm.htrc.illinois.edu/develop/) / [Voyant](https://voyant-tools.org/) / [AntConc](https://www.laurenceanthony.net/software/antconc/releases/) / [Docuscope](https://evaluationtoolkit.mla.hcommons.org/docuscope/) / [CLiC](https://clic.bham.ac.uk/concordance?conc-q=&conc-subset=all&conc-type=whole&kwic-span=-5%3A5&table-filter=&table-type=basic) | 
-| Thurs, 16 Feb 3:35PM-4:50PM | <br> -Ramsey, "[In Praise of Pattern](https://texttechnology.mcmaster.ca/pdf/vol14_2/ramsay14-2.pdf)," TEXT Technology 14.2(2005). <br> -Klein, "[Distant Reading after Moretti](https://arcade.stanford.edu/blogs/distant-reading-after-moretti)" [blog] 2018. <br> -Miller, "[Using GPT on Library Collections](https://thisismattmiller.com/post/using-gpt-on-library-collections/)", 2023. <br> -[Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading) [podcast] | Discussion |
+Tues, 14 Feb		Drucker, ch 7, 110-120.
+3:35PM-6:15PM	Clark et al, "What's Trending in the Chinese Google Books Corpus" Global 
+			Debates in the Digital Humanities, 2022
+			Lab:  Text Mining: Easy to Less Easy Google NGram Viewer | Bookworm | 
+			Voyant | AntConc | Docuscope | CLiC
+Journal Club: 5-6pm Daniel Rosenberg, “Data Before the Fact” in Raw Data is an Oxymoron
+ 
+Thurs, 16 Feb 		Ramsey, "In Praise of Pattern," TEXT Technology 14.2(2005). 
+3:35PM-4:50PM	Klein, "Distant Reading after Moretti" [blog] 2018. 
+			Miller, "Using GPT on Library Collections", 2023. 
+Agenda	
+Clark et al, "What's Trending in the Chinese Google Books Corpus" Global 
+	Debates in the Digital Humanities, 2022
+			Lab:  Text Mining: Easy to Less Easy Google NGram Viewer | Bookworm | 
+			Voyant | AntConc | Docuscope | CLiC
+Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast]
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
 ### Week 5
@@ -68,32 +94,60 @@ Textual Bodies
 Text as Data 
 
 | Time/Date | Reading | Activity |
-| Tues, 21 Feb	3:35PM-6:15PM (zoom) |	<br> -Drucker, ch 6, 86-109. <br> -Text as Data podcast | Lab Notebook: <br> -Identifying Most Distinctive Words in Three (Sets of) Texts <br> -Working with Two Genres: Children's Literature and Science Fiction 
-| Thurs, 23 Feb	3:35PM-4:50PM |  <br> -"Prompt engineering" for GPT with OpenAI and other APIs <br> -Hardfork, Can ChatGPT write this podcast? (podcast) <br> -chatGPT and the Sweatshops Powering the Digital Age (Nyabola) <br> -Hardfork, Generative AI is here : who should control it? (podcast) <br> -Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. <br> -Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020 | Discussion | 
+Tues, 21 Feb		Drucker, ch 6, 86-109.
+3:35PM-6:15PM	Text as Data podcast 
+(zoom)			Lab Notebook: Identifying Most Distinctive Words in Three (Sets of) Texts: 
+			Working with Two Genres: Children's Literature and Science Fiction 
+
+Thurs, 23 Feb		Generative text & GPT 
+3:35PM-4:50PM	Critical prompts for GPT with OpenAI and other APIs 
+(zoom)			Hardfork, Can ChatGPT write this podcast? (podcast)
+			chatGPT and the Sweatshops Powering the Digital Age (Nyabola)
+			Hardfork, Generative AI is here : who should control it? (podcast)	
+			Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. 
+Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-## UNIT 3: SPATIAL DATA
+## UNIT 3: SPATIAL 
 
 ### Week 6
 
 Spatial Horizons
 
 | Time/Date | Reading | Activity |
-| Tues, 28 Feb 3:35PM-6:15PM |	<br> -Drucker, ch 8, 130-150 | Exploring Spatial Projects | 
-| Thurs, 2 Mar 3:35PM-4:50PM |	<br> -Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. (in drive) <br> -Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116 (in drive) <br> -Wrisley, "[Spatial Humanities](https://archive.nyu.edu/handle/2451/43476)", Porphyra 22(2014): 96-107. | An Introduction to [UMap](http://umap.openstreetmap.fr/en/) / [Kepler](https://kepler.gl/) / [Maps as Data](https://hdf.benschmidt.org/R/mapping/) |
+Tues, 28 Feb		Drucker, ch 8, 130-150
+3:35PM-6:15PM	Exploring Spatial Projects
+Journal Club: 5-6pm  Robert Ackland & Ann Evans, “Using the web to examine the evolution of the abortion debate in Australia, 2005–2015” at The Web as History.
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+Thurs, 2 Mar 		Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. 
+3:35PM-4:50PM	Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116
+Agenda			Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107.
+			An Introduction to UMap | Kepler | Maps as Data
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 ### Week 7
 
 Map Visualization
 
 | Time/Date | Reading | Activity |
-| Tues, 7 Mar 3:35PM-6:15PM	| <br> -Watch: Linked Maps and Spatial Searching <br> -Read: A growing problem of deepfake geography <br> -Read: Deep fake satellite imagery poses a not-so-distant threat <br> -Listen: Fake Satellite Imagery | Lab: <br> -Make an OpenStreetMap account here. <br> -Visualizing previous datasets in UMap <br> -Using code to make maps with leaflet.js <br> -Making your own fantasy map for world building <br> -Adding an interactive map to Wikipedia in your Language |
-| Thurs, 9 Mar 3:35PM-4:50PM |  <br> -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101. <br> -Exploring Humanitarian OSM | Guest speaker: Mary Michael (UCSB) "What can data be?" |
+Tues, 7 Mar		Watch: Linked Maps and Spatial Searching 
+3:35PM-6:15PM	Read: A growing problem of deepfake geography
+Agenda			Read: Deep fake satellite imagery poses a not-so-distant threat
+			Listen: Fake Satellite Imagery 
+			Lab: (1) Make an OpenStreetMap account here. Visualizing previous datasets in 
+			UMap (2) Using code to make maps with leaflet.js (3) Making your own fantasy 
+			map for world building (4) Adding an interactive map to Wikipedia 
+			in Your Language 
+			 
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+Thurs, 9 Mar 		Guest speaker: Mary Michael (UCSB) "What can data be?" 
+3:35PM-4:50PM	Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown 
+Agenda			Journal of International Affairs 16.2(2015): 91-101.	
+			Exploring Humanitarian OSM 
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 ***BREAK 15-22 March*** 
 
@@ -104,74 +158,91 @@ Map Visualization
 Culture on the z-Axis
 
 | Time/Date | Reading | Activity |
-| Thurs, 23 Mar	3:35PM-4:50PM | <br> -Drucker, ch 9, 151-171. <br> -Web resources: Thingiverse, 3duniverse, 3dwarehouse, Yeggi
-Agenda			<br> -Nieves, "Digital Queer Witnessing," The Digital Black Atlantic, 2021, 58-68. | discussion |
+Thurs, 23 Mar		Drucker, ch 9, 151-171.
+3:35PM-4:50PM	Web resources: Thingiverse, 3duniverse, 3dwarehouse, Yeggi
+Agenda			Nieves, "Digital Queer Witnessing," The Digital Black Atlantic, 2021, 58-68.
 
-Digital Literacy Narrative Revision #1 Instructions here. Due 6 April. 5% final grade
-{: .notice}
 
-ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Due April 18. Instructions here. 20% final grade
-{: .notice}
+Digital Literacy Narrative Revision #1 : revised instructions in drive.  Due 6 April. 
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Due April 18. Instructions here. 
+
+
+Tues, 28 Mar 		Lab: Finding Global Culture in 3d printing
+3:35PM-6:15PM	Visit to Archives & Special Collections (430-530pm) + discussion of HTR
+
+
+	Optional event: Unlocking Archives with AI 1, Iftar and presentation (640-845pm) 
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 ### Week 9 
 
 | Time/Date | Reading | Activity |
-| Tues, 28 Mar 3:35PM-6:15PM |	| <br> -Lab: Finding Global Culture in 3d printing <br> -Visit to Archives & Special Collections (430-530pm) |
-| Thurs, 30 Mar	3:35PM-4:50PM | Tissen, "3d Printing and the Art World: Current Developments and Future Perspectives", Advances in 3d Printing, 2022. | discussion |
+Thurs, 30 Mar		Tissen, "3d Printing and the Art World: Current Developments and Future 
+3:35PM-4:50PM	Perspectives", Advances in 3d Printing, 2022.
 
-Optional event: Unlocking Archives with AI](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai), Iftar and presentation (Tuesday and Thursday, 640-940pm)
-{: .notice}  
+	Optional event: Unlocking Archives with AI 2, Iftar and presentation (640-940pm) 
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
-## UNIT 4: IMAGE DATA 
+## UNIT 4: IMAGE  
 
-### Week 10
+		Image Collections 
+			
+Tues 4 Apr		Lab: WCMA digital project | Selfie City | Photogrammar | MoMA photography | 
+3:35PM-6:15PM	This Was Paris in 1970
+Agenda			Vox, "Why I am Obsessed With these Cheap Paintings of Paris" 
+			Kinds of metadata in cultural collections: human created & computed
 
-Image Collections 
 
-| Time/Date | Reading | Activity |		
-| Tues 4 Apr 3:35PM-6:15PM	| <br> -This Was Paris in 1970 <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -WCMA digital project / Selfie City / Photogrammar / MoMA photography <br> -Exploring cultural collections: human created & computed metadata | Lab:  <br> -ARt Image Exploration Space for manual alignment using two image corpora <br> -Looking for Patterns in Image Collections with IMJ |
-| Thurs, 6 Apr	3:35PM-4:50PM |	<br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. | discussion |	
+Thurs, 6 Apr		Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19
+3:35PM-4:50PM	Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. 
+Agenda	
+How does a lightbox work? 
+In class exploration: ARt Image Exploration Space for manual alignment using two image corpora 
+			Looking for Patterns in Image Collections with IMJ
 
-ASSIGNMENT 3:  Analyzing your custom image corpora with Orange. Due 4 May. Instructions here.
-{: .notice} 
+ASSIGNMENT 3:  Analyzing your custom image corpora with Orange. Due 4 May. Instructions here. 
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-### Week 11
 
 Computational approaches to image 
 
-| Time/Date | Reading | Activity |
-| Tues, 11 Apr 	3:35PM-6:15PM	| Watch: <br> -Orange Data Mining <br> -How We Teach Computers to Understand Images (Li) <br> -Monet and Manet (Orange) | Lab: Image clustering and classification with Datasets of Arabic Book & Magazine Covers, VanGogh paintings, Flickr Faces, Yoga Poses, Wikiart self-portraits, Ebony Magazine Covers, Chinese Fine Art, Pokemon Images |
-| Thurs, 13 Apr 3:35PM-4:50PM	|	Burdick et al.  "A Portfolio of Case Studies," Digital_Humanities, 2016, 60-71 | Group Ideation for Final "Unproject" |
-	 
-NB: For the case studies, navigate to open access > read open access > ch 2 Emerging Methods and Genres, page 35 in chapter pdf.
-{: .notice} 
+Tues, 11 Apr 		Orange Data Mining for image classification
+3:35PM-6:15PM	Lab: Working with Datasets of Arabic Book & Magazine Covers, VanGogh 
+			paintings, Flickr Faces, Yoga Poses, Wikiart self-portraits, Ebony Magazine 
+			Covers, Chinese Fine Art, Pokemon Images, 
+			Watch: How We Teach Computers to Understand Images (Li) and Clustering of 
+			Monet and Manet (Orange)
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+Thurs, 13 Apr 		Group Ideation for Final "Unproject" 
+3:35PM-4:50PM	Burdick et al.  "A Portfolio of Case Studies," Digital_Humanities, 2016, 60-71 
+(guest instructor)	open access > read open access > ch 2 Emerging Methods and Genres, page 35 
+			in chapter pdf.
 
-### Week 12
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-| Time/Date | Reading | Activity |
-| Tues, 18 April 3:35PM-6:15PM	| <br> -Junginger et al, "The Close-up Cloud" Journal of Digital Art History, 2020 <br> -Salvaggio, "How to Read an AI Image," 2022 <br> -Exploring the Atlas of KREA AI Generative Visuals <br> -Vox, "The Text to Image Revolution, Explained" | Lab: DALLE - 2 / Dreamstudio.ai / diffusion B / Lexica / Craiyon |
 
-Optional Workshop: "Palestine Open Maps map-a-thon" Wednesday, 19 April, 3-530pm, A6.
-{: .notice} 
+Tues, 18 April		Junginger et al, "The Close-up Cloud" Journal of Digital Art History, 2020
+3:35PM-6:15PM	Salvaggio, "How to Read an AI Image," 2022
+			Exploring the Atlas of KREA AI Generative Visuals
+			Vox, "The Text to Image Revolution, Explained" 
+			Lab: DALLE - 2 / Dreamstudio.ai / diffusion B / Lexica / Craiyon
 
-Optional talk: "Open data and knowledge stewardship, the case of Palestine Open Maps" (Majd Shihadi, University of Toronto) Thursday, 20 April, 12-130pm, A6.
-{: .notice} 
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+Optional Workshop: "Palestine Open Maps mapathon" Wednesday, 19 April, 3-530pm. Location TBA.
+
+Palestine Open Maps is a collection of historical maps of Palestine. In this workshop, we will learn how the simple open source tools of OpenStreetMap can be used to extract geographic data from historical maps, and publish them for use by other researchers. We will also discuss how the ontology of historical maps gets adapted into the ontology of modern GIS tools, and how the data produced collectively opens questions around data ownership and public knowledge production. 
+
+Optional talk: "Open data and knowledge stewardship, the case of Palestine Open Maps" (Majd Shihadi, University of Toronto) Thursday, 20 April, 12-130pm location TBA
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
 ## UNIT 5: TOWARDS DIGITAL PROJECT WORK
-
-### Week 13
 
 Data and Metadata in the Arts and Humanities 2 
 
@@ -181,30 +252,36 @@ Data and Metadata in the Arts and Humanities 2
 
 
 Final "unproject":  Due 13 May.  Instructions here. 
-{: .notice} 
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-### Week 14
+### Week xxx
 
 On the Social in Digital Arts and Humanities
 
 | Time/Date | Reading | Activity |
-| Tues, 2 May 3:35PM-6:15PM	| <br> -Siemens, "It's a Team if you use 'Reply all'", LLC 24.2(2009): 225-232. <br> -Nowviskie, On Capacity and Care, Debates in the Digital Humanities, 2019, 424-426. <br> -Burdick et al. "The Social Lives of Digital Humanities," Digital_Humanities, 2016, 73-98. <br> -Drucker, ch 12, 211-225. |group work |
+Tues, 2 May 		Siemens, "It's a Team if you use 'Reply all'", Linguistic and Literary Computing 
+3:35PM-6:15PM	24.2(2009): 225-232.
+Nowviskie, On Capacity and Care, Debates in the Digital Humanities, 2019, 424-426.
+Burdick et al. "The Social Lives of Digital Humanities," Digital_Humanities, 2016, 73-98.  (ch 3) 
+Drucker, ch 12, 211-225. 
+group work 
 
-| Thurs, 4 May 3:35PM-4:50PM | group work | Wrap up |
+Thurs, 4 May 		group work 
+3:35PM-4:50PM
+		Wrap up
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
-### Week 15
+### Week xyz
 
-| Tues, 9 May 3:35PM-6:15PM | group work |
-| Thurs, 11 May 3:35PM-4:50PM | final presentations |
+Tues, 9 May 		group work
+Thurs, 11 May 		final presentations 
+
   
 
 **All work is due Sunday, May 14, 11:59pm.**
-{: .notice}
 
 
-[Top](https://daahnyuad.github.io/schedule/#week-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
