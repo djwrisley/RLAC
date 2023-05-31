@@ -1,0 +1,26 @@
+Semantic web and LOD
+
+- why do LLMs do better than keyword search
+- missing context
+- natural language has no explicit semantics understood by computers
+- GPT can generate writing for human readers but not for "computational readers" 
+
+original SW idea - extend the web with info
+SW not exactly knowledge graphs
+
+how many triples are needed for a knowledge graph? 
+
+URIs need to remain stable
+
+name spaces : each name is unique and only designates a specific object
+
+ontologies : classes & relations
+
+MOOCs for LOD: 
+open.hpi.de/courses/semanticweb2017
+cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-vs-sql
+
+dataforhistory.org -- having a CDOCCRM based ontology for historical sciences
+
+geovistory.com 
+
