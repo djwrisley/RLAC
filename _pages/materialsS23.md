@@ -20,7 +20,7 @@ In addition to the required [e-book](https://bobcat.library.nyu.edu/permalink/f/
 - Du Preez, [Voices from the South: Digital Arts and Humanities](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008196635) (Aosis, 2018).
 - Eve, [The Digital Humanities and Literary Studies](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008736613) (Oxford, 2022). 
 - Fiormonte/Chaudhuri/Ricaurte, [Global Debates in the Digital Humanities](https://muse.jhu.edu/book/100081), (Minnesota, 2022). 
-- Gold/Klein, Debates in the Digital Humanities  [2012](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph004291777) | [2016](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph007561494) | [2019](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008476431) | [2023](https://muse-jhu-edu.proxy.library.nyu.edu/book/103333) (Minnesota).
+- Gold & Klein, Debates in the Digital Humanities (Minnesota) [2012](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph004291777) | [2016](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph007561494) | [2019](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008476431) | [2023](https://muse-jhu-edu.proxy.library.nyu.edu/book/103333).
 - Gómez, Digital Arts (Brill, 2019).
 - O'Sullivan, The Bloomsbury Handbook of the Digital Humanities (Bloomsbury, 2022). 
 - Price/Siemens, Literary Studies in the Digital Age (MLA, 2019).
