@@ -13,6 +13,7 @@ In addition to the required [e-book](https://bobcat.library.nyu.edu/permalink/f/
 **Optional Background reading:**
 
 - Bavaj et al, Doing Spatial History (Routledge, 2021).
+- Bardiot, [Performing Arts and Digital Humanities: From Traces to Data](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008793981) (ISTE/Wiley, 2021)
 - Berry/Fagerjord, [Digital Humanities: Knowledge Critique in a Digital Age](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph005029952) (Polity, 2017).
 - Bodenhamer et al, Making Deep Maps (Routledge, 2022).
 - Booth/Posner, Varieties of Digital Humanities, PMLA 135.1(Jan 2020). 
@@ -21,16 +22,17 @@ In addition to the required [e-book](https://bobcat.library.nyu.edu/permalink/f/
 - Eve, [The Digital Humanities and Literary Studies](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008736613) (Oxford, 2022). 
 - Fiormonte/Chaudhuri/Ricaurte, [Global Debates in the Digital Humanities](https://muse.jhu.edu/book/100081), (Minnesota, 2022). 
 - Gold & Klein, Debates in the Digital Humanities (Minnesota) [2012](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph004291777) | [2016](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph007561494) | [2019](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008476431) | [2023](https://muse-jhu-edu.proxy.library.nyu.edu/book/103333).
-- Gómez, Digital Arts (Brill, 2019).
-- O'Sullivan, The Bloomsbury Handbook of the Digital Humanities (Bloomsbury, 2022). 
-- Price/Siemens, Literary Studies in the Digital Age (MLA, 2019).
-- Risam, New Digital Worlds: Postcolonial Digital Humanities (Northwestern, 2019).
-- Salmi, What is Digital History? (Polity, 2021)
+- Gómez, [Digital Arts](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph008057112) (Brill, 2019).
+- O'Sullivan, [The Bloomsbury Handbook of the Digital Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph009276012) (Bloomsbury, 2022). 
+- Price/Siemens, [Literary Studies in the Digital Age](https://dlsanthology.mla.hcommons.org/) (MLA, 2019).
+- Risam, [New Digital Worlds: Postcolonial Digital Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph006574882) (Northwestern, 2019).
+- Rockwell and Sinclair, [Hermeneutica : Computer-Assisted Interpretation in the Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph004679016) (MIT, 2016).
+- Salmi, [What is Digital History?](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph007836232) (Polity, 2021)
 - Schwan & Thomson, [The Palgrave handbook of digital and public humanities](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph009069848) (Palgrave, 2023).
-- Schreibman/Siemens/Unsworth, A New Companion to Digital Humanities (Wiley Blackwell, 2016).
-- Travis/van Lünen, The Digital Arts and Humanities (Springer, 2019).
-- Travis, Abstract Machine: Humanities GIS (ESRI, 2015).
-- Wernimont/Losh, Bodies of Information: Digital Humanities and Intersectional Feminism (Minnesota, 2018). 
+- Schreibman/Siemens/Unsworth, [A New Companion to Digital Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph007340605) (Wiley Blackwell, 2016).
+- Travis/van Lünen, [The Digital Arts and Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph004849019) (Springer, 2019).
+- Travis, [Abstract Machine: Humanities GIS](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph004308007) (ESRI, 2015).
+- Wernimont/Losh, [Bodies of Information: Digital Humanities and Intersectional Feminism](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph007465972) (Minnesota, 2018). 
 
 A reference guide for Digital Arts and Humanities has been prepared by the NYUAD library. A Stream channel exists with some tutorials specific to DAAH. 
 
