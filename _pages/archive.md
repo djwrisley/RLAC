@@ -10,11 +10,11 @@ IM-UH 1511 Introduction to Digital Arts and Humanities is the foundation course 
 
 These syllabi are provided as open educational resources with a CC BY-SA-NC 4.0 International license. If you reuse them, in part or in whole, please cite them.
 
--[Fall 2016, the course was known as AHCAD139](https://wp.nyu.edu/ahcad139/) 
--[Fall 2017]()
--[Spring 2019](https://wp.nyu.edu/introdh/)
--[Spring 2023]()
--[Fall 2023, the course changed names]()
+- [Fall 2016, the course was known as AHCAD139](https://wp.nyu.edu/ahcad139/) 
+- [Fall 2017](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/F17/Intro-DH-IM-UH-1111X-001-F17.pdf)
+- [Spring 2019](https://wp.nyu.edu/introdh/)
+- Spring 2023 forthcoming
+- Fall 2023 forthcoming
 
 **Suggested Citation**: 
 
