@@ -23,8 +23,8 @@ In addition to the required [e-book](https://bobcat.library.nyu.edu/permalink/f/
 - Fiormonte/Chaudhuri/Ricaurte, [Global Debates in the Digital Humanities](https://muse.jhu.edu/book/100081), (Minnesota, 2022). 
 - Gold & Klein, Debates in the Digital Humanities (Minnesota) [2012](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph004291777), [2016](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph007561494), [2019](https://bobcat.library.nyu.edu/permalink/f/bbtpbp/nyu_aleph008476431), [2023](https://muse-jhu-edu.proxy.library.nyu.edu/book/103333).
 - Gómez, [Digital Arts](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph008057112) (Brill, 2019).
-- Kokensparger, [Guide to programming for the digital humanities : lessons for introductory Python](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph006337285) (Springer, 2018).
-- Nieves, McGrail & Senier, [People, practice, power : digital humanities outside the center](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008655916) (Minnesota, 2021)
+- Kokensparger, [Guide to Programming for the Digital Humanities : Lessons for Introductory Python](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph006337285) (Springer, 2018).
+- Nieves, McGrail & Senier, [People, Practice, Power : Digital Humanities Outside the Center](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008655916) (Minnesota, 2021)
 - O'Sullivan, [The Bloomsbury Handbook of the Digital Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph009276012) (Bloomsbury, 2022). 
 - Price/Siemens, [Literary Studies in the Digital Age](https://dlsanthology.mla.hcommons.org/) (MLA, 2019).
 - Risam, [New Digital Worlds: Postcolonial Digital Humanities](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph006574882) (Northwestern, 2019).
@@ -36,11 +36,14 @@ In addition to the required [e-book](https://bobcat.library.nyu.edu/permalink/f/
 - Travis, [Abstract Machine: Humanities GIS](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph004308007) (ESRI, 2015).
 - Wernimont/Losh, [Bodies of Information: Digital Humanities and Intersectional Feminism](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph007465972) (Minnesota, 2018). 
 
-A reference guide for Digital Arts and Humanities has been prepared by the NYUAD library. A Stream channel exists with some tutorials specific to DAAH. 
+A [reference guide](http://guides.nyu.edu/digitalhumanities) for Digital Arts and Humanities has been prepared by the NYUAD library. A [Stream channel](https://stream.nyu.edu/channel/NYUAD%2BDH/188437763) exists with some tutorials specific to DAAH. 
 
 **Supplementary learning materials available on the web:**
 
 - [The Programming Historian](https://programminghistorian.org/) 
 - [Dariah Campus](https://campus.dariah.eu/) 
 - [Humanities Data Fundamentals](https://hdf.benschmidt.org/R/) 
-- Mattingly, Introduction to Python for Humanists
+- Mattingly, [Introduction to Python for Humanists](https://python-textbook.pythonhumanities.com/intro.html)
+- Arnold & Tilton, [Humanities Data in R](https://humanitiesdata.org/)
+- Walsh, [Introduction to Cultural Analytics and Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
+
