@@ -38,24 +38,14 @@ Making and Project-Based Thinking
 Data and Metadata in the Arts and Humanities 1 
 
 | Time/Date | Reading | Activity |
-Tues, 7 Feb		Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 
-3:35PM-6:15PM	April 2018.
-Agenda			Drucker, ch 2 (19-33) & 4 (52-69)
-			De Bastion/Mukku, Data and the Global South, 2020.
-			metadata | API | discoverability | federated database | IIIF
+| Tues, 7 Feb  3:35PM-6:15PM | <br> -Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 April 2018. <br> -Drucker, ch 2 (19-33) & 4 (52-69) <br> -De Bastion/Mukku, Data and the Global South, 2020.
+<br> -metadata / API / discoverability / federated database / IIIF |
+<br> -Lab: Asking questions of cultural databases and their bias
+<br> -Digital Library of the Middle East 
+<br> -Notebook: Exploring the Harvard Art Museums API | 
+| Thurs, 9 Feb 3:35PM-4:50PM | <br> -D'Ignazio/Klein, "Why Data Science Needs Feminism" and "The Numbers Don't Speak for Themselves", Data Feminism, 16 March 2020. <br> -Mindscape [podcast], Catherine D'Ignazio on Data Objectivity and Bias <br> -Data & Society [podcast] Data Feminism  | Prepare two questions for the general discussion and put them in the class space. |
 
-			Lab: Asking questions of cultural databases and their bias
-			Digital Library of the Middle East 
-			Notebook: Exploring the Harvard Art Museums API 
-
-Thurs, 9 Feb 		D'Ignazio/Klein, "Why Data Science Needs Feminism" and "The Numbers Don't 
-3:35PM-4:50PM	Speak for Themselves", Data Feminism, 16 March 2020.
-Agenda			Mindscape [podcast], Catherine D'Ignazio on Data Objectivity and Bias
-			Data & Society [podcast] Data Feminism  
-		
-			Prepare two questions for the general discussion and put them in the class space.. 
-In collaboration with Love Data Month and NYUAD Library (location NYUAD 
-	Library, room 329), session led by Suphan Kirmizialtin
+> In collaboration with Love Data Month and NYUAD Library (location NYUAD Library, room 329), session led by Suphan Kirmizialtin
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
