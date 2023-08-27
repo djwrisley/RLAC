@@ -67,8 +67,8 @@ Textual Bodies
 Text as Data 
 
 | Time/Date | Reading | Activity |
-| Tues, 21 Feb	3:35PM-6:15PM | <br> -Drucker, ch 6, 86-109. <br> -Text as Data podcast | Lab Notebook: <br> -Identifying Most Distinctive Words in Three (Sets of) Texts <br> -Working with Two Genres: Children's Literature and Science Fiction | |
-| Thurs, 23 Feb	 3:35PM-4:50PM	| Generative text & GPT <br> -Critical prompts for GPT with OpenAI and other APIs (zoom) <br> -Hardfork, Can ChatGPT write this podcast? (podcast) <br> -chatGPT and the Sweatshops Powering the Digital Age (Nyabola) <br> -Hardfork, Generative AI is here : who should control it? (podcast)	 <br> -Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. <br> -Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020 | |
+| Tues, 21 Feb	3:35PM-6:15PM | <br> -Drucker, ch 6, 86-109. <br> -Text as Data podcast | Lab Notebook: <br> -Identifying Most Distinctive Words in Three (Sets of) Texts <br> -Working with Two Genres: Children's Literature and Science Fiction |
+| Thurs, 23 Feb	 3:35PM-4:50PM	| Generative text & GPT <br> -Critical prompts for GPT with OpenAI and other APIs (zoom) <br> -Hardfork, Can ChatGPT write this podcast? (podcast) <br> -chatGPT and the Sweatshops Powering the Digital Age (Nyabola) <br> -Hardfork, Generative AI is here : who should control it? (podcast)	 <br> -Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. <br> -Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020 | Lab: Prompt engineering in action | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
@@ -80,10 +80,7 @@ Spatial Horizons
 
 | Time/Date | Reading | Activity |
 | Tues, 28 Feb  3:35PM-6:15PM |	<br> -Drucker, ch 8, 130-150 | Exploring Spatial Projects |
-| Thurs, 2 Mar 	3:35PM-4:50PM | <br> -Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. 
-	Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116
-Agenda			Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107.
-			An Introduction to UMap | Kepler | Maps as Data
+| Thurs, 2 Mar 	3:35PM-4:50PM | <br> -Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. <br> -Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116 <br> -Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107. | <br> -An Introduction to UMap  <br> -Kepler <br> -Maps as Data |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
