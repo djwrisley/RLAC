@@ -56,7 +56,7 @@ Data and Metadata in the Arts and Humanities 1
 Textual Bodies
 
 | Time/Date | Reading | Activity |
-|Tues, 14 Feb	3:35PM-6:15PM |	<br> -Drucker, ch 7, 110-120.<br> -Clark et al, "What's Trending in the Chinese Google Books Corpus" Global Debates in the Digital Humanities, 2022 | <br> Lab:  <br> -Text Mining: Easy to Less Easy <br> -Google NGram Viewer <br> -Bookworm <br> -Voyant <br> -AntConc <br> -Docuscope <br> -CLiC |
+|Tues, 14 Feb	3:35PM-6:15PM |	<br> -Drucker, ch 7, 110-120. <br> -Clark et al, "What's Trending in the Chinese Google Books Corpus" Global Debates in the Digital Humanities, 2022 | Lab:  <br> -Text Mining: Easy to Less Easy <br> -Google NGram Viewer <br> -Bookworm <br> -Voyant <br> -AntConc <br> -Docuscope <br> -CLiC |
 | Thurs, 16 Feb 	3:35PM-4:50PM |	<br> -Ramsey, "In Praise of Pattern," TEXT Technology 14.2(2005). <br> -Klein, "Distant Reading after Moretti" [blog] 2018. <br> -Miller, "Using GPT on Library Collections", 2023. | Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast] |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
