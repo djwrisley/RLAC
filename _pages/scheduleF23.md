@@ -67,8 +67,8 @@ Textual Bodies
 Text as Data 
 
 | Time/Date | Reading | Activity |
-| Tues, 21 Feb	3:35PM-6:15PM | <br> -Drucker, ch 6, 86-109. <br> -Text as Data podcast | Lab Notebook: <br> -Identifying Most Distinctive Words in Three (Sets of) Texts <br> -Working with Two Genres: Children's Literature and Science Fiction 
-| Thurs, 23 Feb	 3:35PM-4:50PM	| Generative text & GPT <br> -Critical prompts for GPT with OpenAI and other APIs (zoom) <br> -Hardfork, Can ChatGPT write this podcast? (podcast) <br> -chatGPT and the Sweatshops Powering the Digital Age (Nyabola) <br> -Hardfork, Generative AI is here : who should control it? (podcast)	 <br> -Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. <br> -Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020
+| Tues, 21 Feb	3:35PM-6:15PM | <br> -Drucker, ch 6, 86-109. <br> -Text as Data podcast | Lab Notebook: <br> -Identifying Most Distinctive Words in Three (Sets of) Texts <br> -Working with Two Genres: Children's Literature and Science Fiction |
+| Thurs, 23 Feb	 3:35PM-4:50PM	| Generative text & GPT <br> -Critical prompts for GPT with OpenAI and other APIs (zoom) <br> -Hardfork, Can ChatGPT write this podcast? (podcast) <br> -chatGPT and the Sweatshops Powering the Digital Age (Nyabola) <br> -Hardfork, Generative AI is here : who should control it? (podcast)	 <br> -Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. <br> -Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020 |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
@@ -79,9 +79,9 @@ Text as Data
 Spatial Horizons
 
 | Time/Date | Reading | Activity |
-Tues, 28 Feb		Drucker, ch 8, 130-150
+| Tues, 28 Feb |	Drucker, ch 8, 130-150
 3:35PM-6:15PM	Exploring Spatial Projects
-Journal Club: 5-6pm  Robert Ackland & Ann Evans, “Using the web to examine the evolution of the abortion debate in Australia, 2005–2015” at The Web as History.
+
 
 Thurs, 2 Mar 		Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. 
 3:35PM-4:50PM	Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116
