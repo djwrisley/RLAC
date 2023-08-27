@@ -45,8 +45,9 @@ Data and Metadata in the Arts and Humanities 1
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
+**ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/)** Due Date 2 March, 20% final grade.
+{: .notice}
 
-ASSIGNMENT 1 : Working with the metadata for an item in the Digital Library of the Middle East. For this assignment you will find two or three items from different collections in the DLME, you will discuss their metadata, do research to complete the metadata where possible and discuss how your virtual reunification of these objects allows us to see them together in a new light. You can be as creative or analytical as you like.  Due: 2 March  (revised). A detailed description of the exercise, guiding questions, and requirements will be provided.  
 
 ## UNIT 2: TEXTUAL
 
@@ -55,22 +56,9 @@ ASSIGNMENT 1 : Working with the metadata for an item in the Digital Library of t
 Textual Bodies
 
 | Time/Date | Reading | Activity |
-Tues, 14 Feb		Drucker, ch 7, 110-120.
-3:35PM-6:15PM	Clark et al, "What's Trending in the Chinese Google Books Corpus" Global 
-			Debates in the Digital Humanities, 2022
-			Lab:  Text Mining: Easy to Less Easy Google NGram Viewer | Bookworm | 
-			Voyant | AntConc | Docuscope | CLiC
-Journal Club: 5-6pm Daniel Rosenberg, “Data Before the Fact” in Raw Data is an Oxymoron
- 
-Thurs, 16 Feb 		Ramsey, "In Praise of Pattern," TEXT Technology 14.2(2005). 
-3:35PM-4:50PM	Klein, "Distant Reading after Moretti" [blog] 2018. 
-			Miller, "Using GPT on Library Collections", 2023. 
-Agenda	
-Clark et al, "What's Trending in the Chinese Google Books Corpus" Global 
-	Debates in the Digital Humanities, 2022
-			Lab:  Text Mining: Easy to Less Easy Google NGram Viewer | Bookworm | 
-			Voyant | AntConc | Docuscope | CLiC
-Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast]
+|Tues, 14 Feb	3:35PM-6:15PM |	<br> -Drucker, ch 7, 110-120.<br> -Clark et al, "What's Trending in the Chinese Google Books Corpus" Global Debates in the Digital Humanities, 2022|
+<br> Lab:  <br> -Text Mining: Easy to Less Easy <br> -Google NGram Viewer <br> -Bookworm <br> -Voyant <br> -AntConc <br> -Docuscope <br> -CLiC|
+|Thurs, 16 Feb 	3:35PM-4:50PM|	<br> -Ramsey, "In Praise of Pattern," TEXT Technology 14.2(2005). <br> -Klein, "Distant Reading after Moretti" [blog] 2018. <br> -Miller, "Using GPT on Library Collections", 2023. |Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast]|
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
