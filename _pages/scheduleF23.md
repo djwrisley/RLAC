@@ -79,12 +79,9 @@ Text as Data
 Spatial Horizons
 
 | Time/Date | Reading | Activity |
-| Tues, 28 Feb |	Drucker, ch 8, 130-150
-3:35PM-6:15PM	Exploring Spatial Projects
-
-
-Thurs, 2 Mar 		Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. 
-3:35PM-4:50PM	Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116
+| Tues, 28 Feb  3:35PM-6:15PM |	<br> -Drucker, ch 8, 130-150 | Exploring Spatial Projects |
+| Thurs, 2 Mar 	3:35PM-4:50PM | <br> -Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. 
+	Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116
 Agenda			Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107.
 			An Introduction to UMap | Kepler | Maps as Data
 
