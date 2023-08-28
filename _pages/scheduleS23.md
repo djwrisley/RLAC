@@ -113,9 +113,8 @@ Culture on the z-Axis
 **ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Instructions [here]()** Due April 18, 20% final grade. 
 {: .notice}
 
-
-Tues, 28 Mar 		Lab: Finding Global Culture in 3d printing
-3:35PM-6:15PM	Visit to Archives & Special Collections (430-530pm) + discussion of HTR
+| Time/Date | Reading | Activity |
+| Tues, 28 Mar 	3:35PM-6:15PM	| | Lab: <br> -Finding Global Culture in 3d printing	<br> -Visit to Archives & Special Collections (430-530pm) + discussion of HTR
 
 
 **Optional event: [Unlocking Archives with AI 1](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai)**, Iftar and presentation (640-845pm) Video [here](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai)
@@ -137,12 +136,12 @@ Tues, 28 Mar 		Lab: Finding Global Culture in 3d printing
 
 ## UNIT 4: IMAGE  
 
-		Image Collections 
-			
-Tues 4 Apr		Lab: WCMA digital project | Selfie City | Photogrammar | MoMA photography | 
-3:35PM-6:15PM	This Was Paris in 1970
-Agenda			Vox, "Why I am Obsessed With these Cheap Paintings of Paris" 
-			Kinds of metadata in cultural collections: human created & computed
+Image Collections 
+
+### Week 10
+
+| Tues 4 Apr	3:35PM-6:15PM |	<br> -This Was Paris in 1970 <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris"  <br> -Kinds of metadata in cultural collections: human created & computed | Lab: <br> -WCMA digital project <br> -Selfie City <br> -Photogrammar <br> -MoMA photography | 
+
 
 
 Thurs, 6 Apr		Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19
