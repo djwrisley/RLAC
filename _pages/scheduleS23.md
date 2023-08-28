@@ -200,8 +200,8 @@ Data and Metadata in the Arts and Humanities 2
 | Tues, 25 April 3:35PM-6:15PM	| <br> -Vetter, "Why you need to understand Wikidata, no matter what field you're in", 2021. <br> -Rawson/Muñoz, "Against Cleaning", Debates in the Digital Humanities, 2019, 279-292 | Lab: OpenRefine and Wikidata | 
 | Thurs, 27 April 3:35PM-4:50PM | 	<br> -Drucker, ch 5, 70-85. | <br> -Demo of reveal.js  <br> -Planning and scoping final un-projects |
 
-
-Final "unproject":  Due 13 May.  Instructions here. 
+**Final "unproject":  Due 13 May, 20% final grade.  Instructions [here]().**
+{: .notice} 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
@@ -219,8 +219,8 @@ On the Social in Digital Arts and Humanities
 ### Week 15
 
 | Time/Date | Reading | Activity |
-| Tues, 9 May 	| | group work |
-| Thurs, 11 May | |	final presentations | 
+| Tues, 9 May 	|  --- | group work |
+| Thurs, 11 May | --- |	final presentations | 
 
 
 **All work is due Sunday, May 14, 11:59pm.**
