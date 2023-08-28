@@ -11,7 +11,6 @@ tags:
   - Notice
 ---
 
-
 ## Guidelines for the Assignment: 
 
 The Corpus Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and R Markdown files in Posit Cloud. This assignment can be done alone or in pairs.
