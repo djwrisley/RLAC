@@ -18,7 +18,7 @@ Digital Arts and Humanities: innovation, creativity & contexts
 | Tues, 24 Jan (3:35PM-6:15PM) | -Drucker, ch 1, 1-18. <br> -Loudon, "[Creativity Can Be the Bridge](https://theconversation.com/creativity-can-be-the-bridge-between-science-and-humanities-education-99610)", The Conversation, 16 October 2018 <br> -Rogers, [So You want to make a DH Website](http://www.kelseymarierogers.com/tutorial/2018/02/24/digital-humanities-platforms.html) | Lab on Web Publishing Alternatives: Github Pages, [Google Sites](https://workspace.google.com/products/sites/), [Hypotheses](https://hypotheses.org/), [NYU Web Hosting (WordPress)](https://hosting.nyu.edu/), [Notion](https://www.notion.so/), [Vercel](https://vercel.com/), [NYU WP](https://wp.nyu.edu/), [Humanities Commons](https://hcommons.org/). |
 | Thurs, 26 Jan	(3:35PM-4:50PM) | -Schneider, "[Why Digital Humanities](http://www.politicseastasia.com/research/digital-nationalism/digital-humanities/)", Politics East Asia, 4 November 2013.<br> -Sneha, "[Mapping Digital Humanities in India](https://cis-india.org/papers/mapping-digital-humanities-in-india)" CIS Bangalore, 2016, 5-14, 52-57. <br> -Kidd, "[Nobody Cares about your blog!](https://mssprovenance.blogspot.com/2022/12/nobody-cares-about-your-blog.html)" 2022. | discussion |
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 2		
 
@@ -31,7 +31,7 @@ Making and Project-Based Thinking
 **Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/)** Due Date 2 March, 20% final grade.
 {: .notice}
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 3
 
@@ -43,7 +43,7 @@ Data and Metadata in the Arts and Humanities 1
 
 > In collaboration with Love Data Month and NYUAD Library (location NYUAD Library, room 329), session led by Suphan Kirmizialtin
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 **ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/)** Due Date 2 March, 20% final grade.
 {: .notice}
@@ -59,7 +59,7 @@ Textual Bodies
 |Tues, 14 Feb	3:35PM-6:15PM |	<br> -Drucker, ch 7, 110-120. <br> -Clark et al, "What's Trending in the Chinese Google Books Corpus" Global Debates in the Digital Humanities, 2022 | Lab: -Text Mining: Easy to Less Easy <br> -Google NGram Viewer <br> -Bookworm <br> -Voyant <br> -AntConc |
 | Thurs, 16 Feb 	3:35PM-4:50PM |	<br> -Ramsey, "In Praise of Pattern," TEXT Technology 14.2(2005). <br> -Klein, "Distant Reading after Moretti" [blog] 2018. <br> -Miller, "Using GPT on Library Collections", 2023. | Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast] |
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 
 ### Week 5
@@ -70,7 +70,7 @@ Text as Data
 | Tues, 21 Feb	3:35PM-6:15PM | <br> -Drucker, ch 6, 86-109. <br> -Text as Data podcast | Lab Notebook: <br> -Identifying Most Distinctive Words in Three (Sets of) Texts <br> -Working with Two Genres: Children's Literature and Science Fiction |
 | Thurs, 23 Feb	 3:35PM-4:50PM	| Generative text & GPT <br> -Critical prompts for GPT with OpenAI and other APIs (zoom) <br> -Hardfork, Can ChatGPT write this podcast? (podcast) <br> -chatGPT and the Sweatshops Powering the Digital Age (Nyabola) <br> -Hardfork, Generative AI is here : who should control it? (podcast)	 <br> -Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. <br> -Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020 | Lab: Prompt engineering in action | 
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ## UNIT 3: SPATIAL 
 
@@ -82,7 +82,7 @@ Spatial Horizons
 | Tues, 28 Feb  3:35PM-6:15PM |	<br> -Drucker, ch 8, 130-150 | Exploring Spatial Projects |
 | Thurs, 2 Mar 	3:35PM-4:50PM | <br> -Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. <br> -Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116 <br> -Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107. | <br> -An Introduction to UMap  <br> -Kepler <br> -Maps as Data |
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 7
 
@@ -92,7 +92,7 @@ Map Visualization
 | Tues, 7 Mar	3:35PM-6:15PM |	<br> -Watch: Linked Maps and Spatial Searching <br> -Read: A growing problem of deepfake geography <br> -Read: Deep fake satellite imagery poses a not-so-distant threat <br> -Listen: Fake Satellite Imagery | Lab: <br> -(1) Make an OpenStreetMap account here. Visualizing previous datasets in UMap <br> -(2) Using code to make maps with leaflet.js <br> -(3) Making your own fantasy map for world building <br> -(4) Adding an interactive map to Wikipedia in Your Language |
 | Thurs, 9 Mar 3:35PM-4:50PM | <br> -Guest speaker: Mary Michael (UCSB) "What can data be?" <br> -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -Exploring Humanitarian OSM | 
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ***BREAK 15-22 March*** 
 
@@ -120,7 +120,7 @@ Culture on the z-Axis
 **Optional event: [Unlocking Archives with AI 1](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai)**, Iftar and presentation (640-845pm) Video [here](https://www.youtube.com/watch?v=o1YSPZ7yjZY)
 {: .notice}
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 9 
 
@@ -131,7 +131,7 @@ Culture on the z-Axis
 {: .notice}
 
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 
 ## UNIT 4: IMAGE  
@@ -148,7 +148,7 @@ Image Collections
 **ASSIGNMENT 2: Analyzing your custom image corpora with Orange. Instructions [here]()** Due 4 May, 20% final grade. 
 {: .notice}
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 
 Computational approaches to image 
@@ -167,7 +167,7 @@ Tues, 11 Apr 		Orange Data Mining for image classification
 (guest instructor)	open access > read open access > ch 2 Emerging Methods and Genres, page 35 
 			in chapter pdf.
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 12
 
@@ -187,7 +187,7 @@ Tues, 18 April		Junginger et al, "The Close-up Cloud" Journal of Digital Art His
 **Optional talk: "Open data and knowledge stewardship, the case of Palestine Open Maps" (Majd Shihadi, University of Toronto) Thursday, 20 April, 12-130pm, A6.**
 {: .notice}
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 
 ## UNIT 5: TOWARDS DIGITAL PROJECT WORK
@@ -203,7 +203,7 @@ Data and Metadata in the Arts and Humanities 2
 **Final "unproject":  Due 13 May, 20% final grade.  Instructions [here]().**
 {: .notice} 
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 14
 
@@ -214,7 +214,7 @@ On the Social in Digital Arts and Humanities
 | Thurs, 4 May 	3:35PM-4:50PM | Wrap up |	group work |
 
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 15
 
@@ -226,4 +226,4 @@ On the Social in Digital Arts and Humanities
 **All work is due Sunday, May 14, 11:59pm.**
 {: .notice}
 
-[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
