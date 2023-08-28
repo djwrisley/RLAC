@@ -1,8 +1,6 @@
 ---
-title: "Assignment 2 - Working with a Corpus"
-layout: textlay
+title: "Assignment 2 Working with a Corpus"
 excerpt_separator: "<!--more-->"
-excerpt: "Corpus Assignment"
 categories:
   - Blog
 tags:
@@ -11,11 +9,10 @@ tags:
   - chatGPT
   - S23
   - Notice
-permalink: /corpus-assignment/
 ---
 
 
-# Guidelines for the Assignment: 
+## Guidelines for the Assignment: 
 
 The Corpus Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and R Markdown files in Posit Cloud. This assignment can be done alone or in pairs.
 
