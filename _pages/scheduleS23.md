@@ -141,22 +141,18 @@ Image Collections
 ### Week 10
 
 | Tues 4 Apr	3:35PM-6:15PM |	<br> -This Was Paris in 1970 <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris"  <br> -Kinds of metadata in cultural collections: human created & computed | Lab: <br> -WCMA digital project <br> -Selfie City <br> -Photogrammar <br> -MoMA photography | 
+| Thurs, 6 Apr	3:35PM-4:50PM |	<br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. <br> -How does a lightbox work? | In class exploration: <br> -ARt Image Exploration Space for manual alignment using two image corpora <br> -Looking for Patterns in Image Collections with IMJ | 
 
 
-
-Thurs, 6 Apr		Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19
-3:35PM-4:50PM	Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. 
-Agenda	
-How does a lightbox work? 
-In class exploration: ARt Image Exploration Space for manual alignment using two image corpora 
-			Looking for Patterns in Image Collections with IMJ
-
-ASSIGNMENT 3:  Analyzing your custom image corpora with Orange. Due 4 May. Instructions here. 
+**ASSIGNMENT 2: Analyzing your custom image corpora with Orange. Instructions [here]()** Due 4 May, 20% final grade. 
+{: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
 Computational approaches to image 
+
+### Week 11
 
 Tues, 11 Apr 		Orange Data Mining for image classification
 3:35PM-6:15PM	Lab: Working with Datasets of Arabic Book & Magazine Covers, VanGogh 
@@ -172,6 +168,7 @@ Thurs, 13 Apr 		Group Ideation for Final "Unproject"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
+### Week 12
 
 Tues, 18 April		Junginger et al, "The Close-up Cloud" Journal of Digital Art History, 2020
 3:35PM-6:15PM	Salvaggio, "How to Read an AI Image," 2022
@@ -193,6 +190,8 @@ Optional talk: "Open data and knowledge stewardship, the case of Palestine Open 
 
 Data and Metadata in the Arts and Humanities 2 
 
+### Week 13
+
 | Time/Date | Reading | Activity |
 | Tues, 25 April 3:35PM-6:15PM	| <br> -Vetter, "Why you need to understand Wikidata, no matter what field you're in", 2021. <br> -Rawson/Muñoz, "Against Cleaning", Debates in the Digital Humanities, 2019, 279-292 | Lab: OpenRefine and Wikidata | 
 | Thurs, 27 April 3:35PM-4:50PM | 	<br> -Drucker, ch 5, 70-85. | <br> -Demo of reveal.js  <br> -Planning and scoping final un-projects |
@@ -202,7 +201,7 @@ Final "unproject":  Due 13 May.  Instructions here.
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-### Week xxx
+### Week 14
 
 On the Social in Digital Arts and Humanities
 
@@ -220,8 +219,7 @@ Thurs, 4 May 		group work
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-
-### Week xyz
+### Week 15
 
 Tues, 9 May 		group work
 Thurs, 11 May 		final presentations 
