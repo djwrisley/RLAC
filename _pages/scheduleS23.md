@@ -104,14 +104,16 @@ Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -Exploring Huma
 Culture on the z-Axis
 
 | Time/Date | Reading | Activity |
-Thurs, 23 Mar		Drucker, ch 9, 151-171.
-3:35PM-4:50PM	Web resources: Thingiverse, 3duniverse, 3dwarehouse, Yeggi
-Agenda			Nieves, "Digital Queer Witnessing," The Digital Black Atlantic, 2021, 58-68.
+| Thurs, 23 Mar	 3:35PM-4:50PM	| <br> -Drucker, ch 9, 151-171. <br> -Web resources: Thingiverse, 3duniverse, 3dwarehouse, Yeggi
+<br> -Nieves, "Digital Queer Witnessing," The Digital Black Atlantic, 2021, 58-68. | |
 
 
-Digital Literacy Narrative Revision #1 : revised instructions in drive.  Due 6 April. 
+**Digital Literacy Narrative Revision #1 : revised instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/).  Due 6 April, 20% final grade.
+{: .notice} 
 
-ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Due April 18. Instructions here. 
+
+**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Instructions [here]() Due April 18, 20% final grade. 
+{: .notice}
 
 
 Tues, 28 Mar 		Lab: Finding Global Culture in 3d printing
