@@ -106,14 +106,11 @@ Culture on the z-Axis
 | Thurs, 23 Mar	 3:35PM-4:50PM	| <br> -Drucker, ch 9, 151-171. <br> -Nieves, "Digital Queer Witnessing," The Digital Black Atlantic, 2021, 58-68. | <br> Lab in Academic Technology <br> Web resources: Thingiverse, 3duniverse, 3dwarehouse, Yeggi| 
 
 
-**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/), Due Date 6 April, 20% final grade.
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/)**, Due Date 6 April, 20% final grade.
 {: .notice}
 
 
-**ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/)** Due Date 2 March, 20% final grade.
-{: .notice}
-
-**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Instructions [here]() Due April 18, 20% final grade. 
+**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Instructions [here]()** Due April 18, 20% final grade. 
 {: .notice}
 
 
@@ -121,17 +118,19 @@ Tues, 28 Mar 		Lab: Finding Global Culture in 3d printing
 3:35PM-6:15PM	Visit to Archives & Special Collections (430-530pm) + discussion of HTR
 
 
-	Optional event: Unlocking Archives with AI 1, Iftar and presentation (640-845pm) 
+**Optional event: [Unlocking Archives with AI 1](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai)**, Iftar and presentation (640-845pm) Video [here](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai)
+{: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 ### Week 9 
 
 | Time/Date | Reading | Activity |
-Thurs, 30 Mar		Tissen, "3d Printing and the Art World: Current Developments and Future 
-3:35PM-4:50PM	Perspectives", Advances in 3d Printing, 2022.
+| Thurs, 30 Mar	 3:35PM-4:50PM	| Tissen, "3d Printing and the Art World: Current Developments and Future Perspectives", Advances in 3d Printing, 2022. | |
 
-	Optional event: Unlocking Archives with AI 2, Iftar and presentation (640-940pm) 
+**Optional event: [Unlocking Archives with AI 2](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai)**, Iftar and presentation (640-940pm) 
+{: .notice}
+
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
