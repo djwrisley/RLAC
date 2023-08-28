@@ -110,14 +110,14 @@ Culture on the z-Axis
 {: .notice}
 
 
-**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Instructions [here]()** Due April 18, 20% final grade. 
+**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Instructions [here](https://daahnyuad.github.io/blog/corpus-assignment/)** Due April 18, 20% final grade. 
 {: .notice}
 
 | Time/Date | Reading | Activity |
 | Tues, 28 Mar 	3:35PM-6:15PM	| | Lab: <br> -Finding Global Culture in 3d printing	<br> -Visit to Archives & Special Collections (430-530pm) + discussion of HTR
 
 
-**Optional event: [Unlocking Archives with AI 1](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai)**, Iftar and presentation (640-845pm) Video [here](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai)
+**Optional event: [Unlocking Archives with AI 1](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai)**, Iftar and presentation (640-845pm) Video [here](https://www.youtube.com/watch?v=o1YSPZ7yjZY)
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
@@ -140,6 +140,7 @@ Image Collections
 
 ### Week 10
 
+| Time/Date | Reading | Activity |
 | Tues 4 Apr	3:35PM-6:15PM |	<br> -This Was Paris in 1970 <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris"  <br> -Kinds of metadata in cultural collections: human created & computed | Lab: <br> -WCMA digital project <br> -Selfie City <br> -Photogrammar <br> -MoMA photography | 
 | Thurs, 6 Apr	3:35PM-4:50PM |	<br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. <br> -How does a lightbox work? | In class exploration: <br> -ARt Image Exploration Space for manual alignment using two image corpora <br> -Looking for Patterns in Image Collections with IMJ | 
 
@@ -154,14 +155,14 @@ Computational approaches to image
 
 ### Week 11
 
+| Time/Date | Reading | Activity |
 Tues, 11 Apr 		Orange Data Mining for image classification
 3:35PM-6:15PM	Lab: Working with Datasets of Arabic Book & Magazine Covers, VanGogh 
 			paintings, Flickr Faces, Yoga Poses, Wikiart self-portraits, Ebony Magazine 
 			Covers, Chinese Fine Art, Pokemon Images, 
 			Watch: How We Teach Computers to Understand Images (Li) and Clustering of 
 			Monet and Manet (Orange)
-
-Thurs, 13 Apr 		Group Ideation for Final "Unproject" 
+| Thurs, 13 Apr 		Group Ideation for Final "Unproject" 
 3:35PM-4:50PM	Burdick et al.  "A Portfolio of Case Studies," Digital_Humanities, 2016, 60-71 
 (guest instructor)	open access > read open access > ch 2 Emerging Methods and Genres, page 35 
 			in chapter pdf.
@@ -170,6 +171,7 @@ Thurs, 13 Apr 		Group Ideation for Final "Unproject"
 
 ### Week 12
 
+| Time/Date | Reading | Activity |
 Tues, 18 April		Junginger et al, "The Close-up Cloud" Journal of Digital Art History, 2020
 3:35PM-6:15PM	Salvaggio, "How to Read an AI Image," 2022
 			Exploring the Atlas of KREA AI Generative Visuals
@@ -177,11 +179,13 @@ Tues, 18 April		Junginger et al, "The Close-up Cloud" Journal of Digital Art His
 			Lab: DALLE - 2 / Dreamstudio.ai / diffusion B / Lexica / Craiyon
 
 
-Optional Workshop: "Palestine Open Maps mapathon" Wednesday, 19 April, 3-530pm. Location TBA.
+**Optional Workshop: "Palestine Open Maps mapathon" Wednesday, 19 April, 3-530pm, A6.** 
+{: .notice}
 
-Palestine Open Maps is a collection of historical maps of Palestine. In this workshop, we will learn how the simple open source tools of OpenStreetMap can be used to extract geographic data from historical maps, and publish them for use by other researchers. We will also discuss how the ontology of historical maps gets adapted into the ontology of modern GIS tools, and how the data produced collectively opens questions around data ownership and public knowledge production. 
+> Palestine Open Maps is a collection of historical maps of Palestine. In this workshop, we will learn how the simple open source tools of OpenStreetMap can be used to extract geographic data from historical maps, and publish them for use by other researchers. We will also discuss how the ontology of historical maps gets adapted into the ontology of modern GIS tools, and how the data produced collectively opens questions around data ownership and public knowledge production. 
 
-Optional talk: "Open data and knowledge stewardship, the case of Palestine Open Maps" (Majd Shihadi, University of Toronto) Thursday, 20 April, 12-130pm location TBA
+**Optional talk: "Open data and knowledge stewardship, the case of Palestine Open Maps" (Majd Shihadi, University of Toronto) Thursday, 20 April, 12-130pm, A6.**
+{: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
@@ -206,23 +210,17 @@ Final "unproject":  Due 13 May.  Instructions here.
 On the Social in Digital Arts and Humanities
 
 | Time/Date | Reading | Activity |
-Tues, 2 May 		Siemens, "It's a Team if you use 'Reply all'", Linguistic and Literary Computing 
-3:35PM-6:15PM	24.2(2009): 225-232.
-Nowviskie, On Capacity and Care, Debates in the Digital Humanities, 2019, 424-426.
-Burdick et al. "The Social Lives of Digital Humanities," Digital_Humanities, 2016, 73-98.  (ch 3) 
-Drucker, ch 12, 211-225. 
-group work 
+| Tues, 2 May 3:35PM-6:15PM | <br> -Drucker, ch 12, 211-225 <br> -Siemens, "It's a Team if you use 'Reply all'", Linguistic and Literary Computing 24.2(2009): 225-232. <br> -Nowviskie, On Capacity and Care, Debates in the Digital Humanities, 2019, 424-426. <br> -Burdick et al. "The Social Lives of Digital Humanities," Digital_Humanities, 2016, 73-98. (ch 3) | group work |
+| Thurs, 4 May 	3:35PM-4:50PM | Wrap up |	group work |
 
-Thurs, 4 May 		group work 
-3:35PM-4:50PM
-		Wrap up
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 ### Week 15
 
-Tues, 9 May 		group work
-Thurs, 11 May 		final presentations 
+| Time/Date | Reading | Activity |
+| Tues, 9 May 	| | group work |
+| Thurs, 11 May | |	final presentations | 
 
 
 **All work is due Sunday, May 14, 11:59pm.**
