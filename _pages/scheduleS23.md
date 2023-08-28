@@ -89,20 +89,9 @@ Spatial Horizons
 Map Visualization
 
 | Time/Date | Reading | Activity |
-Tues, 7 Mar		Watch: Linked Maps and Spatial Searching 
-3:35PM-6:15PM	Read: A growing problem of deepfake geography
-Agenda			Read: Deep fake satellite imagery poses a not-so-distant threat
-			Listen: Fake Satellite Imagery 
-			Lab: (1) Make an OpenStreetMap account here. Visualizing previous datasets in 
-			UMap (2) Using code to make maps with leaflet.js (3) Making your own fantasy 
-			map for world building (4) Adding an interactive map to Wikipedia 
-			in Your Language 
-			 
-
-Thurs, 9 Mar 		Guest speaker: Mary Michael (UCSB) "What can data be?" 
-3:35PM-4:50PM	Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown 
-Agenda			Journal of International Affairs 16.2(2015): 91-101.	
-			Exploring Humanitarian OSM 
+| Tues, 7 Mar	3:35PM-6:15PM |	<br> -Watch: Linked Maps and Spatial Searching <br> -Read: A growing problem of deepfake geography <br> -Read: Deep fake satellite imagery poses a not-so-distant threat <br> -Listen: Fake Satellite Imagery | Lab: <br> -(1) Make an OpenStreetMap account here. Visualizing previous datasets in UMap <br> -(2) Using code to make maps with leaflet.js <br> -(3) Making your own fantasy map for world building <br> -(4) Adding an interactive map to Wikipedia in Your Language |
+| Thurs, 9 Mar 3:35PM-4:50PM | <br> -Guest speaker: Mary Michael (UCSB) "What can data be?" <br> -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown 
+Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -Exploring Humanitarian OSM | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
