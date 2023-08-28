@@ -1,11 +1,19 @@
-
 ---
 title: "Assignment 2 - Working with a Corpus"
 layout: textlay
+excerpt_separator: "<!--more-->"
 excerpt: "Corpus Assignment"
-sitemap: false
+categories:
+  - Blog
+tags:
+  - Assignments
+  - Corpora
+  - chatGPT
+  - S23
+  - Notice
 permalink: /corpus-assignment/
 ---
+
 
 # Guidelines for the Assignment: 
 
