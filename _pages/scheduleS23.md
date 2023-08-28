@@ -145,7 +145,7 @@ Image Collections
 | Thurs, 6 Apr	3:35PM-4:50PM |	<br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. <br> -How does a lightbox work? | In class exploration: <br> -ARt Image Exploration Space for manual alignment using two image corpora <br> -Looking for Patterns in Image Collections with IMJ | 
 
 
-**ASSIGNMENT 2: Analyzing your custom image corpora with Orange. Instructions [here]()** Due 4 May, 20% final grade. 
+**ASSIGNMENT 3: Analyzing your custom image corpora with Orange. Instructions [here]()** Due 4 May, 20% final grade. 
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
@@ -156,27 +156,15 @@ Computational approaches to image
 ### Week 11
 
 | Time/Date | Reading | Activity |
-Tues, 11 Apr 		Orange Data Mining for image classification
-3:35PM-6:15PM	Lab: Working with Datasets of Arabic Book & Magazine Covers, VanGogh 
-			paintings, Flickr Faces, Yoga Poses, Wikiart self-portraits, Ebony Magazine 
-			Covers, Chinese Fine Art, Pokemon Images, 
-			Watch: How We Teach Computers to Understand Images (Li) and Clustering of 
-			Monet and Manet (Orange)
-| Thurs, 13 Apr 		Group Ideation for Final "Unproject" 
-3:35PM-4:50PM	Burdick et al.  "A Portfolio of Case Studies," Digital_Humanities, 2016, 60-71 
-(guest instructor)	open access > read open access > ch 2 Emerging Methods and Genres, page 35 
-			in chapter pdf.
-
+| Tues, 11 Apr 	3:35PM-6:15PM |	Orange Data Mining for image classification Watch: <br> -How We Teach Computers to Understand Images (Li) <br> -Clustering of Monet and Manet (Orange) | Lab: Working with Datasets of Arabic Book & Magazine Covers, VanGogh paintings, Flickr Faces, Yoga Poses, Wikiart self-portraits, Ebony Magazine Covers, Chinese Fine Art, Pokemon Images | 
+| Thurs, 13 Apr 3:35PM-4:50PM | Burdick et al.  "A Portfolio of Case Studies," Digital_Humanities, 2016, 60-71 (guest instructor) open access > read open access > ch 2 Emerging Methods and Genres, page 35 in chapter pdf. | Group Ideation for Final "Unproject" |
+	
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 12
 
 | Time/Date | Reading | Activity |
-Tues, 18 April		Junginger et al, "The Close-up Cloud" Journal of Digital Art History, 2020
-3:35PM-6:15PM	Salvaggio, "How to Read an AI Image," 2022
-			Exploring the Atlas of KREA AI Generative Visuals
-			Vox, "The Text to Image Revolution, Explained" 
-			Lab: DALLE - 2 / Dreamstudio.ai / diffusion B / Lexica / Craiyon
+| Tues, 18 April 3:35PM-6:15PM	| <br> -Junginger et al, "The Close-up Cloud" Journal of Digital Art History, 2020 <br> -Salvaggio, "How to Read an AI Image," 2022 <br> -Exploring the Atlas of KREA AI Generative Visuals <br> -Vox, "The Text to Image Revolution, Explained" |Lab: <br> -DALLE - 2 <br> -Dreamstudio.ai <br> -diffusion B <br> -Lexica <br> -Craiyon |
 
 
 **Optional Workshop: "Palestine Open Maps mapathon" Wednesday, 19 April, 3-530pm, A6.** 
