@@ -6,7 +6,7 @@ author_profile: false
 
 ## Introduction to Digital Arts and Humanities
 
-- **Spring 2023 (25006)**
+- **Fall 2023 (23335)**
 - **Number of credits**: 4 (14 weeks)
 - **Instructor**: David Wrisley (djw12@)
 - **Mastodon**: @djwrisley@mstdn.social
@@ -21,12 +21,10 @@ Introduction to Digital Arts and Humanities examines different intersections bet
 
 
 | **Element** | **Day** | **Timing** | **Location** | 
-| Lab | Tu | 3:35PM-6:15PM | C3 116 | 
-| Class | Th | 3:35PM-4:50PM | C3 116 | 
-| Virtual Office hour | W | 6:00-7:00PM | zoom |
-| In person office hour | Th | 5:00-6:00PM | A6 1151 |
-| Ramadan in person OH | Tu | 1-2PM | A6 1151 |
-| Ramadan virtual OH | W | 10-11 | zoom |
+| Lab | Tu | 3:35PM-6:15PM | C2 306 | 
+| Class | Th | 3:35PM-4:50PM | C2 306 | 
+| Office hours | W | 6:00-7:00PM | A6 L1 1151 |
+| Ramadan in person OH | TBA | TBA | A6 1151 |
 
 
 To see an archive of previous versions of this course, see <a href="https://daahnyuad.github.io/archive/" target="_blank">here</a>
