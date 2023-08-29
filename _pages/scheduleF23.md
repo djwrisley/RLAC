@@ -28,8 +28,21 @@ Making and Project-Based Thinking
 | Tues, 5 Sept 3:35PM-6:15PM |	<br> -Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/1quXS42vdwv0B4xBjzzvHgrkbLS9UVV56/view?usp=sharing),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. <br> -[Humanities Data Fundamentals](https://hdf.benschmidt.org/)| Lab: <br> -Working on our own blogs / pushing material to them using [GitHub Desktop] <br> -Introduction to RStudio and [Posit.cloud] (formerly RStudio.cloud) | 
 | Thurs, 7 Sept 	3:35PM-4:50PM |	<br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -The Making and Knowing Project | discussion | 
 
-**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/)** Due Date 14 Sept, 20% final grade (in phases).
+**Digital Literacy Narrative Instructions [here]()** Due Date 14 Sept, 20% final grade (in phases).
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
+### Week 3
+
+Data and Metadata in the Arts and Humanities 1 
+
+| Time/Date | Reading | Activity |
+| Tues, 12 Feb  3:35PM-6:15PM | <br> -Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 April 2018. <br> -Drucker, ch 2 (19-33) & 4 (52-69) <br> -De Bastion/Mukku, Data and the Global South, 2020. <br> -metadata / API / discoverability / federated database / IIIF <br> -Lab: Asking questions of cultural databases and their bias <br> -Digital Library of the Middle East <br> -Notebook: TBA |
+| Thurs, 14 Feb 3:35PM-4:50PM | <br> | reading TBA |
+
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
+**ASSIGNMENT 1 [here]()** Due Date 2 March, 20% final grade.
+{: .notice}
