@@ -19,13 +19,9 @@ STEP 1:
 
 1.  Make sure you have a [Github account](https://github.com/signup) in which there is not already a repository {yourusername}.github.io.  If you have this one set up already, I would suggest that you create a new Github account for the purposes of this course. 
 
-<img src="/assets/images/creatingacct.png" style="zoom:50%;" />
+<img src="/assets/images/creatingacct.png" style="zoom:25%;" />
 
 NB: Your account and your page does not need to reveal your identity in any way. Feel free to consider this account a "burner" account for the purposes of this semester. Once you have gotten your grade, feel free to delete it or to repurpose the Markdown files for another site. 
-
-If you are just creating your Github account for the first time, you will have an option to import a repository. We will use this option in this assignment. 
-
-<img src="/assets/images/importrepoinitial.png" style="zoom:50%;" />
 
 At some point in the near future, Github will require you to have multifactor authentication (2FA). We will not cover that here. 
 
@@ -35,7 +31,43 @@ At some point in the near future, Github will require you to have multifactor au
 
 STEP 2 
 
-4.   
+4.   Importing a repository 
+
+One possibility for your website is the `jekyll-academic` template. Go to repositories and click on the green button `new`.Full instructions for this can be found [here](https://ncsu-libraries.github.io/jekyll-academic-docs/) 
+
+You will see a screen for creating a new repository. Click on import a repository. 
+
+<img src="/assets/images/importrepo.png" style="zoom:25%;" />
+
+Where it says `your old repository's clone URL` insert `https://github.com/NCSU-Libraries/jekyll-academic`.
+
+And where it says new repository details insert {yourGitHubusername.github.io}. This must match the name of your GitHub user, e.g. github.com/yourGitHubusername.
+
+Click on begin import. 
+
+After import look at the repository that has been created for you as well as what it contains. Most you want to look in the `_config.yml` files or folders like `_data` and `_posts`.
+
+> You can use this website (and customize it) if you like for your work. 
+
+
+STEP 3  Forking a repo. Detailed instructions for this can be found [here](https://liamodwyer.github.io/github-pages/5-templates.html)
+
+5.  Deleting a repository. When in repositories look in Settings, and all the way at the bottom is a repository in which you can forever delete that repository.  Do so only when you want to wipe things clean. 
+
+6.  Forking (copying the contents) takes place by navigating to the main page of an existing GitHub page.
+
+For example, there is the very popular site for `minimal-mistakes`: https://github.com/mmistakes/mm-github-pages-starter
+
+With your GitHub account open, navigate to this page, above the file list, click `Use This Template` (If you do not see it, you may have to go to Settings to click it on). Select `create a new repository`. This will take what was there and bring it over into your account.
+
+The detailed instructions linked above give another same template and point you to many more. 
+
+> You can use this website (and customize it) if you like for your work. 
+
+
+7.   Cloning this repository to your machine with Github Desktop
+
+
 
 In Spring 2023 you can replace this assignment with attending the entire ["Unlocking Archives with AI"](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai) 2-day workshop and writing it up. See more instructions below for that replacement assignment. If you swap an assignment with your attendance at this workshop, this should be done alone. 
 
