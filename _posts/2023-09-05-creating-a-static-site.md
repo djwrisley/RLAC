@@ -67,6 +67,25 @@ The detailed instructions linked above give another same template and point you 
 
 7.   Cloning this repository to your machine with Github Desktop
 
+Open GitHub Desktop and log into it with your credentials from your GitHub account. Setting > Accounts. 
+
+Then, using the URL of the repository where you forked the `minimal-mistakes` template, navigate to file > clone repository. 
+
+Selecting URL, paste that URL into the repository URL blank and click clone. 
+
+<img src="/assets/images/clonerepo.png" style="zoom:25%;" />
+
+When done, you should be able to see it in the current repository tab at left in Github Desktop. 
+
+8.  Editing the repository on your own machine. 
+
+Now that you have a copy of the repository on your laptop you can edit it there and "push" the changes to the web. 
+
+When you edit and save (and sometime enter a commit message), you will see a blue button to transfer these changes to the web. 
+
+<img src="/assets/images/pushing.png" style="zoom:25%;" />
+
+NB: You can do some editing in the GitHub web interface itself, but I recommend this method, and not to mix the two, since you end up with a versioning nightmare. 
 
 
 In Spring 2023 you can replace this assignment with attending the entire ["Unlocking Archives with AI"](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai) 2-day workshop and writing it up. See more instructions below for that replacement assignment. If you swap an assignment with your attendance at this workshop, this should be done alone. 
