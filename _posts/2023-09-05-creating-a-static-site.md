@@ -87,6 +87,20 @@ When you edit and save (and sometime enter a commit message), you will see a blu
 
 NB: You can do some editing in the GitHub web interface itself, but I recommend this method, and not to mix the two, since you end up with a versioning nightmare. 
 
+Let's make some changes in the Sublime Text and push them. 
+
+<img src="/assets/images/pushing.png" style="zoom:25%;" />
+
+From GitHub Desktop you can set the text editor you want to work in. 
+
+> Remember that every time you push to the web, the compiler works to make your page's updates.  Be patient and look for the green arrow. 
+
+9.  Building a site from Scratch. 
+
+Repeat step 5 now and delete the repository. 
+
+
+
 
 In Spring 2023 you can replace this assignment with attending the entire ["Unlocking Archives with AI"](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai) 2-day workshop and writing it up. See more instructions below for that replacement assignment. If you swap an assignment with your attendance at this workshop, this should be done alone. 
 
