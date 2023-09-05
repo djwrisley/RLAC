@@ -96,9 +96,23 @@ From GitHub Desktop you can set the text editor you want to work in.
 
 > Remember that every time you push to the web, the compiler works to make your page's updates.  Be patient and look for the green arrow. 
 
+STEP 4 
+
 9.  Building a site from Scratch. 
 
-Repeat step 5 now and delete the repository. 
+Repeat the step 5 to delete the repository. In this step we will do this more systematically, using steps 3 and 4 of the abovementioned [tutorial](https://liamodwyer.github.io/github-pages/3-jekyll.html).
+
+Create a repo. Name it with your username. Click add a readme file. 
+
+Create a `_config.yml` file from scratch. Check out the supported themes [page](https://pages.github.com/themes/). Add in the theme name in the `_config.yml_` file. 
+
+Go to Github Desktop and clone the repository. 
+
+Add successive pages. index.html `_posts`
+
+We will follow the instructions [here](https://liamodwyer.github.io/github-pages/4-blog.html) 
+
+
 
 
 
