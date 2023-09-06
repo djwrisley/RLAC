@@ -11,7 +11,9 @@ tags:
 
 ## Guidelines for the Lab: 
 
-Today in lab one of the things we will be doing is to create your own page at GitHub Pages. Creating such a site will require us to set up GitHub, GitHub Desktop and a text editor, to learn and practice some Markdown and to get comfortable with editing on our own machine and then push slowly our materials to the web. 
+Today in lab one of the things we will be doing is to create your own site at GitHub Pages in which you will do your coursework. Creating such a site will require us to set up GitHub, GitHub Desktop and a text editor, to learn and practice some Markdown and to get comfortable with editing on our own machine and then push slowly our materials to the web. 
+
+Knowing how to create such a "static site" is an important skill in minimal and sustainable digital arts and humanities. 
 
 > This course site is created in GitHub Pages in three ways, using an imported repository, then forking the Minimal Mistakes theme, then from scratch. When you gain more confidence you will be able to change to other themes and customize to your own liking.
 
