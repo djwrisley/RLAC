@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "DLN"
+    url: /dln/
   - title: "Schedule"
     url: /schedule/
   - title: "Materials"
