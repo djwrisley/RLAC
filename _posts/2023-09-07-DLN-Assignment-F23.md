@@ -27,7 +27,7 @@ The Digital Literacy Narrative is a progressive assignment in *three* steps, whi
 
 Rewrite a handful of small details in the file to reflect the kind of digital literacies you feel that you have and that you want to work on this semester. Stay at approximately 500 words. Use a markdown cheatsheet such as this [one](https://www.markdownguide.org/cheat-sheet) to stylize your post, adding different layout features and embedded links if needed. You do not need to refer to the readings. Feel free to use multiple commits and commit messages explaining the kinds of changes you made. Include a screenshot of a side-by-side change in GitHub to illustrate the changes you have made. Make sure you caption the image. 
 
--Is there anything in the early `chatGPT` version that is different that you want to adopt? 
+Interesting thought: Is there anything in the early `chatGPT` version (30 Jan version) that is different from the most recent one that you want to adopt? 
 
 **Step 1 Due date:** 14 September, ungraded.
 {: .notice}
@@ -51,11 +51,13 @@ Rewrite a handful of small details in the file to reflect the kind of digital li
 {: .notice}
 
 Guiding questions for step 3: 
-- What are the platforms you use?
-- What are you good at in digital environments? 
-- What can you use some improvement in? 
-- What are you learning about new domains?
+- What are the platforms you might use now? for what? 
+- What were you good at in digital environments? What are the most significant new points you learned? 
+- What can you still use some improvement in? 
+- What are you learning about new domains of thinking about data?
 - How do you feel with working and learning with AI?  
+
+*The Two Prompts/Responses*
 
 **Prompt 1 with Jan 30 version:** 
 
