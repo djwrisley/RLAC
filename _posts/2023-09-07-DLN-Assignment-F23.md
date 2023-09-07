@@ -1,5 +1,5 @@
 ---
-title: "Digital Literacy Narrative"
+title: "Digital Literacy Narrative F23"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -19,11 +19,11 @@ The Digital Literacy Narrative is a progressive assignment in *three* steps, whi
 
 **Step 1**: copy the response provided by `chatGPT` given below and to place it in your highest level folder as a file named `dln.md`. You can use the `yaml` header in our schedule for the top of the page. Save and commit and make sure you can see this on your page. You will have to add a new tab to the element of the code which controls navigation on the site.
 
-/ ---
-/ title: "Schedule F23"
-/ permalink: /schedule/
-/ author_profile: false
-/ ---
+[//]: # ---
+[//]: # title: "Schedule F23"
+[//]: # permalink: /schedule/
+[//]: # author_profile: false
+[//]: # ---
 
 Rewrite a handful of small details in the file to reflect the kind of digital literacies you feel that you have and that you want to work on this semester. Stay at approximately 500 words. Use a markdown cheatsheet such as this [one](https://www.markdownguide.org/cheat-sheet) to stylize your post, adding different layout features and embedded links if needed. You do not need to refer to the readings. Feel free to use multiple commits and commit messages explaining the kinds of changes you made. Include a screenshot of a side-by-side change in GitHub to illustrate the changes you have made. Make sure you caption the image. 
 
