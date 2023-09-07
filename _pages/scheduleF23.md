@@ -38,8 +38,8 @@ Making and Project-Based Thinking
 Data and Metadata in the Arts and Humanities 1 
 
 | Time/Date | Reading | Activity |
-| Tues, 12 Feb  3:35PM-6:15PM | <br> -Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 April 2018. <br> -Drucker, ch 2 (19-33) & 4 (52-69) <br> -De Bastion/Mukku, Data and the Global South, 2020. <br> -metadata / API / discoverability / federated database / IIIF <br> -Lab: Asking questions of cultural databases and their bias <br> -Digital Library of the Middle East <br> -Notebook: TBA |
-| Thurs, 14 Feb 3:35PM-4:50PM | <br> | reading TBA |
+| Tues, 12 Feb  3:35PM-6:15PM | <br> -Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 April 2018. <br> -Drucker, ch 2 (19-33) & 4 (52-69) <br> -metadata / API / discoverability / federated database / IIIF <br> -Lab: Asking questions of cultural databases and their bias <br> -Notebook: TBA |
+| Thurs, 14 Feb 3:35PM-4:50PM | <br> -De Bastion/Mukku, Data and the Global South, 2020. | discussion |
 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
