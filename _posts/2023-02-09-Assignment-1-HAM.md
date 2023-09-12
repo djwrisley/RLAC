@@ -22,7 +22,7 @@ This assignment can be done alone or in pairs. If it is done in pairs, please co
 
 This exercise focuses on exhibitions that have been documented at the Harvard Art Museum the information about which has been obtained via the museum API. You can think of this assignment a way of doing an "archeology" of past art exhibitions. 
 
-**Section 1**: Explore the HAM [website](https://harvardartmuseums.org/) as well as the csv file included. Choose two favorite exhibitions and record their unique IDs. Was one method of finding the exhibitions easier than the other? What are you able to say about the exhibitions from the highest level metadata? 
+**Section 1**: Explore the HAM [website](https://harvardartmuseums.org/) as well as the csv file included. Choose two favorite exhibitions and record their unique IDs. Was one method of finding the exhibitions easier than the other? What are you able to say about the exhibitions from the highest level metadata? Can you find any other information about the exhibitions on the web? 
 
 **Section 2**: Filtering by exhibition ID, build a list of objects which are recorded as appearing in the same exhibition. What can you glean from this basic information? Build a word cloud based on the combined descriptions and titles. Does this summary of the words tell us something about the exhibition? Do you need to filter it to create a meaningful visualization? 
 
