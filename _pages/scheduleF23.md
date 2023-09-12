@@ -44,5 +44,5 @@ Data and Metadata in the Arts and Humanities 1
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-**ASSIGNMENT 1 [here]()** Due Date 2 March, 20% final grade.
+**ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/Assignment-1-HAM/)** Due Date 2 March, 20% final grade.
 {: .notice}
