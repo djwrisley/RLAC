@@ -1,59 +1,80 @@
 ---
-title: "Assignment #1: Collections Metadata"
+title: "Assignment #1: Cultural Heritage By the Numbers"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
   - Assignments
   - Metadata
-  - DLME
+  - Harvard Art Museum
   - chatGPT
-  - S23
+  - F23
   - Notice
 ---
 
-## Guidelines for the Assignment: 
+## DRAFT Guidelines for the Assignment: 
 
-# Guidelines for the Assignment: 
+# DRAFT Guidelines for the Assignment: 
 
-The DLME Metadata Assignment is an assignment in one step. It builds upon the work we did in class on February 7th. 
+The Cultural Heritage By the Numbers is an assignment in one step. It builds upon the work we did in class on September 12 and 14 using the Jupyter notebooks in posit.cloud. 
 
-This assignment can be done alone or in pairs (either the ones from class or new ones).  
+This assignment can be done alone or in pairs. If it is done in pairs, please compose one markdown file which you place in both student sites. 
 
-This exercise has two main elements: (1) illustrating how federated libraries can help us understand different kinds of relationships between objects found in global collections and (2) exploring the [discoverability](https://en.wikipedia.org/wiki/Discoverability) of the items given their metadata.
+This exercise focuses on exhibitions that have been documented at the Harvard Art Museum the information about which has been obtained via the museum API. You can think of this assignment a way of doing an "archeology" of past art exhibitions. 
 
-**Step 1**: You should identify two or three items from the [Digital Library of the Middle East](https://dlmenetwork.org/library). This platform "federates and makes accessible data about collections from around the world." NB: A good assignment will use a well chosen pair of items, similar in some ways and different in others. 
+**Section 1**: Explore the HAM [website](https://harvardartmuseums.org/) as well as the csv file included. Choose two favorite exhibitions and record their unique IDs. Was one method of finding the exhibitions easier than the other? What are you able to say about the exhibitions from the highest level metadata? 
 
-**Step 2**: You should obtain a version of the image of the item in your post, captioning it and making sure that you have cited it properly according to the license listed on the DLME. You may want to use detailed images of the items in addition to the whole image. If you would like to view the two objects together, use [Project Mirador](https://projectmirador.org/) with the IIIF manifest. NB: not all images in the DLME have a IIIF manifest. 
+**Section 2**: Filtering by exhibition ID, build a list of objects which are recorded as appearing in the same exhibition. What can you glean from this basic information? Build a word cloud based on the combined descriptions and titles. Does this summary of the words tell us something about the exhibition? Do you need to filter it to create a meaningful visualization? 
 
-**OMITTED STEP 2b (2 March)**: For images, you need to take a single screenshot (either of the two images together in Mirador or otherwise placed along side of each other), rename that file and place it in the assets folder of your Github pages site. Insert the following line where you want the image to show up in the body of the .md file of your assignment:
+**Section 3**: What are the x most viewed items in the exhibition? The x least viewed? Do these count suggest something about the nature of exhibition ("greatest hits" or a discover of unknown objects?) Are these numbers suprising to you? Do they tell you something about the relative popularity of the exhibition? 
 
-`<img src="/assets/{filename}.png" style="zoom:50%"/>`
+Repeat this process for another exhibition and compare. Are there noticeable data gaps? 
 
-Use the zoom percentage to size the file. An example of the code of one of your instructor's research projects can be found [here](https://raw.githubusercontent.com/parisbible/parisbible.github.io/main/_posts/2022-10-31-bible-hunting-Italy.md)
+**Section 4:** How might we use the API to create "phygital" museums or exhibitions? Check out the [documentation] for sample projects and come up with one or two of your own. 
 
-**Step 3**: You should discuss the metadata given for the image(s). You might create a table which compares and constrasts what you are able to know about the items and their potential relationship. Remember that metadata is often imported in the language of the original library and there can be a mismatch between the library's version and what you see here. Do they come from the same library? different libraries? How does that affect their metadata? 
+Advanced extra steps: 
 
-**Step 4** How complete or certain is the metadata? Can you make a search engine query for elements of the metadata, or combinations of the metadata and find the objects? 
+1. Can you adapt the code to look for the most common colors? The most common techniques? Or any other value from the attributes? 
 
-**Step 5** What other kinds of metadata can you find about the objects, either at the home libraries or by doing some basic research. What kinds of metadata categories might you add that would make the items more discoverable? 
+2. Include your affirmation or critique of chatGPT's answer to the prompt below about museum APIs. 
 
-Your assignment should be about 1000 words long, with several images, embedded links. Use a markdown cheatsheet such as this [one](https://www.markdownguide.org/cheat-sheet) to stylize your post, adding different layout features and embedded links if needed. You can refer to the readings if you want to, but this is not necessary for this assignment. 
+Your assignment does not need to answer all the questions above, nor does it need to follow the sections step by step.  It should be about 1250-1500 words long, with relevant images saved from the notebooks, embedded links, etc. Use a markdown cheatsheet such as this [one](https://www.markdownguide.org/cheat-sheet) to stylize your post, adding different layout features and embedded links if needed. You can refer to the readings if you want to, but this is not necessary for this assignment. 
 
-**Assignment 1 Due date:** 2 March, 20% final grade.
+**Assignment 1 Due date:** 28 September, 20% final grade.
 {: .notice}
 
 
-Here is how chatGPT responds to the follwing prompt about discoverability: 
+Here is what chatGPT says about the possibility of museum APIs. Feel free to critique or agree with it on some of the points it makes.  
 
-> What is the importance of metadata to the discoverability of cultural objects in federated digital libraries?  How complete are they usually? What is the cost of metadata? How can we make it better? 
+> Prompt: What is the importance of metadata in museum APIs? How complete or accurate are they usually? What can we do using museum APIs in terms of analysis, critique and innovation? 
 
-*Metadata is critical to the discoverability of cultural objects in federated digital libraries. It serves as a bridge between the physical object and the digital representation of that object, providing information about its creator, subject, format, and other relevant details. Metadata allows users to search, browse, and filter digital collections, which is essential to finding the resources they need.*
+ChatGPT response (3 August version):
 
-*Incomplete metadata can have a significant impact on the discoverability of cultural objects. For example, if an object is missing key metadata, such as its creator or date, it may not show up in search results or may be difficult to find among other similar objects. Additionally, inconsistent or inaccurate metadata can lead to confusion or errors when using digital libraries.*
+Metadata in museum APIs (Application Programming Interfaces) plays a crucial role in enhancing the accessibility, usability, and potential for innovation within the museum and cultural heritage sector. Here are some key points on the importance of metadata in museum APIs and their usual completeness and accuracy, as well as the possibilities they offer for analysis, critique, and innovation:
 
-*The cost of metadata varies depending on the size and complexity of the collection, as well as the resources available for creating and maintaining metadata. Creating high-quality metadata can be time-consuming and resource-intensive, requiring skilled staff and specialized tools. However, the cost of metadata can be reduced through the use of automated tools and crowdsourcing, which can help to streamline the process and make it more cost-effective.*
+Importance of Metadata in Museum APIs:
 
-*To make metadata better, it is important to invest in creating high-quality metadata at the outset of a project and to maintain it over time. This requires a commitment to standards and best practices for metadata creation and management, as well as ongoing training and support for staff involved in metadata creation. Additionally, it is important to involve end-users in the process of creating metadata, as they can provide valuable insights and feedback on the usability and effectiveness of the metadata.*
+Accessibility and Searchability: Metadata provides descriptive information about museum artifacts, such as title, artist, date, medium, and provenance. This information makes it easier for users to search and find specific items within a museum's collection through APIs.
+Contextualization: Metadata helps provide context to artifacts, such as historical significance, cultural context, and curatorial notes. This contextualization is essential for understanding and interpreting the objects within the museum's collection.
+Interoperability: Standardized metadata formats and controlled vocabularies within APIs enable interoperability with other cultural heritage institutions and platforms, making it possible to aggregate and share data across institutions.
+Research and Scholarship: Researchers and scholars rely on accurate metadata to conduct in-depth studies, comparisons, and analyses of artworks and artifacts. Metadata aids in organizing and citing sources accurately.
+Preservation: Metadata can include information about the conservation and preservation of objects, helping museums track the condition of their collections and plan for restoration efforts.
+Completeness and Accuracy of Metadata:
 
-**optional**: You can respond to what you think about this answer in the context of your research. 
+The completeness and accuracy of metadata in museum APIs can vary widely based on several factors, including the institution's resources, priorities, and the specific goals of the API project. Some common considerations include:
+
+Resource Constraints: Smaller museums or institutions with limited resources may have less comprehensive metadata compared to larger, well-funded institutions.
+Metadata Standards: Institutions that adhere to recognized metadata standards, such as Dublin Core, METS, or VRA Core, tend to have more standardized and accurate metadata.
+Data Entry Practices: The accuracy of metadata depends on the diligence of data entry practices, including the training of staff responsible for cataloging and metadata creation.
+Updates and Revisions: Institutions that regularly update and revise their metadata are more likely to have accurate and complete records.
+Analysis, Critique, and Innovation Using Museum APIs:
+
+Museum APIs open up several possibilities for analysis, critique, and innovation:
+
+Research: Researchers and scholars can use museum APIs to analyze trends in art history, track the provenance of artworks, and study the cultural impact of specific artists or movements.
+Educational Tools: Developers can create educational tools and apps that use museum API data to provide historical context, interactive exhibits, and guided tours.
+Artificial Intelligence and Machine Learning: Machine learning algorithms can analyze metadata to identify patterns and connections within museum collections, leading to new insights and recommendations for visitors.
+Art Market Analysis: The art market can benefit from APIs by analyzing auction data, pricing trends, and the popularity of specific artists or genres.
+Digital Storytelling: APIs enable storytellers and curators to craft engaging narratives that draw connections between different artworks or historical periods.
+Exhibition Planning: Curators can use API data to plan exhibitions, identify gaps in the collection, and make decisions about acquisitions.
+In conclusion, metadata in museum APIs is essential for improving accessibility, enabling research, and fostering innovation within the museum and cultural heritage sector. While completeness and accuracy can vary, efforts are being made to standardize metadata practices. The possibilities for analysis, critique, and innovation using museum APIs are vast, offering opportunities to engage audiences and advance scholarship in the field.

@@ -38,7 +38,7 @@ Making and Project-Based Thinking
 Data and Metadata in the Arts and Humanities 1 
 
 | Time/Date | Reading | Activity |
-| Tues, 12 Feb  3:35PM-6:15PM | <br> -Broman/Woo "Data Organization in Spreadsheets", The American Statistician, 24 April 2018. <br> -Drucker, ch 2 (19-33) & 4 (52-69) <br> -terms: metadata, API, discoverability, federated database, IIIF | -Lab slides in drive <br> -Notebook: Cultural Heritage By the Numbers (posit.cloud) |
+| Tues, 12 Feb  3:35PM-6:15PM | <br> -Broman/Woo ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375989?needAccess=true), The American Statistician, 24 April 2018. <br> -Drucker, [ch 2](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (19-33) & [ch 4](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (52-69) <br> -terms: metadata, API, discoverability, federated database, IIIF | -Lab slides in drive <br> -Notebook: Cultural Heritage By the Numbers (posit.cloud) |
 | Thurs, 14 Feb 3:35PM-4:50PM | Continuation of the Notebooks <br> -De Bastion/Mukku, Data and the Global South, 2020.| discussion |
 
 
