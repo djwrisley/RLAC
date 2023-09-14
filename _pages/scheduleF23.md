@@ -39,10 +39,32 @@ Data and Metadata in the Arts and Humanities 1
 
 | Time/Date | Reading | Activity |
 | Tues, 12 Feb  3:35PM-6:15PM | <br> -Broman/Woo ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375989?needAccess=true), The American Statistician, 24 April 2018. <br> -Drucker, [ch 2](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (19-33) & [ch 4](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (52-69) <br> -terms: metadata, API, discoverability, federated database, IIIF | -Lab slides in drive <br> -Notebook: Cultural Heritage By the Numbers (posit.cloud) |
-| Thurs, 14 Feb 3:35PM-4:50PM | Continuation of the Notebooks <br> -De Bastion/Mukku, Data and the Global South, 2020.| discussion |
+| Thurs, 14 Feb 3:35PM-4:50PM | Continuation of the Notebooks <br> -De Bastion/Mukku, [Data and the Global South](https://us.boell.org/en/2020/10/20/data-and-global-south-key-issues-inclusive-digital-development), 2020.| discussion |
 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-**ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/Assignment-1-HAM/)** Due Date 2 March, 20% final grade.
+**ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/Assignment-1-HAM/)** Due Date 2 October, 20% final grade.
 {: .notice}
+
+## UNIT 2: TEXTUAL
+
+### Week 4
+
+Textual Bodies
+
+| Time/Date | Reading | Activity |
+| Tues, 19 Sept 3:35PM-6:15PM | <br> -Drucker, ch 7, 110-120.<br> -Clark et al, "What's Trending in the Chinese Google Books Corpus" Global Debates in the Digital Humanities, 2022 | <br> Lab:  <br> -Text Mining: Easy to Less Easy <br> -Google NGram Viewer <br> -Bookworm <br> -Voyant <br> -AntConc (download in advance of session) |
+|Thurs, 21 Sept 3:35PM-4:50PM | <br> -Miller, "Using GPT on Library Collections", 2023. |Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast]|
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
+
+### Week 5
+
+Text as Data 
+
+| Time/Date | Reading | Activity |
+| Tues, 21 Feb	3:35PM-6:15PM | <br> -Drucker, ch 6, 86-109. <br> -Text as Data podcast | Lab Notebook: Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction  <br> -Hardfork, Generative AI is here : who should control it? (podcast)<br> -Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. <br> -Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020 | Discussion | 
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1) 
