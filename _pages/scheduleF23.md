@@ -55,7 +55,7 @@ Textual Bodies
 
 | Time/Date | Reading | Activity |
 | Tues, 19 Sept 3:35PM-6:15PM | <br> -Drucker, [ch 7](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 110-120.<br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://muse.jhu.edu/pub/23/edited_volume/chapter/3144062)" Global Debates in the Digital Humanities, 2022 | <br> Lab:  Text Mining: Easy to Less Easy <br> -[Google NGram Viewer](https://books.google.com/ngrams/) <br> -[Bookworm](https://bookworm.htrc.illinois.edu/develop/) <br> -[Voyant](https://voyant-tools.org/) <br> -[AntConc](https://www.laurenceanthony.net/software/antconc/) (download in advance of session) |
-|Thurs, 21 Sept 3:35PM-4:50PM | <br> -Miller, "[Using GPT on Library Collections](https://thisismattmiller.com/post/using-gpt-on-library-collections/)", 2023. <br> -Barton, "[Experiments Using chatGPT With Archival Collections](https://youtu.be/-X4kaiFPXz4) | [Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading)|
+|Thurs, 21 Sept 3:35PM-4:50PM | <br> -Miller, "[Using GPT on Library Collections](https://thisismattmiller.com/post/using-gpt-on-library-collections/)", 2023. <br> -Barton, "[Experiments Using chatGPT With Archival Collections](https://youtu.be/-X4kaiFPXz4) <br>-[Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading)| discussion |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
@@ -65,6 +65,6 @@ Textual Bodies
 Text as Data 
 
 | Time/Date | Reading | Activity |
-| Tues, 21 Feb	3:35PM-6:15PM | <br> -Drucker, ch 6, 86-109. <br> -Text as Data podcast | Lab Notebook: Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction  <br> -Hardfork, Generative AI is here : who should control it? (podcast)<br> -Heikillä, What does chatGPT know about me? , MIT Technology Review, 2022. <br> -Optional: Elkins & Chun, Can GPT-3 pass a Writer's Turing test?, Journal of Cultural Analytics, 2020 | Discussion | 
+| Tues, 21 Feb	3:35PM-6:15PM | <br> -Drucker, [ch 6]((https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. <br> -Text as Data podcast  <br> -Hardfork, [Generative AI is here : who should control it?}(https://www.nytimes.com/2023/08/25/podcasts/airbnb-ai-songs.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (podcast)<br> -Heikillä, [What does chatGPT know about me?](https://www.technologyreview.com/2022/08/31/1058800/what-does-gpt-3-know-about-me/), MIT Technology Review, 2022. | Lab <br> -Notebook: Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction <br> -Discussion | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
