@@ -54,8 +54,8 @@ Data and Metadata in the Arts and Humanities 1
 Textual Bodies
 
 | Time/Date | Reading | Activity |
-| Tues, 19 Sept 3:35PM-6:15PM | <br> -Drucker, ch 7, 110-120.<br> -Clark et al, "What's Trending in the Chinese Google Books Corpus" Global Debates in the Digital Humanities, 2022 | <br> Lab:  <br> -Text Mining: Easy to Less Easy <br> -Google NGram Viewer <br> -Bookworm <br> -Voyant <br> -AntConc (download in advance of session) |
-|Thurs, 21 Sept 3:35PM-4:50PM | <br> -Miller, "Using GPT on Library Collections", 2023. |Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu [podcast]|
+| Tues, 19 Sept 3:35PM-6:15PM | <br> -Drucker, [ch 7](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 110-120.<br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://muse.jhu.edu/pub/23/edited_volume/chapter/3144062)" Global Debates in the Digital Humanities, 2022 | <br> Lab:  Text Mining: Easy to Less Easy <br> -[Google NGram Viewer](https://books.google.com/ngrams/) <br> -[Bookworm](https://bookworm.htrc.illinois.edu/develop/) <br> -[Voyant](https://voyant-tools.org/) <br> -[AntConc](https://www.laurenceanthony.net/software/antconc/) (download in advance of session) |
+|Thurs, 21 Sept 3:35PM-4:50PM | <br> -Miller, "[Using GPT on Library Collections](https://thisismattmiller.com/post/using-gpt-on-library-collections/)", 2023. <br> -Barton, "[Experiments Using chatGPT With Archival Collections](https://youtu.be/-X4kaiFPXz4) | [Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading)|
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
