@@ -67,4 +67,45 @@ Text as Data
 | Time/Date | Reading | Activity |
 | Tues, 21 Feb	3:35PM-6:15PM | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. <br> -Text as Data podcast  <br> -Hardfork, [Generative AI is here : who should control it?}(https://www.nytimes.com/2023/08/25/podcasts/airbnb-ai-songs.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (podcast)<br> -Heikillä, [What does chatGPT know about me?](https://www.technologyreview.com/2022/08/31/1058800/what-does-gpt-3-know-about-me/), MIT Technology Review, 2022. | Lab <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction| 
 
+**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Instructions [TBA]()** Due October 15, 20% final grade. 
+{: .notice}
+
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
+## UNIT 3: SPATIAL 
+
+### Week 6
+
+Spatial Horizons
+
+| Time/Date | Reading | Activity |
+| Tues, 3 Oct  3:35PM-6:15PM |	<br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 | Exploring Spatial Projects <br> -An Introduction to UMap  <br> -Kepler <br> -Maps as Data|
+| Thurs, 5 Oct 	3:35PM-4:50PM | <br> -Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. <br> -Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116 <br> -Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107. | Discussion |
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
+
+### Week 7
+
+Map Visualization
+
+| Time/Date | Reading | Activity |
+| Tues, 7 Mar	3:35PM-6:15PM | | Lab: Work on Assignment 2 submitting your preliminary visuals to Google Space |
+| Thurs, 9 Mar 3:35PM-4:50PM | -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -Exploring Humanitarian OSM | <br> - Submit a Google Space response about HOSM | 
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
+
+***No class 19-25 October. Have a great fall break!*** 
+
+
+### Week 8 
+
+Culture on the z-Axis
+
+| Time/Date | Reading | Activity |
+| Tues, 26 Oct	 3:35PM-6:15PM	| <br> -Drucker, ch 9, 151-171. | | <br> Lab in Academic Technology <br> Web resources: Thingiverse, 3duniverse, 3dwarehouse, Yeggi| 
+
+
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/)**, Due Date 6 April, 20% final grade.
+{: .notice}
+
+
