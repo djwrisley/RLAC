@@ -12,9 +12,8 @@ tags:
   - Notice
 ---
 
-## DRAFT Guidelines for the Assignment: 
+## Guidelines for the Assignment: 
 
-# DRAFT Guidelines for the Assignment: 
 
 The Cultural Heritage By the Numbers is an assignment in one step. It builds upon the work we did in class on September 12 and 14 using the Jupyter notebooks in posit.cloud. 
 
