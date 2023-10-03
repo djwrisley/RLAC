@@ -80,7 +80,7 @@ Spatial Horizons
 
 | Time/Date | Reading | Activity |
 | Tues, 3 Oct  3:35PM-6:15PM |	<br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 | Exploring Spatial Projects <br> -An Introduction to UMap  <br> -Kepler <br> -Maps as Data|
-| Thurs, 5 Oct 	3:35PM-4:50PM | <br> -Cole/Giordano "Digital Mapping", in Doing Spatial History, 2022, 274-287. <br> -Travis, "Geovisualizing Beckett" in Abstract Machine, 2015, 97-116 <br> -Wrisley, "Spatial Humanities", Porphyra 22(2014): 96-107. | Discussion |
+| Thurs, 5 Oct 	3:35PM-4:50PM | <br> -Brunn / Lodge Mapping Across Academia (in drive, pick one chapter and find a few key points) <br> -Wrisley, "[Spatial Humanities](https://archive.nyu.edu/handle/2451/43476)", Porphyra 22(2014): 96-107. | [Signup](https://docs.google.com/spreadsheets/d/1XveMjt4cwccRpXpJz9F9kchPTejx_zbq4yGaVMoKZJQ/edit#gid=0) for discussion of a spatial project |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
