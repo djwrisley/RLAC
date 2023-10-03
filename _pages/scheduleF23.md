@@ -67,7 +67,7 @@ Text as Data
 | Time/Date | Reading | Activity |
 | Tues, 21 Feb	3:35PM-6:15PM | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. <br> -Text as Data podcast  <br> -Hardfork, [Generative AI is here : who should control it?](https://www.nytimes.com/2023/08/25/podcasts/airbnb-ai-songs.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (podcast)<br> -[From The Page, Experiments Using ChatGPT with Archival Collections](https://www.youtube.com/watch?v=-X4kaiFPXz4) | Lab <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction| 
 
-**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Instructions [TBA]()** Due October 15, 20% final grade. 
+**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. Instructions [TBA]()** Due October 25, 20% final grade. 
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
