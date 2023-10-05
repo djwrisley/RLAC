@@ -11,21 +11,20 @@ tags:
   - Notice
 ---
 
-Note that this is a previous semester's assignment.
-
-## Guidelines for the Assignment: 
+## Guidelines for the Assignment:  DRAFT
 
 The Corpus Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and R Markdown files in Posit Cloud. This assignment can be done alone or in pairs.
 
-In Spring 2023 you can replace this assignment with attending the entire ["Unlocking Archives with AI"](https://www.hrf-arabworld.org/events/2023/unlocking-archives-with-ai) 2-day workshop and writing it up. See more instructions below for that replacement assignment. If you swap an assignment with your attendance at this workshop, this should be done alone. 
+This exercise has three main elements: (1) choosing a corpus of three texts or three sets of texts you would like to work with and (2) using some digital textual analysis tools to see what kind of exploratory data analysis (EDA) you can do using that corpus, (3) assembling the evidence in a piece of web-facing written work along with visuals. 
 
-This exercise has two main elements: (1) choosing a corpus you would like to work with and (2) using some digital textual analysis tools to see what kind of exploratory data analysis (EDA) you can do using that corpus. 
+**Step 1**: You will need to pick your corpus. Here are some suggestions for the corpus. 
 
-**Step 1**: You will need to pick your corpus. I have provided three corpora for you in Drive. Please pick only *one* corpus.
+- A. Three different books by the same author taken from Project Gutenberg. 
+- B. Three sets of books by three different authors (but somehow related, belonging to the same political orientation or the same literary movement)
+- C. Three sets of books by the same prolific author from different moments of their career. 
+- D. Three different sets of articles from a single class or multiple classes in your major. 
 
-- A. The [writings of Sir Arthur Conan Doyle](https://drive.google.com/drive/folders/1ia34McO83qurEotip_6X-BpZI7rO8eeW?usp=share_link), the author of the Sherlock Holmes series, from Project Gutenberg. 
-- B. AI-created [transcripts of Rooftop Rhythms](https://drive.google.com/drive/folders/1ZOH04mtk2GGnxRxh6lyIjMDAyVci4Nqf?usp=share_link) from Fall 2019 to Spring 2021
-- C. The best known English translation of the 1001 Nights known as [Sir Richard Burton's Book of the Thousand Nights and a Night (1885-88)](https://en.wikipedia.org/wiki/The_Book_of_the_Thousand_Nights_and_a_Night) from Project Gutenberg. The corpus can be found [here]().
+The texts can be short stories or articles, but not less than 2000 words. Do not use the Little Cousin Series. The more you know about the texts, the more meaningful the "distant reading" will be. 
 
 If you are using the R Markdown notebook in posit.cloud, you can also build your own corpus from files in Project Gutenberg by creating a list of ID numbers like this: 
 
@@ -33,9 +32,9 @@ If you are using the R Markdown notebook in posit.cloud, you can also build your
 
 Alternatively, you can source your text files from anywhere else, but if you make a custom corpus, please consult with the instructor before beginning.
 
-**Step 2**: You should do some general research about the authors, the text, the contents. You might even browse them briefly to know what they include. You should do this so that you are not studying the corpus without a general idea of its contents. 
+**Step 2**: You should do some general research about the authors, the text, the contents. You will want to justify the selection of texts in your assignment. You might even browse them briefly to know what they include. You should do this so that you are not studying the corpus without a general idea of its contents. 
 
-**Step 3**: To do your analysis, you can use Voyant Tools or the notebooks in R or a combination of both to explore the texts. Remember that each method works with its own constraints. You are free to use whatever combination of forms of analysis you like. You can also break the corpus down into subcorpora (studying 3 at a time with the R Markdown notebook, for example) for a more focused view. 
+**Step 3**: To do your analysis, you must use the R notebooks and you can combine them with Voyant Tools, Antconc or the wordclous notebook in R to explore the texts. Remember that each method works with its own constraints. You are free to use whatever combination of forms of analysis you like. 
 
 **Step 4**: Build a set of screenshots from your exploratory analysis. Please be sure to include at least three (3). 
 
@@ -51,21 +50,10 @@ Guiding Questions (you do not need to answer all these questions):
 - How well would this assignment work for a language other than English?
 
 
-You assignment can be 1000-1250 words, or about a 6 minute read. Please publish it to your course site with a visible tab. 
+You assignment can be 1250-1500 words, or about a 6-8 minute read. Please publish it to your course site with a visible tab. 
 
-**Due date: 18 Apr**.
+**Due date: 28 Oct**.
 
-
-If you choose attending the "Unlocking Archives with AI" you can use the chatGPT prompt below, in addition to the following guiding questions:
-
-- What do recent developments with AI have to do with "opening up" archival collections? 
-- What is ground truth? Where does it come from for archives? How is it built? 
-- What are the benefits of HTR for languages other than English or older formats of documents or different scripts? 
-- What are some of the stumbling blocks with using HTR?
-- Thinking about the article "Beyond Buttonology", what would you say is the broader context of digital libraries, HTR and AI-assisted research in the humanities? 
-- AI is moving very fast, but do you believe it is leaving the humanities behind? 
-
-You should adhere to the same image quantity and length. 
 
 -----
 
