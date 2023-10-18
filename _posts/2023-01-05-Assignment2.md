@@ -21,7 +21,7 @@ This exercise has three main elements: (1) choosing a corpus of three texts or t
 
 - A. Three different books by the same author taken from Project Gutenberg. 
 - B. Three sets of books by three different authors (but somehow related, belonging to the same political orientation or the same literary movement)
-- C. Three sets of books by the same prolific author from different moments of their career. 
+- C. Three sets of books by the same prolific author from different moments of their career, or in different genres. 
 - D. Three different sets of articles from a single class or multiple classes in your major. 
 
 The texts can be short stories or articles, but not less than 2000 words. Do not use the Little Cousin Series. The more you know about the texts, the more meaningful the "distant reading" will be. 
