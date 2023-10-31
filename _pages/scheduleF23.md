@@ -110,12 +110,22 @@ Image Collections
 ### Week 9
 
 | Time/Date | Reading | Activity |
-| 31 Oct | <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. <br> -How does a lightbox work? | In class exploration: <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) <br> -Learning about Orange Data Mining | 
-
+| 31 Oct | <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. | In class exploration: <br> -Learning about Orange Data Mining | 
+| 2 Nov | Come by for Nodegoat workshop (A6-009) |
 
 
 ### Week 10
 
+| Time/Date | Reading | Activity |
+| 7 Nov  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Cluster assignment 
+| 9 Nov  | Orange Data Mining for Classification | 
+
 ### Week 11
 
+### Week 12
 
+### Week 13
+
+### Week 14
+
+### Week 15
