@@ -34,7 +34,7 @@ Interesting thought: Is there anything in the early `chatGPT` version (30 Jan ve
 
 **Step 2**: At midterm, you will rewrite this post to reflect your current state of thinking on the question. You should increase the word limit to 750-1000 words. A rubric for how you can revise it will be provided. Make reference to an additional two resources from the course. 
 
-**Step 2 Due date:** 12 October, 5% total grade.
+**Step 2 Due date:** 15 November, 5% total grade.
 {: .notice}
 
 > Hints for Step 2: 
@@ -47,7 +47,7 @@ Interesting thought: Is there anything in the early `chatGPT` version (30 Jan ve
 
 **Step 3**: At the end of the term, you will rewrite the post to reflect your end-of-term state of thinking about digital literacies. You should increase the word limit to 1000-1250 words. You can go beyond that, but remember few people want to read more than [1500-2000 words](https://rockcontent.com/blog/how-long-should-a-blog-post-be/). Make reference to an additional two resources from the course (4 total). 
 
-**Step 3 Due date:** 1 December, 5% total grade.
+**Step 3 Due date:** 10 December, 5% total grade.
 {: .notice}
 
 Guiding questions for step 3: 

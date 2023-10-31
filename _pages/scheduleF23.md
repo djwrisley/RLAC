@@ -99,13 +99,23 @@ Map Visualization
 
 ### Week 8 
 
-Culture on the z-Axis
+Image Collections 
 
 | Time/Date | Reading | Activity |
-| Tues, 26 Oct	 3:35PM-6:15PM	| <br> -Drucker, ch 9, 151-171. | | <br> Lab in Academic Technology <br> Web resources: Thingiverse, 3duniverse, 3dwarehouse, Yeggi| 
+| Thurs, 26 October | -WCMA digital project <br> -Selfie City <br> -Photogrammar <br> -MoMA photography | discussion | 
 
-
-**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S23/)**, Due Date 6 April, 20% final grade.
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F23/)**, Due Date 15 November, 10% final grade.
 {: .notice}
+
+### Week 9
+
+| Time/Date | Reading | Activity |
+| 31 Oct | <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. <br> -How does a lightbox work? | In class exploration: <br> -Looking for Patterns in Image Collections with IMJ <br> -Learning about Orange Data Mining | 
+
+
+
+### Week 10
+
+### Week 11
 
 
