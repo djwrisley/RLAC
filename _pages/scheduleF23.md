@@ -110,7 +110,7 @@ Image Collections
 ### Week 9
 
 | Time/Date | Reading | Activity |
-| 31 Oct | <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. <br> -How does a lightbox work? | In class exploration: <br> -Looking for Patterns in Image Collections with IMJ <br> -Learning about Orange Data Mining | 
+| 31 Oct | <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. <br> -How does a lightbox work? | In class exploration: <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) <br> -Learning about Orange Data Mining | 
 
 
 
