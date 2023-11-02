@@ -111,7 +111,7 @@ Image Collections
 
 | Time/Date | Reading | Activity |
 | 31 Oct | <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. | In class exploration: <br> -Learning about Orange Data Mining | 
-| 2 Nov | Come by for Nodegoat workshop (A6-009) |
+| 2 Nov | Come by for [Nodegoat](https://nodegoat.net/) workshop (A6-009) | Learning about Implementing a Data Model |
 
 
 ### Week 10
