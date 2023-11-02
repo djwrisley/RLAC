@@ -118,7 +118,7 @@ Image Collections
 
 | Time/Date | Reading | Activity |
 | 7 Nov  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Cluster assignment 
-| 9 Nov  | Orange Data Mining for Classification | 
+| 9 Nov  | Prepare a few ideas about how you would use what you are learning in IM-UH 1511 in the community | Public History Conversation | 
 
 ### Week 11
 
