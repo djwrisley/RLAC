@@ -129,8 +129,8 @@ Image Collections
 ### Week 12 
 
 | Time/Date | Reading | Activity |
-| 21 Nov | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | <br> -Discussion of topics of interest to you <br> -Building an image corpus for Assignment 4 |
-| 23 Nov |  | Working with the Corpus |
+| 21 Nov | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) <br> -Check out the WIDH2024 course on [Image Analysis](https://wp.nyu.edu/widh/widh-2024/#image)| <br> -Discussion of topics of interest to you <br> -Building an image corpus for Assignment 4 |
+| 23 Nov |  | <br> -Working with Individual Corpora  <br> -Presenting the Unproject|
 
 ### Week 13
 
