@@ -110,7 +110,7 @@ Image Collections
 ### Week 9
 
 | Time/Date | Reading | Activity |
-| 31 Oct | <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. | In class exploration: <br> -Learning about Orange Data Mining | 
+| 31 Oct | <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. | In class exploration: <br> -Learning about Orange Data Mining | 
 | 2 Nov | Come by for [Nodegoat](https://nodegoat.net/) workshop (A6-009) | Learning about Implementing a Data Model |
 
 
@@ -124,11 +124,24 @@ Image Collections
 
 | Time/Date | Reading | Activity |
 | 14 Nov | Classification of Image Datasets with Orange | build a dataset of your own with 5 "similar" images in 5 folders | 
+| 16 Nov | <br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 | discussion of the article | 
 
-### Week 12
+### Week 12 
+
+| Time/Date | Reading | Activity |
+| 21 Nov | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | Building a corpus for Assignment 4 |
+| 23 Nov |  | Working with the Corpus |
 
 ### Week 13
 
+WORK ON REMAINING ASSIGNMENTS & UNPROJECT
+
 ### Week 14
 
-### Week 15
+WORK ON REMAINING ASSIGNMENTS & UNPROJECT
+
+### Week 15 
+
+| Time/Date | Reading | Activity |
+| 12 Dec | none | in-class presentations of our "unprojects" | 
+| 14 Dec | none | wrap up | 
