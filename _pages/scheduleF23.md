@@ -117,10 +117,13 @@ Image Collections
 ### Week 10
 
 | Time/Date | Reading | Activity |
-| 7 Nov  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Cluster assignment 
+| 7 Nov  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Cluster assignment <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) | 
 | 9 Nov  | Prepare a few ideas about how you would use what you are learning in IM-UH 1511 in the community related to <br> -how it can be used to understand the past <br> -career opportunities you might see <br> -if project-based learning is valuable to you / understood by others | Public History Conversation with Professor Thomas Cauvin, room A6-004| 
 
 ### Week 11
+
+| Time/Date | Reading | Activity |
+| 14 Nov | Classification of Image Datasets with Orange | build a dataset of your own with 5 "similar" images in 5 folders | 
 
 ### Week 12
 
