@@ -124,12 +124,12 @@ Image Collections
 
 | Time/Date | Reading | Activity |
 | 14 Nov | Classification of Image Datasets with Orange | build a dataset of your own with 5 "similar" images in 5 folders | 
-| 16 Nov | <br> -Arnold/Tilton, "Distant Viewing: Analyzing Large Visual Corpora" DSH 2019: 1-19 | discussion of the article | 
+| 16 Nov | <br> -Arnold/Tilton, "[Distant Viewing: Analyzing Large Visual Corpora](https://academic.oup.com/dsh/article/34/Supplement_1/i3/5694340?login=true)" DSH 2019: 1-19 | discussion of the article & different forms of audio visual DH | 
 
 ### Week 12 
 
 | Time/Date | Reading | Activity |
-| 21 Nov | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | Building a corpus for Assignment 4 |
+| 21 Nov | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | <br> -Discussion of topics of interest to you <br> -Building an image corpus for Assignment 4 |
 | 23 Nov |  | Working with the Corpus |
 
 ### Week 13
