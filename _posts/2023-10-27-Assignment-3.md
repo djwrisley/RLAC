@@ -56,4 +56,4 @@ For some sources, the number of pages involved may make it very difficult to ext
 
 Use the zoom percentage to size the file. An example of the code of one of your instructor's research projects can be found [here](https://raw.githubusercontent.com/parisbible/parisbible.github.io/main/_posts/2022-10-31-bible-hunting-Italy.md)
 
-Your assignment should be about 1250 words long, with several images, embedded links. Use a markdown cheatsheet such as this [one](https://www.markdownguide.org/cheat-sheet) to stylize your post, adding different layout features and embedded links if needed. You can refer to the readings if you want to, but this is not necessary for this assignment. **Due date: 15 November**.
+Your assignment should be about 1250 words long, with several images, embedded links. Use a markdown cheatsheet such as this [one](https://www.markdownguide.org/cheat-sheet) to stylize your post, adding different layout features and embedded links if needed. You can refer to the readings if you want to, but this is not necessary for this assignment. **Due date: 25 November**.
