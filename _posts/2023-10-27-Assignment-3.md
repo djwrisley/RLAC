@@ -17,7 +17,7 @@ The Spatial Data Assignment is an assignment in one step. It builds upon the wor
 
 This assignment can be done alone or in pairs.  
 
-This exercise has four main elements: (1) identifying the spatial elements of any humanities source material (2) modeling a spatial dataset based on those elements, (3) enriching the spatial data with any other relevant metadata, (4) visualizing the data on a map, discussion and interpretion.
+This exercise has five main elements: (1) choosing a source (2) identifying the spatial elements of any humanities source material (3) modeling a spatial dataset based on those elements, (4) enriching the spatial data with any other relevant metadata, (5) visualizing the data on a map, discussion and interpretion.
 
 > For this exercise, if you want to semi-automate the process you will need an account at openai.com
 
