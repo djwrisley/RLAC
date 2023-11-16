@@ -13,11 +13,13 @@ tags:
 
 # DRAFT Guidelines for the Assignment: 
 
-The Spatial Data Assignment is an assignment in one step. It builds upon the work we did in class on October 17th. 
+The Spatial Data Assignment is an assignment in one step. It builds upon the work we did in class on October 17th, with a refresher on November 16th. 
 
 This assignment can be done alone or in pairs.  
 
 This exercise has four main elements: (1) identifying the spatial elements of any humanities source material (2) modeling a spatial dataset based on those elements, (3) enriching the spatial data with any other relevant metadata, (4) visualizing the data on a map, discussion and interpretion.
+
+> For this exercise, if you want to semi-automate the process you will need an account at openai.com
 
 **Step 1**: Choice of source. You should identify the sourcebook you would like to work with. Below is a list of possible sources from archive.org, but you can also find your own. **Please check with the instructor if you use one which is not included below**. 
 
@@ -43,14 +45,18 @@ If your source has not been optically character recognized (OCR'd), you need to 
 
 **Step 2**: Modeling the data. You should identify what data is available from the source. 
 
-For some sources, the number of pages involved may make it very difficult to extract all the information. You should make a choice of which part of the source you will work on. You want to have a dataset of at least 50 rows or so. If you use chatGPT to extract the data, please make sure that the number of rows is significantly larger than that. 
+For some sources, the number of pages involved may make it very difficult to extract all the information using chatGPT 3.5. You should make a choice of which part of the source you will work on, by which I mean, you will have to choose the number of pages you will use and you may have to work in batches. You want to have a dataset of at least 50 rows or so. This can be accomplished manually. If you use chatGPT to extract the data, please make sure that the number of rows is significantly larger than that. 
 
-**Step 3**:  Enriching the data.  Geocoding. Adding any other data. 
+**Step 3**:  Enriching the data. Geocoding. Adding any other data. 
+
+When you are working with the data one of the things you will want to do is to examine what kinds of other information can be associated with the main points. You will need to add on columns which achieve that. You can geocode by hand or automate that process using Geocode by Awesome Table. 
 
 **Step 4**:  Visualizing the data. Discussion and Interpretation. 
 
+Your choices for visualizing the spatial data are numerous. Perhaps the easiest is kepler.gl. UMAP is fine, as are other packages. 
 
-*Images* : For images, you need to take a single screenshot (either of the two images together in Mirador or otherwise placed along side of each other), rename that file and place it in the assets folder of your Github pages site. Insert the following line where you want the image to show up in the body of the .md file of your assignment:
+
+Insert the following line where you want the image to show up in the body of the .md file of your assignment:
 
 `<img src="/assets/{filename}.png" style="zoom:50%"/>`
 
