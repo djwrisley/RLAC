@@ -61,7 +61,7 @@ Use images in your unproject plan. They can come from rights-free images, a plac
 - analyze the film archive of your country over a 50 year period 
 - etc. 
 
-*Format for presenting your unproject*: For convenience, you can use Google Slides or any other presentation making software you prefer. Have a draft of these slides for our presentation day on 
+*Format for presenting your unproject*: For convenience, you can use Google Slides or any other presentation making software you prefer. Have a draft of these slides for our presentation day on Tues & Thurs 12 and 14 December. 
 
 All work is due 15 December, 12 noon, unless you have worked out another deadline with the instructor.
 
