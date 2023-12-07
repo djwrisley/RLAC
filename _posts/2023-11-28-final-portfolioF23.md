@@ -32,7 +32,7 @@ Things to include in the slide:
 Save it in two formats: 
 - a editable file as well as a pdf and placed in your assets folder.
 
-Name your file "SummarySlide[yourinitials][yes|no].pdf". Yes here indicates that you are ok if your instructor were to reuse this slide in a public exhibition of student work. No indicates you prefer not. Your choice of yes or no will not affect your grade. Please make sure that you check with your partner for the assignment before indicating "yes"
+Name your file "SummarySlide{yourinitials}yes/no].pdf". Yes here indicates that you are ok if your instructor were to reuse this slide in a public exhibition of student work. No indicates you prefer not. Your choice of yes or no will not affect your grade. Please make sure that you check with your partner for the assignment before indicating "yes"
 
 NB: This exercise is a great first step to learning how to make a poster for presentation--a requirement for many capstones. You can refer to these ["design hacks"](https://drive.google.com/file/d/1l3oRLjaZn__7xkFrHhafvwbNDT7Llfu6/view?usp=share_link) for making a poster prepared for a capstone by NYUAD faculty member Erin Collins.
 
