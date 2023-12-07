@@ -43,13 +43,13 @@ You may do this assignment alone or in pairs. The point of this final "unproject
 
 A good model for your unproject are the examples in Digital_Humanities (MIT, 2017), pp 60-71, [A Portfolio of Case Studies](https://direct.mit.edu/books/book/5346/chapter/3837846/EMERGING-METHODS-AND-GENRES). You do not need to write up the project in complex prose. Instead, you can cover the essentials of this imagined project on separate slides.  Consider using the following breakdown. Each slide can have a few bullet points and an image.
 
-a. **Scope**: What is the project's main focus, and what specific aspects does it explore?
-b. **Data**: What are the data of your project? Where do they come from? How will they be sourced? collected? digitized? organized? Are there ethical issues with the data? 
-c. **Techniques**: What methods or approaches does the project employ (e.g., digitization, computer vision, text analysis or generation, data-mining, crowdsourcing/participatory architecture, image classification or generation)?
-d. **Aims**: What are the project's main objectives or goals? What do you hope to do with the data? Do you have any hypotheses about how they will be "useful"? 
-e. **Values & Ethics**: What kinds of values or ethics guide your project?
-f. **Resources**: What kinds of resources do you require to carry out your project? What tools or technologies are utilized in the project (e.g., natural language processing, cartographic representations, 3d printing, large language models, AI)? Who are the people going to be who participate in your project?
-g. **Workplan**: How does the project outline the steps to achieve its goals, and what plans are in place for dissemination and participation? Are there phases to the project?  
+- **Scope**: What is the project's main focus, and what specific aspects does it explore?
+- **Data**: What are the data of your project? Where do they come from? How will they be sourced? collected? digitized? organized? Are there ethical issues with the data? 
+- **Techniques**: What methods or approaches does the project employ (e.g., digitization, computer vision, text analysis or generation, data-mining, crowdsourcing/participatory architecture, image classification or generation)?
+- **Aims**: What are the project's main objectives or goals? What do you hope to do with the data? Do you have any hypotheses about how they will be "useful"? 
+- **Values & Ethics**: What kinds of values or ethics guide your project?
+- **Resources**: What kinds of resources do you require to carry out your project? What tools or technologies are utilized in the project (e.g., natural language processing, cartographic representations, 3d printing, large language models, AI)? Who are the people going to be who participate in your project?
+- **Workplan**: How does the project outline the steps to achieve its goals, and what plans are in place for dissemination and participation? Are there phases to the project?  
 
 Use images in your unproject plan. They can come from rights-free images, a place like unsplash, or they can be AI-generated (Dalle, dreamstudio, diffusion B, Lexica, Craiyon). Best is to put the images in your assets folder and point to them in your presentation. 
 
