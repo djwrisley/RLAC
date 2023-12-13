@@ -71,4 +71,15 @@ Insert the following line where you want the image to show up in the body of the
 
 Use the zoom percentage to size the file. An example of the code of one of your instructor's research projects can be found [here](https://raw.githubusercontent.com/parisbible/parisbible.github.io/main/_posts/2022-10-31-bible-hunting-Italy.md)
 
+# Guiding questions for this assignment:
+
+- What kind of source is it? 
+- What kinds of data does that source provide? 
+- Was the data directly or indirectly communicated? In other words, did you have to assume anything to create new columns? 
+- If you used chatGPT, how did you create a prompt to automate the extraction of the information? 
+- When you mapped the data, did you see any interesting patterns? Were there areas of concentration of points? Did mapping the additional columns (profession, gender, etc) lead to any visible clusters?
+- If you were to do this over many more pages then you did for this assignment, what kind of results do you think the different scale would give?
+- If you were to do this assignment with a source not included here, what would your ideal source be?  
+
+
 Your assignment should be about 1250 words long, with several images, embedded links. Use a markdown cheatsheet such as this [one](https://www.markdownguide.org/cheat-sheet) to stylize your post, adding different layout features and embedded links if needed. You can refer to the readings if you want to, but this is not necessary for this assignment. **Due date: 25 November**.
