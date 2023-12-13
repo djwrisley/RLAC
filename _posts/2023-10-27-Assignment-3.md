@@ -7,11 +7,11 @@ tags:
   - Assignments
   - metadata
   - chatGPT
-  - S23
+  - F23
   - spatial
 ---
 
-# DRAFT Guidelines for the Assignment: 
+# Guidelines for the Assignment: 
 
 The Spatial Data Assignment is an assignment in one step. It builds upon the work we did in class on October 17th, with a refresher on November 16th. 
 
@@ -41,7 +41,7 @@ Source #8 [UAE Exports & Industry Directory - 2017-18](https://archive.org/detai
 
 Source #9 [Smolensk Telephone Book from 1910 - in Russian Список абонентов Смоленской телефонной сети, устроенной и эксплуатируемой Правительством](https://archive.org/details/1910-smolensk-tspr-1910/mode/2up). 
 
-If your source has not been optically character recognized (OCR'd), you need to do this. You can reach out to the instructor to help with this. 
+If your source has not been optically character recognized (OCR'd), you need to do this. You can reach out to the instructor to help with this--it takes just a few minutes to do. 
 
 **Step 2**: Modeling the data. You should identify what data is available from the source. 
 
@@ -49,12 +49,21 @@ For some sources, the number of pages involved may make it very difficult to ext
 
 **Step 3**:  Enriching the data. Geocoding. Adding any other data. 
 
-When you are working with the data one of the things you will want to do is to examine what kinds of other information can be associated with the main points. You will need to add on columns which achieve that. You can geocode by hand or automate that process using Geocode by Awesome Table. 
+When you are working with the data one of the things you will want to do is to examine what kinds of other information can be associated with the main points. You will need to add on columns which achieve that. These will be different according to the source. 
+
+Examples of other columns might be
+- professions of people
+- numbers of people
+- gender of person
+- neighborhoods, etc. 
+
+Finally, you can geocode by hand or automate that process using Geocode by Awesome Table so that you have latitude and longitude columns. 
 
 **Step 4**:  Visualizing the data. Discussion and Interpretation. 
 
-Your choices for visualizing the spatial data are numerous. Perhaps the easiest is kepler.gl. UMAP is fine, as are other packages. 
+Your choices for visualizing the spatial data are numerous. Perhaps the easiest is kepler.gl or google MyMaps. UMAP is fine, as are other packages. 
 
+Use color categories for the points to categorize types of points. When you have a map that shows the extent of your data, you can screenshot it and include it as an image.
 
 Insert the following line where you want the image to show up in the body of the .md file of your assignment:
 
