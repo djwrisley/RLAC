@@ -67,10 +67,10 @@ Textual Bodies
 Text as Data 
 
 | Time/Date | Reading | Activity |
-| Tues, 20 February	3:35PM-6:15PM | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. <br> -Text as Data podcast  <br> -Hardfork, [Generative AI is here : who should control it?](https://www.nytimes.com/2023/08/25/podcasts/airbnb-ai-songs.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (podcast)<br> -[From The Page, Experiments Using ChatGPT with Archival Collections](https://www.youtube.com/watch?v=-X4kaiFPXz4) | Lab <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction| 
-| Tues, 22 February	3:35PM-6:15PM | | |
+| Tues, 20 February	3:35PM-6:15PM | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. <br> -Hardfork, [Generative AI is here : who should control it?](https://www.nytimes.com/2023/08/25/podcasts/airbnb-ai-songs.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (podcast)<br> -[From The Page, Experiments Using ChatGPT with Archival Collections](https://www.youtube.com/watch?v=-X4kaiFPXz4) | Virtual Lab "What is your favorite application of GPT in the world of the humanities?"| 
+| Thurs, 22 February	3:35PM-6:15PM | Hands on | <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction|
 
-**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/Assignment2/)** Due November 6, 20% final grade. 
+**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/Assignment2/)** Due XXX, 20% final grade. 
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
@@ -82,8 +82,8 @@ Text as Data
 Spatial Horizons
 
 | Time/Date | Reading | Activity |
-| Tues, 3 Oct  3:35PM-6:15PM |	<br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 | Exploring Spatial Projects <br> -An Introduction to UMap  <br> -[Kepler](https://kepler.gl) <br> -Maps as Data|
-| Thurs, 5 Oct 	3:35PM-4:50PM | <br> -Brunn / Lodge Mapping Across Academia (in drive, pick one chapter and find a few key points) <br> -Wrisley, "[Spatial Humanities](https://archive.nyu.edu/handle/2451/43476)", Porphyra 22(2014): 96-107. | [Signup](https://docs.google.com/spreadsheets/d/1XveMjt4cwccRpXpJz9F9kchPTejx_zbq4yGaVMoKZJQ/edit#gid=0) for discussion of a spatial project |
+| Tues, 27 Feb  3:35PM-6:15PM |	<br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 | Exploring Spatial Projects <br> -An Introduction to UMap  <br> -[Kepler](https://kepler.gl) <br> -Maps as Data|
+| Thurs, 29 Feb 	3:35PM-4:50PM | <br> -Brunn / Lodge Mapping Across Academia (in drive, pick one chapter and find a few key points) <br> -Wrisley, "[Spatial Humanities](https://archive.nyu.edu/handle/2451/43476)", Porphyra 22(2014): 96-107. | [Signup](https://docs.google.com/spreadsheets/d/1XveMjt4cwccRpXpJz9F9kchPTejx_zbq4yGaVMoKZJQ/edit#gid=0) for discussion of a spatial project |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -92,12 +92,12 @@ Spatial Horizons
 Map Visualization
 
 | Time/Date | Reading | Activity |
-| Tues, 7 Mar	3:35PM-6:15PM | | Lab: Work on Assignment 2 submitting your preliminary visuals to Google Space |
-| Thurs, 9 Mar 3:35PM-4:50PM | -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -Exploring Humanitarian OSM | <br> - Submit a Google Space response about HOSM | 
+| Tues, 5 March	3:35PM-6:15PM | | Lab: Work on Assignment 2 submitting your preliminary visuals to Google Space |
+| Thurs, 7 March 3:35PM-4:50PM (virtual class)| -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -Exploring Humanitarian OSM | <br> - Submit a Google Space response about HOSM | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-***No class 19-25 October. Have a great fall break!*** 
+***No class 8-20 March. Have a great break!*** 
 
 
 ### Week 8 
@@ -105,7 +105,7 @@ Map Visualization
 Image Collections 
 
 | Time/Date | Reading | Activity |
-| Thurs, 26 October | -WCMA digital project <br> -Selfie City <br> -Photogrammar <br> -MoMA photography | discussion | 
+| Thurs, 21 March 3:35PM-4:50PM | -WCMA digital project <br> -Selfie City <br> -Photogrammar <br> -MoMA photography | discussion | 
 
 **Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F23/)**, Due Date 15 November, 10% final grade.
 {: .notice}
@@ -113,38 +113,43 @@ Image Collections
 ### Week 9
 
 | Time/Date | Reading | Activity |
-| 31 Oct | <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. | In class exploration: <br> -Learning about Orange Data Mining | 
-| 2 Nov | Come by for [Nodegoat](https://nodegoat.net/) workshop (A6-009) | Learning about Implementing a Data Model |
+| Tues, 26 March | <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. | In class exploration: <br> -Learning about Orange Data Mining | 
+| Thurs, 28 March | Come by for [Nodegoat](https://nodegoat.net/) workshop (A6-009) | Learning about Implementing a Data Model |
 
 
 ### Week 10
 
 | Time/Date | Reading | Activity |
-| 7 Nov  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Cluster assignment <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) | 
-| 9 Nov  | Prepare a few ideas about how you would use what you are learning in IM-UH 1511 in the community related to <br> -how it can be used to understand the past <br> -career opportunities you might see <br> -if project-based learning is valuable to you / understood by others | Public History Conversation with Professor Thomas Cauvin, room A6-004| 
+| Tues, 2 April  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Cluster assignment <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) | 
+| Thurs, 4 April  | Prepare a few ideas about how you would use what you are learning in IM-UH 1511 in the community related to <br> -how it can be used to understand the past <br> -career opportunities you might see <br> -if project-based learning is valuable to you / understood by others | Public History Conversation with Professor Thomas Cauvin, room A6-004| 
 
 ### Week 11
 
 | Time/Date | Reading | Activity |
-| 14 Nov | Classification of Image Datasets with Orange | build a dataset of your own with 5 "similar" images in 5 folders | 
-| 16 Nov | <br> -Arnold/Tilton, "[Distant Viewing: Analyzing Large Visual Corpora](https://academic.oup.com/dsh/article/34/Supplement_1/i3/5694340?login=true)" DSH 2019: 1-19 | discussion of the article & different forms of audio visual DH | 
+| Tues, 9 April | Classification of Image Datasets with Orange | build a dataset of your own with 5 "similar" images in 5 folders | 
+
 
 ### Week 12 
 
 | Time/Date | Reading | Activity |
-| 21 Nov | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) <br> -Check out the WIDH2024 course on [Image Analysis](https://wp.nyu.edu/widh/widh-2024/#image)| <br> -Discussion of topics of interest to you <br> -Building an image corpus for Assignment 4 |
-| 23 Nov |  | <br> -Working with Individual Corpora  <br> -Presenting the Unproject|
+| Tues, 16 April | <br> -Arnold/Tilton, "[Distant Viewing: Analyzing Large Visual Corpora](https://academic.oup.com/dsh/article/34/Supplement_1/i3/5694340?login=true)" DSH 2019: 1-19 | discussion of the article & different forms of audio visual DH | 
+| Thurs, 18 April | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) <br> -Check out the WIDH2024 course on [Image Analysis](https://wp.nyu.edu/widh/widh-2024/#image)| <br> -Discussion of topics of interest to you <br> -Building an image corpus for Assignment 4 |
+
 
 ### Week 13
 
 WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
+23 and 25 April 
+
 ### Week 14
 
 WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
+30 April and 2 May 
+
 ### Week 15 
 
 | Time/Date | Reading | Activity |
-| 12 Dec | none | in-class presentations of our "unprojects" | 
-| 14 Dec | none | wrap up | 
+| Tues, 7 May | none | in-class presentations of our "unprojects" | 
+| Thurs, 9 May | none | wrap up | 
