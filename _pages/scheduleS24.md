@@ -30,7 +30,7 @@ Making and Project-Based Thinking
 | Tues, 30 January 3:35PM-6:15PM |	<br> -Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/1quXS42vdwv0B4xBjzzvHgrkbLS9UVV56/view?usp=sharing),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. <br> -[Humanities Data Fundamentals](https://hdf.benschmidt.org/)| Lab: <br> -Working on our own blogs / pushing material to them using [GitHub Desktop](https://desktop.github.com/) <br> -Introduction to RStudio and [Posit.cloud] (formerly RStudio.cloud) | 
 | Thurs, 1 February 	3:35PM-4:50PM |	<br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -[The Making and Knowing Project](https://www.makingandknowing.org/) | discussion | 
 
-**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F23/)** Due Date XXX, 20% final grade (in phases).
+**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F23/)** Due Date 8 Feb, 20% final grade (in phases).
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
@@ -41,12 +41,12 @@ Data and Metadata in the Arts and Humanities 1
 
 | Time/Date | Reading | Activity |
 | Tues, 6 February  3:35PM-6:15PM | <br> -Broman/Woo ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375989?needAccess=true), The American Statistician, 24 April 2018. <br> -Drucker, [ch 2](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (19-33) & [ch 4](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (52-69) <br> -terms: metadata, API, discoverability, federated database, IIIF | -Lab slides in drive <br> -Notebook: Cultural Heritage By the Numbers (posit.cloud) |
-| Thurs, 8 February 3:35PM-4:50PM | Continuation of the Notebooks <br> -De Bastion/Mukku, [Data and the Global South](https://us.boell.org/en/2020/10/20/data-and-global-south-key-issues-inclusive-digital-development), 2020.| discussion |
+| Thurs, 8 February 3:35PM-4:50PM | Continuation of the Notebooks <br> -De Bastion/Mukku, [Data and the Global South](https://us.boell.org/en/2020/10/20/data-and-global-south-key-issues-inclusive-digital-development), 2020. <br> -[Singapore Memories Project](https://www.singaporememories.gov.sg/) / [Trove](https://trove.nla.gov.au/) / [Europeana](https://www.europeana.eu/en) / [Google Arts & Culture](https://artsandculture.google.com/) | discussion  of Geopolitics of Cultural Heritage |
 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-**ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/Assignment-1-HAM/)** Due Date XXX, 20% final grade.
+**ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/Assignment-1-HAM/)** Due Date 19 Feb, 20% final grade.
 {: .notice}
 
 ## UNIT 2: TEXTUAL
@@ -70,7 +70,7 @@ Text as Data
 | Tues, 20 February	3:35PM-6:15PM | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. <br> -Hardfork, [Generative AI is here : who should control it?](https://www.nytimes.com/2023/08/25/podcasts/airbnb-ai-songs.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (podcast)<br> -[From The Page, Experiments Using ChatGPT with Archival Collections](https://www.youtube.com/watch?v=-X4kaiFPXz4) | Virtual Lab "What is your favorite application of GPT in the world of the humanities?"| 
 | Thurs, 22 February	3:35PM-6:15PM | Hands on | <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction|
 
-**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/Assignment2/)** Due XXX, 20% final grade. 
+**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/Assignment2/)** Due 4 March, 20% final grade. 
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
