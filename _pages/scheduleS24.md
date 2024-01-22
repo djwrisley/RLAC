@@ -56,10 +56,12 @@ Data and Metadata in the Arts and Humanities 1
 Textual Bodies
 
 | Time/Date | Reading | Activity |
-| Tues, 13 February 3:35PM-6:15PM | <br> -Drucker, [ch 7](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 110-120.<br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://muse.jhu.edu/pub/23/edited_volume/chapter/3144062)" Global Debates in the Digital Humanities, 2022 | <br> Lab:  Text Mining: Easy to Less Easy <br> -[Google NGram Viewer](https://books.google.com/ngrams/) <br> -[Bookworm](https://bookworm.htrc.illinois.edu/develop/) <br> -[Voyant](https://voyant-tools.org/) <br> -[AntConc](https://www.laurenceanthony.net/software/antconc/) (download in advance of session) |
-|Thurs, 15 February 3:35PM-4:50PM (virtual class) | <br> -Miller, "[Using GPT on Library Collections](https://thisismattmiller.com/post/using-gpt-on-library-collections/)", 2023. <br> -Barton, "[Experiments Using chatGPT With Archival Collections](https://youtu.be/-X4kaiFPXz4) <br>-[Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading)| virtual exercise with share out to Google space |
+| Tues, 13 February 3:35PM-6:15PM | <br> -Drucker, [ch 7](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 110-120.<br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://muse.jhu.edu/pub/23/edited_volume/chapter/3144062)" Global Debates in the Digital Humanities, 2022 <br>-[Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading) | <br> Lab:  Text Mining: Easy to Less Easy <br> -[Google NGram Viewer](https://books.google.com/ngrams/) <br> -[Bookworm](https://bookworm.htrc.illinois.edu/develop/) <br> -[Voyant](https://voyant-tools.org/) <br> -[AntConc](https://www.laurenceanthony.net/software/antconc/) (download in advance of session) <br> -RStudio notebook for Project Gutenberg wordcloud |
+| Thurs, 15 February 3:35PM-4:50PM (virtual)| <br> -Hardfork, [Generative AI is here : who should control it?](https://www.nytimes.com/2023/08/25/podcasts/airbnb-ai-songs.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (podcast) <br> -[From The Page, Experiments Using ChatGPT with Archival Collections](https://www.youtube.com/watch?v=-X4kaiFPXz4) -[GPT for the Arts and Humanities](https://thenewcentre.org/seminars/gpt-for-arts-humanities/) <br> -Barton, "[Experiments Using chatGPT With Archival Collections](https://youtu.be/-X4kaiFPXz4) | "What is your favorite application of GPT in the world of the humanities?" - a Google Space contribution
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
+
+
 
 
 ### Week 5
@@ -67,8 +69,8 @@ Textual Bodies
 Text as Data 
 
 | Time/Date | Reading | Activity |
-| Tues, 20 February	3:35PM-6:15PM (virtual class) | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. <br> -Hardfork, [Generative AI is here : who should control it?](https://www.nytimes.com/2023/08/25/podcasts/airbnb-ai-songs.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (podcast) <br> -[From The Page, Experiments Using ChatGPT with Archival Collections](https://www.youtube.com/watch?v=-X4kaiFPXz4) -[GPT for the Arts and Humanities](https://thenewcentre.org/seminars/gpt-for-arts-humanities/) | Virtual Lab "What is your favorite application of GPT in the world of the humanities?" - a Google Space contribution| 
-| Thurs, 22 February 3:35PM-6:15PM | Hands on | <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction|
+| Tues, 20 February	3:35PM-6:15PM (guest) | Generative Text | virtual exercise with share out to Google space | 
+| Thurs, 22 February 3:35PM-6:15PM | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. | <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction|
 
 **ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/Assignment2/)** Due 4 March, 20% final grade. 
 {: .notice}
