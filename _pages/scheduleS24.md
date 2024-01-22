@@ -1,15 +1,12 @@
 ---
-title: "Schedule F23"
-permalink: /scheduleF23/
+title: "Schedule S24"
+permalink: /schedule/
 author_profile: false
 ---
 
-> This page is from a previous semester.  
-
-
 [Week 1](https://daahnyuad.github.io/schedule/#week-1)  [Week 2](https://daahnyuad.github.io/schedule/#week-2)  [Week 3](https://daahnyuad.github.io/schedule/#week-3)  [Week 4](https://daahnyuad.github.io/schedule/#week-4)  [Week 5](https://daahnyuad.github.io/schedule/#week-5) [Week 6](https://daahnyuad.github.io/schedule/#week-6) [Week 7](https://daahnyuad.github.io/schedule/#week-7) [Week 8](https://daahnyuad.github.io/schedule/#week-8) [Week 9](https://daahnyuad.github.io/schedule/#week-9) [Week 10](https://daahnyuad.github.io/schedule/#week-10) [Week 11](https://daahnyuad.github.io/schedule/#week-11) [Week 12](https://daahnyuad.github.io/schedule/#week-12) [Week 13](https://daahnyuad.github.io/schedule/#week-13) [Week 14](https://daahnyuad.github.io/schedule/#week-14) [Week 15](https://daahnyuad.github.io/schedule/#week-15) 
 
-<br>[Unit 1 - Data in the Arts and Humanities](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) <br>[Unit 2 - Textual](https://daahnyuad.github.io/schedule/#unit-2-textual) <br>[Unit 3 - Spatial](https://daahnyuad.github.io/schedule/#unit-3-spatial) <br>[Unit 4 - Image](https://daahnyuad.github.io/schedule/#unit-4-image) <br>[Unit 5 - Towards Digital Project Work](https://daahnyuad.github.io/schedule/#unit-5-towards-digital-project-work)
+<br>[Unit 1 - Data in the Arts and Humanities](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) <br>[Unit 2 - Textual](https://daahnyuad.github.io/schedule/#unit-2-textual) <br>[Unit 3 - Spatial](https://daahnyuad.github.io/schedule/#unit-3-spatial) <br>[Unit 4 - Image](https://daahnyuad.github.io/schedule/#unit-4-image) <br>[Unit 5 - Towards Larger Digital Project Inquiry](https://daahnyuad.github.io/schedule/#unit-5-towards-digital-project-work)
 
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 

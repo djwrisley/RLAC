@@ -1,8 +1,11 @@
 ---
 title: "Outcomes"
-permalink: /outcomes/
+permalink: /outcomesF23/
 author_profile: false
 ---
+
+> This page is from a previous semester.  
+
 
 ## COURSE LEARNING OUTCOMES: 
 

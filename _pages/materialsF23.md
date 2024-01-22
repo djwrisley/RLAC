@@ -1,8 +1,11 @@
 ---
-title: "Materials"
-permalink: /materials/
+title: "Materials F23"
+permalink: /materialsF23/
 author_profile: false
 ---
+
+> This page is from a previous semester.  
+
 
 There are two required books in this course. First, an [e-book](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008285939). Second, a traditional book for this course, the course site will have links to e-book excerpts or other open, online materials and tutorials of interest. There will be a few copies of the required book for purchase at the bookstore if you prefer. There will be installation of some software and/or signups in online platforms in order to complete the exercises for the hands-on labs. Students will be provided with tutorials for such installation. 
 

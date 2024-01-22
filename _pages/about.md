@@ -6,14 +6,15 @@ author_profile: false
 
 ## Introduction to Digital Arts and Humanities
 
-- **Fall 2023 (23335)**
+- **Spring 2023 (23709)**
 - **Number of credits**: 4 (14 weeks)
 - **Instructor**: David Wrisley (djw12@)
 - **Mastodon**: @djwrisley@mstdn.social
 - **Pre-requisites or co-requisites**: none
-- **Cross-listing**: This course is an IM elective.
+- **Cross-listing**: This course counts an IM elective.
 
 > This course is the foundation course for the minor in Digital Arts and Humanities. It is taught in person in Abu Dhabi, but is open to registration by study away students. Capacity will be limited to 15. 
+
 
 ## BRIEF COURSE DESCRIPTION:
 
@@ -21,10 +22,10 @@ Introduction to Digital Arts and Humanities examines different intersections bet
 
 
 | **Element** | **Day** | **Timing** | **Location** | 
-| Lab | Tu | 3:35PM-6:15PM | C2 306 | 
-| Class | Th | 3:35PM-4:50PM | C2 306 | 
-| Office hours | W | 3-5PM | A6 L1 1151 |
-# | Ramadan in person OH | TBA | TBA | A6 L1 1151 |
+| Lab | Tu | 3:35PM-6:15PM | C2 L03 306 | 
+| Class | Th | 3:35PM-4:50PM | C2 L03 306 | 
+| Office hours | W | 3-5PM | A6 L01 1151 |
+| Ramadan in person OH | TBA | TBA | A6 L1 1151 |
 
 
 To see an archive of previous versions of this course, see <a href="https://daahnyuad.github.io/archive/" target="_blank">here</a>

@@ -1,8 +1,11 @@
 ---
-title: "Assessment"
-permalink: /assessment/
+title: "Assessment F23"
+permalink: /assessmentF23/
 author_profile: false
 ---
+
+> This page is from a previous semester.  
+
 
 **GRADE CUTOFFS:** 
 
