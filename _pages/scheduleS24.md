@@ -67,8 +67,8 @@ Textual Bodies
 Text as Data 
 
 | Time/Date | Reading | Activity |
-| Tues, 20 February	3:35PM-6:15PM | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. <br> -Hardfork, [Generative AI is here : who should control it?](https://www.nytimes.com/2023/08/25/podcasts/airbnb-ai-songs.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (podcast)<br> -[From The Page, Experiments Using ChatGPT with Archival Collections](https://www.youtube.com/watch?v=-X4kaiFPXz4) | Virtual Lab "What is your favorite application of GPT in the world of the humanities?"| 
-| Thurs, 22 February	3:35PM-6:15PM | Hands on | <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction|
+| Tues, 20 February	3:35PM-6:15PM (virtual class) | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. <br> -Hardfork, [Generative AI is here : who should control it?](https://www.nytimes.com/2023/08/25/podcasts/airbnb-ai-songs.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (podcast) <br> -[From The Page, Experiments Using ChatGPT with Archival Collections](https://www.youtube.com/watch?v=-X4kaiFPXz4) -[GPT for the Arts and Humanities](https://thenewcentre.org/seminars/gpt-for-arts-humanities/) | Virtual Lab "What is your favorite application of GPT in the world of the humanities?" - a Google Space contribution| 
+| Thurs, 22 February 3:35PM-6:15PM | Hands on | <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction|
 
 **ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/Assignment2/)** Due 4 March, 20% final grade. 
 {: .notice}
@@ -93,7 +93,7 @@ Map Visualization
 
 | Time/Date | Reading | Activity |
 | Tues, 5 March	3:35PM-6:15PM | | Lab: Work on Assignment 2 submitting your preliminary visuals to Google Space |
-| Thurs, 7 March 3:35PM-4:50PM (virtual class)| -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -Exploring Humanitarian OSM | <br> - Submit a Google Space response about HOSM | 
+| Thurs, 7 March 3:35PM-4:50PM (virtual class)| -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -Exploring Humanitarian OSM | <br> - What is your favorite HOSM project and why? - a Google space contribution | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -105,23 +105,23 @@ Map Visualization
 Image Collections 
 
 | Time/Date | Reading | Activity |
-| Thurs, 21 March 3:35PM-4:50PM | -WCMA digital project <br> -Selfie City <br> -Photogrammar <br> -MoMA photography | discussion | 
+| Thurs, 21 March 3:35PM-4:50PM | <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography) | discussion | 
 
-**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F23/)**, Due Date 15 November, 10% final grade.
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F23/)**, Due Date XXX, 10% final grade.
 {: .notice}
 
 ### Week 9
 
 | Time/Date | Reading | Activity |
-| Tues, 26 March | <br> -Vox, "Why I am Obsessed With these Cheap Paintings of Paris" <br> -Drimmer, "How AI is Hijacking Art History" The Conversation, 1 Nov 2021. | In class exploration: <br> -Learning about Orange Data Mining | 
-| Thurs, 28 March | Come by for [Nodegoat](https://nodegoat.net/) workshop (A6-009) | Learning about Implementing a Data Model |
+| Tues, 26 March | <br> -Vox, "[Why I am Obsessed With these Cheap Paintings of Paris](https://www.youtube.com/watch?v=rOjTc3F5UB4)" | In class exploration: <br> -Learning about Orange Data Mining | 
+| Thurs, 28 March | <br> -Benjamin, "[The Work of Art in the Age of Mechnical Reproduction"](https://web.mit.edu/allanmc/www/benjamin.pdf) <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" The Conversation, 1 Nov 2021. <br> -"[The Work of Art in the Age of Artificial Intelligence](https://dahj.org/gallery)"| discussion |
 
 
 ### Week 10
 
 | Time/Date | Reading | Activity |
 | Tues, 2 April  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Cluster assignment <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) | 
-| Thurs, 4 April  | Prepare a few ideas about how you would use what you are learning in IM-UH 1511 in the community related to <br> -how it can be used to understand the past <br> -career opportunities you might see <br> -if project-based learning is valuable to you / understood by others | Public History Conversation with Professor Thomas Cauvin, room A6-004| 
+| Thurs, 4 April  |  |  | 
 
 ### Week 11
 
