@@ -121,19 +121,19 @@ Image Collections
 
 | Time/Date | Reading | Activity |
 | Tues, 2 April  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Cluster assignment <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) | 
-| Thurs, 4 April  |  |  | 
+| Thurs, 4 April  | Classification of Image Datasets with Orange | build a dataset of your own with 5 "similar" images in 5 folders |  | 
 
 ### Week 11
 
 | Time/Date | Reading | Activity |
-| Tues, 9 April | Classification of Image Datasets with Orange | build a dataset of your own with 5 "similar" images in 5 folders | 
+| Tues, 9 April | <br> -Arnold/Tilton, "[Distant Viewing: Analyzing Large Visual Corpora](https://academic.oup.com/dsh/article/34/Supplement_1/i3/5694340?login=true)" DSH 2019: 1-19 | discussion of the article & different forms of audio visual DH | 
 
 
 ### Week 12 
 
 | Time/Date | Reading | Activity |
-| Tues, 16 April | <br> -Arnold/Tilton, "[Distant Viewing: Analyzing Large Visual Corpora](https://academic.oup.com/dsh/article/34/Supplement_1/i3/5694340?login=true)" DSH 2019: 1-19 | discussion of the article & different forms of audio visual DH | 
-| Thurs, 18 April | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) <br> -Check out the WIDH2024 course on [Image Analysis](https://wp.nyu.edu/widh/widh-2024/#image)| <br> -Discussion of topics of interest to you <br> -Building an image corpus for Assignment 4 |
+| Tues, 16 April | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) <br> -Check out the WIDH2024 course on [Image Analysis](https://wp.nyu.edu/widh/widh-2024/#image)| <br> -Discussion of topics of interest to you <br> -Building an image corpus for Assignment 4 | attend OpenGulf lecture |
+| Thurs, 18 April |  |  | 
 
 
 ### Week 13
