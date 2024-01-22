@@ -25,7 +25,7 @@ Introduction to Digital Arts and Humanities examines different intersections bet
 | Lab | Tu | 3:35PM-6:15PM | C2 L03 306 | 
 | Class | Th | 3:35PM-4:50PM | C2 L03 306 | 
 | Office hours | W | 3-5PM | A6 L01 1151 |
-| Ramadan in person OH | TBA | TBA | A6 L1 1151 |
+| Ramadan in person OH | TBA | TBA | A6 L01 1151 |
 
 
 To see an archive of previous versions of this course, see <a href="https://daahnyuad.github.io/archive/" target="_blank">here</a>
