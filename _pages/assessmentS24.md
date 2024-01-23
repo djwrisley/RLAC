@@ -6,7 +6,7 @@ author_profile: false
 
 
 
-**ASSESSMENT:**
+***ASSESSMENT:***
 
 | Component | Percentage | Mapping to CLOs | Description  | 
 | Digital narrative | 10% | (CLO 2, 4, 6) |  Students will write a digital literacy narrative at the beginning of term. It should include the strategies they currently employ in their daily and academic lives for content creation, social interaction, data manipulation and analysis. This will make up a page on the student’s own course site. It will be revised both at midterm and at the end of the term and assessed for growth and reflection. No credit is given for the first version, 5% is allotted for the second version, and 5% for the final. | 
@@ -26,7 +26,7 @@ In the S24 semester, I will be using the following cutoffs. It may be necessary 
 
 **MIDTERM PROGRESS REPORT**
 
-There are three kinds of Midterm Progress reports you may receive in this course: "strong", "satisfactory" and "concerns about progress".
+There are three kinds of Midterm Progress reports you may receive in this course: "strong", "satisfactory" and "concerns about progress". Absences are counted after the drop/add deadline.
 
 _Strong progress_ means that you have consistently participated in classroom discussions and activities; you have completed the preparation for the class; you have submitted all assignments on time; and you have not missed more than 2 classes. To receive a strong progress, you should have submitted work that meets the highest standards in the rubric. 
 
