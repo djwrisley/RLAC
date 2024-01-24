@@ -16,7 +16,7 @@ There will be installation of some software and/or signups in online platforms i
 
 **Optional Background reading:**
 
-- Arnold/Tilton, [Distant Viewing: Computational exploration of digital images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) (MIT, 2023).
+- Arnold/Tilton, [Distant Viewing: Computational exploration of digital images](https://doi.org/10.7551/mitpress/14046.001.0001) (MIT, 2023).
 - Bavaj et al, Doing Spatial History (Routledge, 2021).
 - Bardiot, [Performing Arts and Digital Humanities: From Traces to Data](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008793981) (ISTE/Wiley, 2021)
 - Berry/Fagerjord, [Digital Humanities: Knowledge Critique in a Digital Age](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph005029952) (Polity, 2017).
