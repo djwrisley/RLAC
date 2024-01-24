@@ -18,7 +18,7 @@ Digital Arts and Humanities: innovation, creativity & contexts
 
 | Time/Date | Reading/Material | Activity |
 | Tues, 23 Jan (3:35PM-6:15PM) | <br> -Mattingly, "[How to Get Started in Digital Humanities in 2023, and Why](https://medium.com/@wjbmattingly/how-to-get-started-with-the-digital-humanities-in-2023-and-why-baed7b8e1177)" (requires account), Medium, 17 January 2023 <br> -Berry, [What are the Digital Humanities?](https://www.thebritishacademy.ac.uk/blog/what-are-digital-humanities/), British Academy, 13 February 2019 <br> -Rogers, [So You want to make a DH Website](http://www.kelseymarierogers.com/tutorial/2018/02/24/digital-humanities-platforms.html) | Lab on Web Publishing Alternatives: [Github Pages](https://daahnyuad.github.io/blog/creating-a-static-siteS24/), [Google Sites](https://workspace.google.com/products/sites/), [Hypotheses](https://hypotheses.org/), [NYU Web Hosting (WordPress)](https://hosting.nyu.edu/), [Notion](https://www.notion.so/), [Vercel](https://vercel.com/), [NYU WP](https://wp.nyu.edu/), [Humanities Commons](https://hcommons.org/), [HSS Commons](https://hsscommons.ca/en/) |
-| Thurs, 25 Jan	(3:35PM-4:50PM) | -Drucker, [ch 1](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003106531-1/digital-humanities-overview-johanna-drucker?context=ubx&refId=d32fa15e-299e-4b0e-a0b7-496606198488), 1-18. -Schneider, "[Why Digital Humanities](http://www.politicseastasia.com/research/digital-nationalism/digital-humanities/)", Politics East Asia, 4 November 2013.<br> -Sneha, "[Mapping Digital Humanities in India](https://cis-india.org/papers/mapping-digital-humanities-in-india)" CIS Bangalore, 2016, 5-14, 52-57.  | discussion |
+| Thurs, 25 Jan	(3:35PM-4:50PM) | -Drucker, [ch 1](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003106531-1/digital-humanities-overview-johanna-drucker?context=ubx&refId=d32fa15e-299e-4b0e-a0b7-496606198488), 1-18. -Schneider, "[Why Digital Humanities](http://www.politicseastasia.com/research/digital-nationalism/digital-humanities/)", Politics East Asia, 4 November 2013.<br> -Sneha, "[Mapping Digital Humanities in India](https://cis-india.org/papers/mapping-digital-humanities-in-india)" CIS Bangalore, 2016, 5-14, 52-57.  | discussion and practice with Markdown |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -27,7 +27,7 @@ Digital Arts and Humanities: innovation, creativity & contexts
 Making and Project-Based Thinking 
 
 | Time/Date | Reading/Material | Activity |
-| Tues, 30 January 3:35PM-6:15PM |	<br> -Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/1quXS42vdwv0B4xBjzzvHgrkbLS9UVV56/view?usp=sharing),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. <br> -[Humanities Data Fundamentals](https://hdf.benschmidt.org/)| Lab: <br> -Working on our own blogs / pushing material to them using [GitHub Desktop](https://desktop.github.com/) <br> -Introduction to RStudio and [Posit.cloud] (formerly RStudio.cloud) | 
+| Tues, 30 January 3:35PM-6:15PM |	<br> -Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/1quXS42vdwv0B4xBjzzvHgrkbLS9UVV56/view?usp=sharing),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. <br> -| Lab: <br> -Working on our own blogs / pushing material to them using [GitHub Desktop](https://desktop.github.com/) <br> -Introduction to RStudio and [Posit.cloud](Posit.cloud) (formerly RStudio.cloud) | 
 | Thurs, 1 February 	3:35PM-4:50PM |	<br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -[The Making and Knowing Project](https://www.makingandknowing.org/) | discussion | 
 
 **Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F23/)** Due Date 8 Feb, 20% final grade (in phases).
@@ -40,8 +40,8 @@ Making and Project-Based Thinking
 Data and Metadata in the Arts and Humanities 1 
 
 | Time/Date | Reading | Activity |
-| Tues, 6 February  3:35PM-6:15PM | <br> -Broman/Woo ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375989?needAccess=true), The American Statistician, 24 April 2018. <br> -Drucker, [ch 2](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (19-33) & [ch 4](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (52-69) <br> -terms: metadata, API, discoverability, federated database, IIIF | -Lab slides in drive <br> -Notebook: Cultural Heritage By the Numbers (posit.cloud) |
-| Thurs, 8 February 3:35PM-4:50PM | Continuation of the Notebooks <br> -De Bastion/Mukku, [Data and the Global South](https://us.boell.org/en/2020/10/20/data-and-global-south-key-issues-inclusive-digital-development), 2020. <br> -[Singapore Memories Project](https://www.singaporememories.gov.sg/) / [Trove](https://trove.nla.gov.au/) / [Europeana](https://www.europeana.eu/en) / [Google Arts & Culture](https://artsandculture.google.com/) | discussion  of Geopolitics of Cultural Heritage |
+| Tues, 6 February  3:35PM-6:15PM | <br> -Broman/Woo ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375989?needAccess=true), The American Statistician, 24 April 2018. <br> -Drucker, [ch 2](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (19-33) & [ch 4](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (52-69) <br> -[Local Origins](https://doi.org/10.7551/mitpress/11543.003.0005) (Loukissas) | -Lab slides in drive <br> -Notebook: Cultural Heritage By the Numbers (posit.cloud) |
+| Thurs, 8 February 3:35PM-4:50PM | Continuation of the Notebooks <br> -De Bastion/Mukku, [Data and the Global South](https://us.boell.org/en/2020/10/20/data-and-global-south-key-issues-inclusive-digital-development), 2020. <br> -[Singapore Memories Project](https://www.singaporememories.gov.sg/) / [Trove](https://trove.nla.gov.au/) / [Europeana](https://www.europeana.eu/en) / [Google Arts & Culture](https://artsandculture.google.com/) | discussion of Geopolitics of Cultural Heritage (Grincheva/Stainforth, in drive) |
 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
@@ -84,8 +84,9 @@ Text as Data
 Spatial Horizons
 
 | Time/Date | Reading | Activity |
-| Tues, 27 Feb  3:35PM-6:15PM |	<br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 | Exploring Spatial Projects  <br> -[Kepler](https://kepler.gl) <br> -"Mapping" (Wilson, in drive)|
-| Thurs, 29 Feb 	3:35PM-4:50PM | <br> -Brunn / Lodge Mapping Across Academia (in drive, pick one chapter and find a few key points) | [Signup](https://docs.google.com/spreadsheets/d/1XveMjt4cwccRpXpJz9F9kchPTejx_zbq4yGaVMoKZJQ/edit#gid=0) for discussion of a spatial project |
+| Tues, 27 Feb  3:35PM-6:15PM |	<br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 | Exploring Spatial Projects  <br> -[Kepler](https://kepler.gl) <br> -"[A Place for Plant Data](
+https://doi.org/10.7551/mitpress/11543.001.0001)" (Loukissas) <br> -"Mapping" (Wilson, in drive)|
+| Thurs, 29 Feb 	3:35PM-4:50PM | <br> -Brunn / Lodge Mapping Across Academia (in drive, pick one chapter and find a few key points) | [Signup]() for discussion of a spatial project |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
