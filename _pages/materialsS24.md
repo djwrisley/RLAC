@@ -6,7 +6,9 @@ author_profile: false
 
 
 
-There are two required books in this course. First, an [e-book](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008285939). Second, a traditional book for this course, the course site will have links to e-book excerpts or other open, online materials and tutorials of interest. There will be a few copies of the required book for purchase at the bookstore if you prefer. There will be installation of some software and/or signups in online platforms in order to complete the exercises for the hands-on labs. Students will be provided with tutorials for such installation. 
+There is required books in this course. It is an [e-book](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008285939). In addition to this ebook, the course site will have links to e-book excerpts or other open, online materials and tutorials of interest. 
+
+There will be installation of some software and/or signups in online platforms in order to complete the exercises for the hands-on labs. Students will be provided with tutorials for such installation. 
 
 **Required e-book:**
 
@@ -14,6 +16,7 @@ There are two required books in this course. First, an [e-book](https://bobcat.l
 
 **Optional Background reading:**
 
+- Arnold/Tilton, [Distant Viewing: Computational exploration of digital images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) (MIT, 2023).
 - Bavaj et al, Doing Spatial History (Routledge, 2021).
 - Bardiot, [Performing Arts and Digital Humanities: From Traces to Data](https://bobcat.library.nyu.edu/permalink/f/ho3qdd/nyu_aleph008793981) (ISTE/Wiley, 2021)
 - Berry/Fagerjord, [Digital Humanities: Knowledge Critique in a Digital Age](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph005029952) (Polity, 2017).
