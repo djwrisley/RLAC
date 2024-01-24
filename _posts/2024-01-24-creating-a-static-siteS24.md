@@ -84,6 +84,9 @@ From GitHub Desktop you can set the text editor you want to work in.
 
 > Remember that every time you push to the web, the compiler works to make your page's updates.  Be patient and look for the green arrow which indicates that your site has been rebuilt with the changes you made. 
 
+You can play around with making subtle changes to your site, but be careful not to change too much of the basic architecture of the templates. 
+
+A Markdown cheatsheet can be found [here](https://www.markdownguide.org/cheat-sheet/).
 
 Enjoy!
 
