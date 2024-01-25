@@ -84,8 +84,7 @@ Text as Data
 Spatial Horizons
 
 | Time/Date | Reading | Activity |
-| Tues, 27 Feb  3:35PM-6:15PM |	<br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 | Exploring Spatial Projects  <br> -[Kepler](https://kepler.gl) <br> -"[A Place for Plant Data](
-https://doi.org/10.7551/mitpress/11543.001.0001)" (Loukissas) <br> -"Mapping" (Wilson, in drive)|
+| Tues, 27 Feb  3:35PM-6:15PM |	<br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 | Exploring Spatial Projects  <br> -[Kepler](https://kepler.gl) <br> -"[A Place for Plant Data](https://doi.org/10.7551/mitpress/11543.001.0001)" (Loukissas) <br> -"Mapping" (Wilson, in drive)|
 | Thurs, 29 Feb 	3:35PM-4:50PM | <br> -Brunn / Lodge Mapping Across Academia (in drive, pick one chapter and find a few key points) | [Signup]() for discussion of a spatial project |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
