@@ -143,7 +143,9 @@ Image Collections
 
 WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
-23 and 25 April 
+23 April  (and 5-7pm, attending a real-live social scholarship event, the NYU Abu Dhabi HTR working group, dinner included!)
+
+25 April 
 
 ### Week 14
 
