@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1 DLME Metadata"
+title: "Assignment 1 DLME Metadata S23"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

@@ -1,5 +1,5 @@
 ---
-title: "Assignment 2 Working with a Corpus"
+title: "Assignment 2 Working with a Corpus S23"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

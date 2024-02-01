@@ -1,5 +1,5 @@
 ---
-title: "Lab 2 F23: Creating a Static Site in GitHub Pages"
+title: "Creating a Static Site in GitHub Pages F23"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

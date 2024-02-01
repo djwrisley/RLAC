@@ -1,5 +1,5 @@
 ---
-title: "Digital Literacy Narrative"
+title: "Digital Literacy Narrative S23"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

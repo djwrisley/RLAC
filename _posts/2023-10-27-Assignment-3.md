@@ -1,5 +1,5 @@
 ---
-title: "Assignment 3 Spatial Data"
+title: "Assignment 3 Spatial Data F23"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
