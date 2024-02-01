@@ -16,14 +16,16 @@ tags:
 
 The Digital Literacy Narrative is a progressive assignment in *three* steps, which will be completed over the course of the semester, as well as being graded twice. This first stage is for setting up the assignment and is ungraded.
 
-**Step 1**: copy the response provided by `chatGPT` given below and to place it in your highest level folder as a file named `dln.md`. You can use the `yaml` header in our schedule for the top of the page. Save and commit and make sure you can see this on your page. You will have to add a new tab to the element of the code which controls navigation on the site.
+**Step 1**: copy the response provided by `chatGPT` given below and to place it in your `pages` folder as a file named `dln.md`. You can use the `yaml` header in our schedule for the top of the page. Save and commit and make sure you can see this on your page. You will have to add a new tab to the element of the code which controls navigation on the site.
 
 (3 dashes)
 title: "Schedule S24"
 permalink: /schedule/
 author_profile: false
 (3 dashes)
- 
+
+Starting with this response as a page, you will complete the following 3 steps over the course of the semester. 
+
 
 **Step 1 Due date:** 8 February 2024, ungraded.
 {: .notice}
@@ -31,15 +33,15 @@ author_profile: false
 > Hints for Step 1: 
 
 - Rewrite a handful of details in the file to reflect the kind of digital literacies you feel that you have and that you want to work on this semester. 
+- Adjust the perspective to be your own. 
 - Stay at approximately 750 words.
 - Use a markdown cheatsheet such as this [one](https://www.markdownguide.org/cheat-sheet) to stylize your post, adding different layout features and embedded links if needed. 
-- You do not need to refer to the readings. 
+- You do not need to refer to the readings at this point. 
 - Feel free to use multiple commits and commit messages explaining the kinds of changes you made. 
 - Practice your Github Pages skills by including a screenshot of a side-by-side change in GitHub to illustrate the changes you have made. - Make sure you caption the image.
+- it is possible, but not requried, to reshape the prompt to reflect your specific perspective and to generate a different starting point. In this case, indicate that you have done this, include what GPT provided and then revise.
 
-- consider reshaping the prompt to reflect your specific perspective. In this case, include what GPT provided and then revise.
-
-**Step 2**: Just before midterm, you will rewrite this post to reflect your current state of thinking on the question. You should increase the word limit to about 1000 words. A rubric for how you can revise it will be provided. Make reference to an additional two resources from the course. 
+**Step 2**: Just before midterm, you will rewrite this post to reflect your current state of thinking on the question. You should increase the word limit to about 1000-1250 words. A rubric for how you can revise it will be provided. Make reference to an additional two resources from the course. 
 
 **Step 2 Due date:** 5 March 2024, 5% total grade.
 {: .notice}
@@ -52,7 +54,7 @@ author_profile: false
 - Make reference to two of the readings/resources in class which we have had which discuss the points you bring up, linking outward to them on the web or in the library catalog using their permalinks. 
 
 
-**Step 3**: At the end of the term, you will rewrite the post to reflect your end-of-term state of thinking about digital literacies. You should increase the word limit to 1500 words. You can go beyond that, but remember few people want to read more than [1500-2000 words](https://rockcontent.com/blog/how-long-should-a-blog-post-be/). Make reference to an additional two resources from the course (4 total). 
+**Step 3**: At the end of the term, you will rewrite the post to reflect your end-of-term state of thinking about digital literacies. You should increase the word limit to 1500-1750 words. You can go beyond that, but remember few people want to read more than [1500-2000 words](https://rockcontent.com/blog/how-long-should-a-blog-post-be/). Make reference to an additional two resources from the course (4 total). 
 
 **Step 3 Due date:** 25 April 2024, 5% total grade.
 {: .notice}

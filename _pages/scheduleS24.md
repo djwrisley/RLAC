@@ -30,7 +30,7 @@ Making and Project-Based Thinking
 | Tues, 30 January 3:35PM-6:15PM |	<br> -Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/10JKeKr9x79qBj8Bd6ND9wbOlOCFRSqNb/view?usp=drive_link),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59. <br> -| Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files) <br> -Working on our own blogs / pushing material to them using [GitHub Desktop](https://desktop.github.com/) | 
 | Thurs, 1 February 	3:35PM-4:50PM |	<br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -[The Making and Knowing Project](https://www.makingandknowing.org/) <br> -[On Phronesis](https://en.wikipedia.org/wiki/Phronesis) | <br> -discussion <br> -Introduction to RStudio and [Posit.cloud](Posit.cloud) (formerly RStudio.cloud) <br> -set up of digital literacy narrative with GPT | 
 
-**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F23/)** Due Date 8 Feb, 20% final grade (in phases).
+**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-assignment-S24/)** Due Date 8 Feb, 20% final grade (in phases).
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
