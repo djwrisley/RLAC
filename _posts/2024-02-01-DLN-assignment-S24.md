@@ -36,7 +36,7 @@ Starting with this response as a page, you will complete the following 3 steps o
 - Adjust the perspective to be your own. 
 - Stay at approximately 750 words.
 - Use a markdown cheatsheet such as this [one](https://www.markdownguide.org/cheat-sheet) to stylize your post, adding different layout features and embedded links if needed. 
-- You do not need to refer to the readings at this point. 
+- You do not need to refer to the readings at this point, but you might be interested in the recent article "[The Role of Culture in the Intelligence of AI](https://www.transcript-publishing.com/978-3-8376-6710-3/ai-in-museums/?number=978-3-8394-6710-7)". 
 - Feel free to use multiple commits and commit messages explaining the kinds of changes you made. 
 - Practice your Github Pages skills by including a screenshot of a side-by-side change in GitHub to illustrate the changes you have made. - Make sure you caption the image.
 - it is possible, but not requried, to reshape the prompt to reflect your specific perspective and to generate a different starting point. In this case, indicate that you have done this, include what GPT provided and then revise.

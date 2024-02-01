@@ -72,7 +72,7 @@ Text as Data
 | Tues, 20 February	3:35PM-6:15PM (guest) | Generative Text and Sufi aesthetic principles  <br> -"[The Art of the Sufis](https://www.metmuseum.org/toah/hd/sufi/hd_sufi.htm)" (Met Museum) <br> -"[Philosophy of Sufi Impact on the Features of Design](https://mjaf.journals.ekb.eg/jufile?ar_sfile=188307&lang=en)" (Anees/Mustafa) | virtual exercise with share out to Google space | 
 | Thurs, 22 February 3:35PM-6:15PM | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. | <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction|
 
-**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/Assignment2/)** Due 4 March, 20% final grade. 
+**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/Assignment2/)** Due 8 March, 20% final grade. 
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
@@ -89,6 +89,9 @@ Spatial Horizons
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 5 March 2024, 5% final grade.
+{: .notice}
+
 ### Week 7
 
 Map Visualization
@@ -101,50 +104,54 @@ Map Visualization
 
 ***No class 8-20 March. Have a great break!*** 
 
-
 ### Week 8 
 
-Image Collections 
-
 | Time/Date | Reading | Activity |
-| Thurs, 21 March 3:35PM-4:50PM | <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography) | discussion | 
+| Thurs, 21 March 3:35PM-4:50PM | more spatial and midterm course recap | discussion | 
 
-**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-F23/)**, Due Date XXX, 10% final grade.
-{: .notice}
+
+## UNIT 4: IMAGE
+
+Image Collections
 
 ### Week 9
 
 | Time/Date | Reading | Activity |
-| Tues, 26 March | <br> -Vox, "[Why I am Obsessed With these Cheap Paintings of Paris](https://www.youtube.com/watch?v=rOjTc3F5UB4)" | In class exploration: <br> -Learning about Orange Data Mining | 
-| Thurs, 28 March | <br> -Benjamin, "[The Work of Art in the Age of Mechnical Reproduction"](https://web.mit.edu/allanmc/www/benjamin.pdf) <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" The Conversation, 1 Nov 2021. <br> -"[The Work of Art in the Age of Artificial Intelligence](https://dahj.org/gallery)"| discussion |
+| Tues, 26 March | <br> -Vox, "[Why I am Obsessed With these Cheap Paintings of Paris](https://www.youtube.com/watch?v=rOjTc3F5UB4)" | In class exploration: <br> -Learning about Orange Data Mining <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography)| 
+| Thurs, 28 March | <br> -Benjamin, "[The Work of Art in the Age of Mechnical Reproduction"](https://web.mit.edu/allanmc/www/benjamin.pdf) <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" The Conversation, 1 Nov 2021. <br> -"[The Work of Art in the Age of Artificial Intelligence](https://dahj.org/gallery)" -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | discussion |
 
 
 ### Week 10
 
 | Time/Date | Reading | Activity |
 | Tues, 2 April  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Cluster assignment <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) | 
-| Thurs, 4 April  | Classification of Image Datasets with Orange | build a dataset of your own with 5 "similar" images in 5 folders |  | 
+| Thurs, 4 April  | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) <br> -Check out the WIDH2024 course on [Image Analysis](https://wp.nyu.edu/widh/widh-2024/#image) | <br> -discussion of the article & different forms of audio visual DH <br> -Classification of Image Datasets with Orange <br> -build a dataset of your own with 5 "similar" images in 5 folders | 
 
 ### Week 11
 
 | Time/Date | Reading | Activity |
-| Tues, 9 April | <br> -Arnold/Tilton, "[Distant Viewing: Analyzing Large Visual Corpora](https://academic.oup.com/dsh/article/34/Supplement_1/i3/5694340?login=true)" DSH 2019: 1-19 | discussion of the article & different forms of audio visual DH | 
+| Tues, 9 April | Open, Social Scholarship | Discussion of Teams and Collaborative work | 
 
+EID!
 
 ### Week 12 
 
 | Time/Date | Reading | Activity |
-| Tues, 16 April | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) <br> -Check out the WIDH2024 course on [Image Analysis](https://wp.nyu.edu/widh/widh-2024/#image)| <br> -Discussion of topics of interest to you <br> -Building an image corpus for Assignment 4 | attend OpenGulf lecture |
-| Thurs, 18 April |  |  | 
+| Tues, 16 April | Another kind of computer vision with AI: HTR! and 5-7pm | <br> -Building an image corpus for Assignment 4 <br> -attending a real-live open, social scholarship event, the NYU Abu Dhabi HTR working group, dinner included! |
+| Thurs, 18 April | Presentation of the Unproject | Storyboarding | 
 
 
 ### Week 13
 
 WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
-23 April  (and 5-7pm, attending a real-live social scholarship event, the NYU Abu Dhabi HTR working group, dinner included!)
+23 April 
 
 25 April 
+
+**Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 25 April 2024, 5% final grade.
+{: .notice}
+
 
 ### Week 14
 
