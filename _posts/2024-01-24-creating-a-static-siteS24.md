@@ -1,5 +1,5 @@
 ---
-title: "Lab S24: Creating a Static Site in GitHub Pages"
+title: "Creating a Static Site in GitHub Pages S24"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

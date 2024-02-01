@@ -8,7 +8,6 @@ tags:
   - Digital Literacy
   - chatGPT
   - S23
-  - Notice
 ---
 
 ## Guidelines for the Assignment: 

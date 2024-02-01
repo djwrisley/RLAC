@@ -6,7 +6,6 @@ categories:
 tags:
   - Assignments
   - F23
-  - Notice
 ---
 
 # Final portfolio Instructions

@@ -7,6 +7,7 @@ tags:
   - Assignments
   - metadata
   - chatGPT
+  - Digital Library of the Middle East
   - S23
   - Notice
 ---

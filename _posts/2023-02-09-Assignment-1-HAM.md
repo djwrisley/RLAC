@@ -9,7 +9,6 @@ tags:
   - Harvard Art Museum
   - chatGPT
   - F23
-  - Notice
 ---
 
 ## Guidelines for the Assignment: 
