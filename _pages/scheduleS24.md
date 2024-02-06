@@ -49,6 +49,9 @@ Data and Metadata in the Arts and Humanities 1
 **ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/Assignment-1-HAM/)** Due Date 19 Feb, 20% final grade.
 {: .notice}
 
+**EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://nyu.libcal.com/calendar/classes?cid=1564&t=d&d=0000-00-00&cal=1564&ct=4295,47942&inc=0)** Due Date 19 Feb, 1-2 points on Assignment 1, to be written as a post.
+{: .notice}
+
 ## UNIT 2: TEXTUAL
 
 ### Week 4
