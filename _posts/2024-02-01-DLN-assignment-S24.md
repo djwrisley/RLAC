@@ -41,6 +41,9 @@ Starting with this response as a page, you will complete the following 3 steps o
 - Practice your Github Pages skills by including a screenshot of a side-by-side change in GitHub to illustrate the changes you have made. - Make sure you caption the image.
 - it is possible, but not requried, to reshape the prompt to reflect your specific perspective and to generate a different starting point. In this case, indicate that you have done this, include what GPT provided and then revise.
 
+**Note on declaring your use of GPT:** You should use the guidelines set forth by Arxiv about using GPT. link forthcoming.
+{: .notice}
+
 **Step 2**: Just before midterm, you will rewrite this post to reflect your current state of thinking on the question. You should increase the word limit to about 1000-1250 words. A rubric for how you can revise it will be provided. Make reference to an additional two resources from the course. 
 
 **Step 2 Due date:** 5 March 2024, 5% total grade.
