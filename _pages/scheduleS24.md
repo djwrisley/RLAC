@@ -46,7 +46,7 @@ Data and Metadata in the Arts and Humanities 1
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
-**ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/Assignment-1-HAM/)** Due Date 19 Feb, 20% final grade.
+**ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/cultural-heritage-numbers-S24/)** Due Date 22 Feb, 20% final grade.
 {: .notice}
 
 **EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://nyu.libcal.com/calendar/classes?cid=1564&t=d&d=0000-00-00&cal=1564&ct=4295,47942&inc=0)** Due Date 19 Feb, 1-2 points on Assignment 1, to be written as a post.
@@ -110,7 +110,7 @@ Map Visualization
 ### Week 8 
 
 | Time/Date | Reading | Activity |
-| Thurs, 21 March 3:35PM-4:50PM | more spatial and midterm course recap | discussion | 
+| Thurs, 21 March 3:35PM-4:50PM | more spatial content and midterm course recap | discussion | 
 
 
 ## UNIT 4: IMAGE
@@ -140,7 +140,7 @@ EID!
 ### Week 12 
 
 | Time/Date | Reading | Activity |
-| Tues, 16 April | Another kind of computer vision with AI: HTR! and 5-7pm | <br> -Building an image corpus for Assignment 4 <br> -attending a real-live open, social scholarship event, the NYU Abu Dhabi HTR working group, dinner included! |
+| Tues, 16 April | Another kind of computer vision: HTR! and 5-7pm | <br> -Building an image corpus for Assignment 4 <br> -attending a real-live open, social scholarship event, the NYU Abu Dhabi HTR working group, dinner included! |
 | Thurs, 18 April | Presentation of the Unproject | Storyboarding | 
 
 
