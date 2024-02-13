@@ -49,7 +49,7 @@ Data and Metadata in the Arts and Humanities 1
 **ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/cultural-heritage-numbers-S24/)** Due Date 22 Feb, 20% final grade.
 {: .notice}
 
-**EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://nyu.libcal.com/calendar/classes?cid=1564&t=d&d=0000-00-00&cal=1564&ct=4295,47942&inc=0)** Due Date 19 Feb, 1-2 points on Assignment 1, to be written as a post.
+**EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://nyu.libcal.com/calendar/classes?cid=1564&t=d&d=0000-00-00&cal=1564&ct=4295,47942&inc=0)** Due Date 19 Feb, 1-2 points on Assignment 1, to be written as a post. Guidelines on writing extra credit posts can be found [here]().
 {: .notice}
 
 ## UNIT 2: TEXTUAL
