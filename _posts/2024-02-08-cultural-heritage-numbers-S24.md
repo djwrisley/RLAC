@@ -14,7 +14,7 @@ tags:
 ## Guidelines for the Assignment: 
 
 
-The Cultural Heritage By the Numbers is an assignment in one step. It builds upon the work we did in class on February 6 and 8 using the Jupyter notebooks in posit.cloud. There are three parts to the assignment.
+Cultural Heritage By the Numbers is an assignment in one step. It builds upon the work we did in class on February 6 and 8 using the Jupyter notebooks in posit.cloud. There are three parts to the assignment.
 
 This assignment can be done alone or in pairs. If it is done in pairs, please compose a common markdown file which you place in both student sites. 
 
