@@ -73,9 +73,9 @@ Text as Data
 
 | Time/Date | Reading | Activity |
 | Tues, 20 February	3:35PM-6:15PM (guest) | Generative Text and Sufi aesthetic principles  <br> -"[The Art of the Sufis](https://www.metmuseum.org/toah/hd/sufi/hd_sufi.htm)" (Met Museum) <br> -"[Philosophy of Sufi Impact on the Features of Design](https://mjaf.journals.ekb.eg/jufile?ar_sfile=188307&lang=en)" (Anees/Mustafa) | virtual exercise with share out to Google space | 
-| Thurs, 22 February 3:35PM-6:15PM | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. | <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -Identifying Most Distinctive Words in Three (Sets of) Texts: Working with Two Genres: Children's Literature and Science Fiction|
+| Thurs, 22 February 3:35PM-6:15PM | <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109. | <br> -Notebook: -AntConc (download in advance of session)<br> -Deconstructing the Word Cloud <br> -[Voyant Tools](https://voyant-tools.org/) and [documentation](https://voyant-tools.org/docs/#!/guide/)|
 
-**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/Assignment2/)** Due 8 March, 20% final grade. 
+**ASSIGNMENT 2: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/Assignment2/)** Due 21 March, 20% final grade. 
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
