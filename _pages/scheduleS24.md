@@ -107,6 +107,9 @@ Map Visualization
 
 ***No class 8-20 March. Have a great break!*** 
 
+If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break.  
+
+
 ### Week 8 
 
 | Time/Date | Reading | Activity |
