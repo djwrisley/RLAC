@@ -18,11 +18,11 @@ The Digital Literacy Narrative is a progressive assignment in *three* steps, whi
 
 **Step 1**: copy the response provided by `chatGPT` given below and to place it in your `pages` folder as a file named `dln.md`. You can use the `yaml` header in our schedule for the top of the page. Save and commit and make sure you can see this on your page. You will have to add a new tab to the element of the code which controls navigation on the site.
 
-(3 dashes)
+```
 title: "Schedule S24"
 permalink: /schedule/
 author_profile: false
-(3 dashes)
+```
 
 Starting with this response as a page, you will complete the following 3 steps over the course of the semester. 
 
