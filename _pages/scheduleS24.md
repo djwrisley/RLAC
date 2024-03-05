@@ -87,12 +87,12 @@ Text as Data
 Spatial Horizons
 
 | Time/Date | Reading | Activity |
-| Tues, 27 Feb  3:35PM-6:15PM |	<br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 | Exploring Spatial Projects  <br> -[Kepler](https://kepler.gl) <br> -"[A Place for Plant Data](https://doi.org/10.7551/mitpress/11543.001.0001)" (Loukissas) <br> -"Mapping" (Wilson, in drive)|
-| Thurs, 29 Feb 	3:35PM-4:50PM | <br> -Brunn / Lodge Mapping Across Academia (in drive, pick one chapter and find a few key points) | [Signup]() for discussion of a spatial project |
+| Tues, 27 Feb  3:35PM-6:15PM |	<br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 | Exploring Spatial Projects  <br> -"[A Place for Plant Data](https://doi.org/10.7551/mitpress/11543.001.0001)" (Loukissas) <br> -"Mapping" (Wilson, in drive)|
+| Thurs, 29 Feb 	3:35PM-4:50PM | <br> -Brunn / Lodge Mapping Across Academia (in drive, pick one chapter and find a few key points) | <br> -Mapping UFO dataset from Kaggle  <br> -[Kepler](https://kepler.gl) |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 5 March 2024, 5% final grade.
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-assignment-S24/)**, Due Date 6 March 2024, 5% final grade.
 {: .notice}
 
 ### Week 7
