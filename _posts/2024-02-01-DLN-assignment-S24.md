@@ -48,7 +48,7 @@ Starting with this response as a page, you will complete the following 3 steps o
 
 **Step 2**: Just before midterm, you will rewrite this post to reflect your current state of thinking on the question. You should increase the word limit to about 1000-1250 words. A rubric for how you can revise it will be provided. Make reference to an additional two resources from the course. 
 
-**Step 2 Due date:** 5 March 2024, 5% total grade.
+**Step 2 Due date:** 6 March 2024, 5% total grade.
 {: .notice}
 
 > Hints for Step 2: 
