@@ -101,7 +101,7 @@ Map Visualization
 
 | Time/Date | Reading | Activity |
 | Tues, 5 March	3:35PM-6:15PM | <br> -[Exploring Spatial Projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit) <br> -[automatic geocoding](https://workspace.google.com/marketplace/app/geocode_by_awesome_table/904124517349) and chatGPT |  |
-| Thurs, 7 March 3:35PM-4:50PM (virtual class)| -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -Exploring Humanitarian OSM | <br> -How can maps address questions of social justice? <br> -What is your favorite HOSM project and why? - a Google space contribution | 
+| Thurs, 7 March 3:35PM-4:50PM (virtual class)| -Krupar, "[Map Power and Map Methodologies for Social Justice](https://www.jstor.org/stable/43773699)", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -[Exploring Humanitarian OSM](https://tasks.hotosm.org/explore) | A Google space contribution. Drop your favorite point from Krupar's article about how maps can address questions of social justice (in about 100 words) | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
