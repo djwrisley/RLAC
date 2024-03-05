@@ -100,8 +100,8 @@ Spatial Horizons
 Map Visualization
 
 | Time/Date | Reading | Activity |
-| Tues, 5 March	3:35PM-6:15PM | | Lab: Work on Assignment 2 submitting your preliminary visuals to Google Space |
-| Thurs, 7 March 3:35PM-4:50PM (virtual class)| -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -Exploring Humanitarian OSM | <br> - What is your favorite HOSM project and why? - a Google space contribution | 
+| Tues, 5 March	3:35PM-6:15PM | <br> -[Exploring Spatial Projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit) <br> -[automatic geocoding](https://workspace.google.com/marketplace/app/geocode_by_awesome_table/904124517349) and chatGPT |  |
+| Thurs, 7 March 3:35PM-4:50PM (virtual class)| -Krupar, "Map Power and Map Methodologies for Social Justice", Georgetown Agenda Journal of International Affairs 16.2(2015): 91-101.	<br> -Exploring Humanitarian OSM | <br> -How can maps address questions of social justice? <br> -What is your favorite HOSM project and why? - a Google space contribution | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -112,6 +112,9 @@ Map Visualization
 | Time/Date | Reading | Activity |
 | Thurs, 21 March 3:35PM-4:50PM | more spatial content and midterm course recap | discussion | 
 
+
+**ASSIGNMENT 3: Using chatGPT to "wrangle" data and build a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/Assignment-3//)** Due 3 April, 20% final grade. 
+{: .notice}
 
 ## UNIT 4: IMAGE
 
