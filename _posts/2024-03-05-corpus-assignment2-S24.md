@@ -11,7 +11,7 @@ tags:
 
 ## Guidelines for the Assignment:  
 
-The Corpus Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and R Markdown file in Posit Cloud. This assignment can be done alone or in pairs.
+The Corpus Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and possibly R Markdown file in Posit Cloud. This assignment can be done alone or in pairs.
 
 This exercise has three main elements: (1) choosing a corpus of three texts (or three sets of texts) you would like to work with and (2) using some digital textual analysis tools to see what kind of exploratory data analysis (EDA) you can do using that corpus, (3) assembling the evidence in a piece of web-facing written work along with visuals. 
 
@@ -22,9 +22,9 @@ This exercise has three main elements: (1) choosing a corpus of three texts (or 
 - C. Three sets of articles from different publications or newspapers (perhaps of different political orientation or topic). 
 - D. Three different sets of articles from a single class or multiple classes in your major. 
 
-Alternatively, you can source your text files from anywhere else, but if you make a custom corpus, please consult with the instructor before beginning. The texts can be short stories or articles, but not less than 2000 words. If you choose your own files, include them in your assets folder and create links to them for your readers to examine. 
+Alternatively, you can source your text files from anywhere else, but if you make a custom corpus, please consult with the instructor before beginning. The texts can be short stories or articles, but not less than 1000-2000 words. If you choose your own files, include them in your assets folder and create links to them for your readers to examine. 
 
-For this exercise you should use both (1) Voyant Tools for all of your texts and (2) the R Markdown notebook in posit.cloud `Summarizing a text from Project Gutenberg in a wordcloud` for at least one of your texts. If you want to combine all three texts from Project Gutenberg into one, you can do so by creating a list of ID numbers like this: 
+For this exercise you can use both (1) Voyant Tools for all of your texts and (2) the R Markdown notebook in posit.cloud `Summarizing a text from Project Gutenberg in a wordcloud` for at least one of your texts. If you want to combine all three texts from Project Gutenberg into one, you can do so by creating a list of ID numbers like this: 
 
 > gutenbergbook <- gutenberg_download(c(textID1, textID2, textID3, etc), mirror = "http://mirrors.xmission.com/gutenberg/")
 
@@ -34,11 +34,15 @@ _If you are not working with texts from Project Gutenberg, then you will need to
 
 > You want to choose texts which have something in common, but also can be thought about as different. The more you know about the texts, the more meaningful the "distant reading" will be. 
 
-**Step 3**: To do your analysis, use the R notebook for making a wordcloud and combine this analysis with the tool(s) of your choice from Voyant Tools or Antconc (if you would like to go back and learn more about this that I demo'd in class, there are many Youtube videos that can help you). Remember that each method works with its own constraints. You are free to use whatever combination of forms of analysis you like. 
+**Step 3**: To do your analysis, use Voyant Tools. Remember that each method works with its own constraints. You are free to use whatever combination of forms of analysis you like. 
 
-**Step 4**: Build a set of screenshots from your exploratory analysis. Please be sure to include at least three (3). 
+**Step 4**: Build a set of screenshots from your exploratory analysis. Please be sure to include at least two (2). 
 
-**Step 5**: Use one iframe from Voyant Tools so that you have one interactive visualization.
+**Step 5**: Use one iframe from Voyant Tools so that you have one interactive visualization. You can get an iframe from the export URL tab. It is called an html snippet. One example looks like this: 
+
+```
+<iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=8d8c7ce89087801d676ff4f77d5391fc'></iframe>
+```
 
 **Step 6**: Find two (2) of the readings/resources from this term and include references to them in your essay. Feel free to refer to external resources.
 
