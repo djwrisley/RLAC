@@ -11,7 +11,7 @@ tags:
 
 ## Guidelines for the Assignment:  
 
-The Corpus Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and R Markdown files in Posit Cloud. This assignment can be done alone or in pairs.
+The Corpus Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and R Markdown file in Posit Cloud. This assignment can be done alone or in pairs.
 
 This exercise has three main elements: (1) choosing a corpus of three texts (or three sets of texts) you would like to work with and (2) using some digital textual analysis tools to see what kind of exploratory data analysis (EDA) you can do using that corpus, (3) assembling the evidence in a piece of web-facing written work along with visuals. 
 
@@ -24,9 +24,11 @@ This exercise has three main elements: (1) choosing a corpus of three texts (or 
 
 Alternatively, you can source your text files from anywhere else, but if you make a custom corpus, please consult with the instructor before beginning. The texts can be short stories or articles, but not less than 2000 words. If you choose your own files, include them in your assets folder and create links to them for your readers to examine. 
 
-For this exercise you should use both (1) Voyant Tools for all of your texts and (2) the R Markdown notebook in posit.cloud for at least one of your texts. If you want to combine all three texts from Project Gutenberg into one, you can do so by creating a list of ID numbers like this: 
+For this exercise you should use both (1) Voyant Tools for all of your texts and (2) the R Markdown notebook in posit.cloud `Summarizing a text from Project Gutenberg in a wordcloud` for at least one of your texts. If you want to combine all three texts from Project Gutenberg into one, you can do so by creating a list of ID numbers like this: 
 
 > gutenbergbook <- gutenberg_download(c(textID1, textID2, textID3, etc), mirror = "http://mirrors.xmission.com/gutenberg/")
+
+_If you are not working with texts from Project Gutenberg, then you will need to follow the instructions in the notebook for uploading your files._ 
 
 **Step 2**: You should do some general research about the authors, the text, the contents. You will want to justify briefly the selection of texts in your assignment. You might even browse them briefly to know generally what they are about. This is important so that you are not studying the corpus without a general idea of its contents. 
 
@@ -51,6 +53,7 @@ Guiding Questions (you do not need to answer all these questions):
 - Was the format in which the corpus reached you sufficient for your purposes? What are some of the shortcomings of the texts? 
 - What is a trend you can identify in the materials? What are you able to learn by looking at the text the way you did? 
 - Were there any surprises in your exploration? 
+- Are there any differences in the ways the different wordclouds visualize the words?
 - How well would this assignment work for a language other than English?
 
 
