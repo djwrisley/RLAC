@@ -127,7 +127,7 @@ Image Collections
 
 | Time/Date | Reading | Activity |
 | Tues, 26 March | <br> -Vox, "[Why I am Obsessed With these Cheap Paintings of Paris](https://www.youtube.com/watch?v=rOjTc3F5UB4)" <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography)| 
-| Thurs, 28 March | <br> -Benjamin, "[The Work of Art in the Age of Mechnical Reproduction"](https://web.mit.edu/allanmc/www/benjamin.pdf)  The Conversation, 1 Nov 2021. <br> -"[The Work of Art in the Age of Artificial Intelligence](https://dahj.org/gallery)" -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | discussion |
+| Thurs, 28 March | <br> -Benjamin, "[The Work of Art in the Age of Mechnical Reproduction"](https://web.mit.edu/allanmc/www/benjamin.pdf)  The Conversation, 1 Nov 2021. <br> -"[The Work of Art in the Age of Artificial Intelligence](https://dahj.org/gallery)" -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | <br> -Your Instagram Palette <br> -[MultiColorEngine for 20 million images](https://labs.tineye.com/multicolr) <br> -[ColorPicker](https://redketchup.io/color-picker) |
 
 
 ### Week 10
