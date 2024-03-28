@@ -133,7 +133,7 @@ Image Collections
 ### Week 10
 
 | Time/Date | Reading | Activity |
-| Tues, 2 April  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images) <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) <br> -Learning about Orange Data Mining | 
+| Tues, 2 April  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) <br> -Learning about Orange Data Mining <br> -[Clustering Monet and Manet](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) (Orange) <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images)| 
 | Thurs, 4 April  | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | <br> -discussion of the article & different forms of audio visual DH <br> -Classification of Image Datasets with Orange (using faces dataset) <br> -towards build a dataset of your own with 5 "similar" images in 5 folders | 
 
 ### Week 11
