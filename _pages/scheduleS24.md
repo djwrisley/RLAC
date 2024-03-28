@@ -116,7 +116,7 @@ If you can find it, watch the German Netflix mini series, [The Billion Dollar Co
 | Thurs, 21 March 3:35PM-4:50PM | more spatial content and midterm course recap | discussion | 
 
 
-**ASSIGNMENT 3: Using chatGPT to "wrangle" data and build a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/Assignment-3//)** Due 3 April, 20% final grade. 
+**ASSIGNMENT 3: Using chatGPT to "wrangle" data and build a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/Assignment-3//)** Due 12 April, 20% final grade. 
 {: .notice}
 
 ## UNIT 4: IMAGE
@@ -126,27 +126,27 @@ Image Collections
 ### Week 9
 
 | Time/Date | Reading | Activity |
-| Tues, 26 March | <br> -Vox, "[Why I am Obsessed With these Cheap Paintings of Paris](https://www.youtube.com/watch?v=rOjTc3F5UB4)" | In class exploration: <br> -Learning about Orange Data Mining <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography)| 
-| Thurs, 28 March | <br> -Benjamin, "[The Work of Art in the Age of Mechnical Reproduction"](https://web.mit.edu/allanmc/www/benjamin.pdf) <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" The Conversation, 1 Nov 2021. <br> -"[The Work of Art in the Age of Artificial Intelligence](https://dahj.org/gallery)" -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | discussion |
+| Tues, 26 March | <br> -Vox, "[Why I am Obsessed With these Cheap Paintings of Paris](https://www.youtube.com/watch?v=rOjTc3F5UB4)" <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography)| 
+| Thurs, 28 March | <br> -Benjamin, "[The Work of Art in the Age of Mechnical Reproduction"](https://web.mit.edu/allanmc/www/benjamin.pdf)  The Conversation, 1 Nov 2021. <br> -"[The Work of Art in the Age of Artificial Intelligence](https://dahj.org/gallery)" -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | discussion |
 
 
 ### Week 10
 
 | Time/Date | Reading | Activity |
-| Tues, 2 April  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Cluster assignment <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) | 
-| Thurs, 4 April  | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) <br> -Check out the WIDH2024 course on [Image Analysis](https://wp.nyu.edu/widh/widh-2024/#image) | <br> -discussion of the article & different forms of audio visual DH <br> -Classification of Image Datasets with Orange <br> -build a dataset of your own with 5 "similar" images in 5 folders | 
+| Tues, 2 April  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images) <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) <br> -Learning about Orange Data Mining | 
+| Thurs, 4 April  | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | <br> -discussion of the article & different forms of audio visual DH <br> -Classification of Image Datasets with Orange (using faces dataset) <br> -towards build a dataset of your own with 5 "similar" images in 5 folders | 
 
 ### Week 11
 
 | Time/Date | Reading | Activity |
-| Tues, 9 April | Open, Social Scholarship | Discussion of Teams and Collaborative work | 
+| Tues, 9 April | Continuing with Images | Assignment 4 | 
 
 EID!
 
 ### Week 12 
 
 | Time/Date | Reading | Activity |
-| Tues, 16 April | Another kind of computer vision: HTR! and 5-7pm | <br> -Building an image corpus for Assignment 4 <br> -attending a real-live open, social scholarship event, the NYU Abu Dhabi HTR working group, dinner included! |
+| Tues, 16 April | Open, Social scholarship  <br> -Another kind of computer vision: HTR, 5-7pm | <br> -attending a real-live open, social scholarship event, the NYU Abu Dhabi HTR working group, dinner included! |
 | Thurs, 18 April | Presentation of the Unproject | Storyboarding | 
 
 
