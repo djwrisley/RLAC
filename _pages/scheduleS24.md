@@ -138,29 +138,25 @@ Image Collections
 
 ### Week 11
 
-| Time/Date | Reading | Activity |
-| Tues, 9 April | Continuing with Images | Assignment 4 | 
-
-EID!
+EID! This entire week has been declared Eid (8-14 April) by the government on 2 April. 
 
 ### Week 12 
 
 | Time/Date | Reading | Activity |
-| Tues, 16 April | Open, Social scholarship  <br> -Another kind of computer vision: HTR, 5-7pm | <br> -attending a real-live open, social scholarship event, the NYU Abu Dhabi HTR working group, dinner included! |
-| Thurs, 18 April | Presentation of the Unproject | Storyboarding | 
+| Tues, 16 April | Continuing with Images | Introduction to Assignment 4 | 
+| Thurs, 16 April | Presentation of the Unproject | Storyboarding | 
 
 
 ### Week 13
 
 WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
-23 April 
-
-25 April 
+| Time/Date | Reading | Activity |
+| Tues, 23 April | Open, Social scholarship  <br> -Work on the Unproject <br> -Another kind of computer vision: HTR, 5-7pm | <br> -attending a real-live open, social scholarship event, the NYU Abu Dhabi HTR working group, dinner included! |
+| Thurs, 25 April | Image continuation | Assignment 4 | 
 
 **Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 25 April 2024, 5% final grade.
 {: .notice}
-
 
 ### Week 14
 
