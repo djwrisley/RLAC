@@ -152,7 +152,7 @@ EID! This entire week has been declared Eid (8-14 April) by the government on 2 
 WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
 | Time/Date | Reading | Activity |
-| Tues, 23 April | Collaboration in DAAH scholarship <br> -"[Collaborations in teh Digital Humanities - Persisting Silences](http://www.digitalhumanities.org/dhq/vol/12/1/000351/000351.html)" <br> -Another kind of computer vision: HTR, 5-7pm | <br> -attending a real-live open, social scholarship event, the NYU Abu Dhabi HTR working group, dinner included! |
+| Tues, 23 April | Collaboration in DAAH scholarship <br> -"[Collaborations in the Digital Humanities - Persisting Silences](http://www.digitalhumanities.org/dhq/vol/12/1/000351/000351.html)" <br> -Another kind of computer vision: HTR, 5-7pm | <br> -attending a real-live collaborative scholarship event, the NYU Abu Dhabi HTR working group, dinner included! |
 | Thurs, 25 April | Image continuation | Assignment 4 | 
 
 **Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 25 April 2024, 5% final grade.
