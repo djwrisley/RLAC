@@ -9,11 +9,6 @@ toc_icon: "folder-open"
 ---
 
 
-
-[Week 1](https://daahnyuad.github.io/schedule/#week-1)  [Week 2](https://daahnyuad.github.io/schedule/#week-2)  [Week 3](https://daahnyuad.github.io/schedule/#week-3)  [Week 4](https://daahnyuad.github.io/schedule/#week-4)  [Week 5](https://daahnyuad.github.io/schedule/#week-5) [Week 6](https://daahnyuad.github.io/schedule/#week-6) [Week 7](https://daahnyuad.github.io/schedule/#week-7) [Week 8](https://daahnyuad.github.io/schedule/#week-8) [Week 9](https://daahnyuad.github.io/schedule/#week-9) [Week 10](https://daahnyuad.github.io/schedule/#week-10) [Week 11](https://daahnyuad.github.io/schedule/#week-11) [Week 12](https://daahnyuad.github.io/schedule/#week-12) [Week 13](https://daahnyuad.github.io/schedule/#week-13) [Week 14](https://daahnyuad.github.io/schedule/#week-14) [Week 15](https://daahnyuad.github.io/schedule/#week-15) 
-
-<br>[Unit 1 - Data in the Arts and Humanities](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) <br>[Unit 2 - Textual](https://daahnyuad.github.io/schedule/#unit-2-textual) <br>[Unit 3 - Spatial](https://daahnyuad.github.io/schedule/#unit-3-spatial) <br>[Unit 4 - Image](https://daahnyuad.github.io/schedule/#unit-4-image) <br>[Unit 5 - Towards Larger Digital Project Inquiry](https://daahnyuad.github.io/schedule/#unit-5-towards-digital-project-work)
-
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 
 ### Week 1		
@@ -69,8 +64,6 @@ Textual Bodies
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
-
-
 ### Week 5
 
 Text as Data 
@@ -123,6 +116,8 @@ If you can find it, watch the German Netflix mini series, [The Billion Dollar Co
 **ASSIGNMENT 3: Using chatGPT to "wrangle" data and build a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/Assignment-3//)** Due 12 April, 20% final grade. 
 {: .notice}
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
+
 ## UNIT 4: IMAGE
 
 Image Collections
@@ -133,12 +128,15 @@ Image Collections
 | Tues, 26 March | <br> -Vox, "[Why I am Obsessed With these Cheap Paintings of Paris](https://www.youtube.com/watch?v=rOjTc3F5UB4)" <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography)| 
 | Thurs, 28 March | <br> -Benjamin, "[The Work of Art in the Age of Mechnical Reproduction"](https://web.mit.edu/allanmc/www/benjamin.pdf)  The Conversation, 1 Nov 2021. <br> -"[The Work of Art in the Age of Artificial Intelligence](https://dahj.org/gallery)" -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | <br> -Your Instagram Palette <br> -[MultiColorEngine for 20 million images](https://labs.tineye.com/multicolr) <br> -[ColorPicker](https://redketchup.io/color-picker) |
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 10
 
 | Time/Date | Reading | Activity |
 | Tues, 2 April  | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) <br> -Learning about Orange Data Mining <br> -[Clustering Monet and Manet](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) (Orange) <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images)| 
 | Thurs, 4 April  | Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | <br> -discussion of the article & different forms of audio visual DH <br> -Classification of Image Datasets with Orange (using faces dataset) <br> -towards build a dataset of your own with 5 "similar" images in 5 folders | 
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 11
 
@@ -150,6 +148,7 @@ EID! This entire week has been declared Eid (8-14 April) by the government on 2 
 | Tues, 16 April | Continuing with Images | Introduction to Assignment 4 | 
 | Thurs, 16 April | Presentation of the Unproject | Storyboarding | 
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 13
 
@@ -162,6 +161,8 @@ WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 **Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 25 April 2024, 5% final grade.
 {: .notice}
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
+
 ### Week 14
 
 WORK ON REMAINING ASSIGNMENTS & UNPROJECT
@@ -173,3 +174,5 @@ WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 | Time/Date | Reading | Activity |
 | Tues, 7 May | none | in-class presentations of our "unprojects" | 
 | Thurs, 9 May | none | wrap up | 
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
