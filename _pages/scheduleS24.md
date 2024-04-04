@@ -161,11 +161,14 @@ WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-### Week 14
+### Week 14  LAB WORK 
 
 WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
-30 April and 2 May 
+| Time/Date | Reading | Activity |
+| :--- | :--- | :--- |
+| Tues, 30 April | lab | |
+| Thurs, 2 May | lab | | 
 
 ### Week 15  WRAP UP AND UNPROJECTS
 
