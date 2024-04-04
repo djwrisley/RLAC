@@ -2,6 +2,10 @@
 title: "Schedule S24"
 permalink: /schedule/
 author_profile: false
+toc: true
+toc_sticky: true
+toc_label: "Spring 2024 Schedule"
+toc_icon: "folder-open"
 ---
 
 
