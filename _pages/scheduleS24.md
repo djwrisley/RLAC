@@ -10,9 +10,7 @@ toc_icon: "calendar"
 
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 
-### Week 1		
-
-Digital Arts and Humanities: innovation, creativity & contexts
+### Week 1	Digital Arts and Humanities	
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
@@ -21,9 +19,7 @@ Digital Arts and Humanities: innovation, creativity & contexts
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-### Week 2		
-
-Making and Project-Based Thinking 
+### Week 2	Making and Project-Based Thinking 	
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
@@ -35,9 +31,8 @@ Making and Project-Based Thinking
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-### Week 3
+### Week 3 Data and Metadata in the Arts and Humanities 1 
 
-Data and Metadata in the Arts and Humanities 1 
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
@@ -55,9 +50,7 @@ Data and Metadata in the Arts and Humanities 1
 
 ## UNIT 2: TEXTUAL
 
-### Week 4
-
-Textual Bodies
+### Week 4 Textual Bodies
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
@@ -67,9 +60,7 @@ Textual Bodies
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 
-### Week 5
-
-Text as Data 
+### Week 5 Text as Data 
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
@@ -83,9 +74,7 @@ Text as Data
 
 ## UNIT 3: SPATIAL 
 
-### Week 6
-
-Spatial Horizons
+### Week 6  Spatial Horizons
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
@@ -97,9 +86,7 @@ Spatial Horizons
 **Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-assignment-S24/)**, Due Date 6 March 2024, 5% final grade.
 {: .notice}
 
-### Week 7
-
-Map Visualization
+### Week 7 Map Visualization
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
@@ -113,7 +100,7 @@ Map Visualization
 If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break.  
 
 
-### Week 8 
+### Week 8  More Spatial 
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
@@ -127,9 +114,7 @@ If you can find it, watch the German Netflix mini series, [The Billion Dollar Co
 
 ## UNIT 4: IMAGE
 
-Image Collections
-
-### Week 9
+### Week 9 Image Collections
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
@@ -138,7 +123,7 @@ Image Collections
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-### Week 10
+### Week 10  Computational Analysis of Images
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
@@ -147,11 +132,11 @@ Image Collections
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-### Week 11
+### Week 11  EID 
 
 EID! This entire week has been declared Eid (8-14 April) by the government on 2 April. 
 
-### Week 12 
+### Week 12  MORE WITH IMAGES AND THE UNPROJECT 
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
@@ -162,7 +147,7 @@ EID! This entire week has been declared Eid (8-14 April) by the government on 2 
 
 ## COLLABORATION AND OPEN, SOCIAL SCHOLARSHIP
 
-### Week 13
+### Week 13  COLLABORATION IN DAAH 
 
 WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
@@ -182,7 +167,7 @@ WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
 30 April and 2 May 
 
-### Week 15 
+### Week 15  WRAP UP AND UNPROJECTS
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
