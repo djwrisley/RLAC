@@ -3,11 +3,10 @@ title: "Schedule S24"
 permalink: /schedule/
 author_profile: false
 toc: true
-toc_sticky: false
+toc_sticky: true
 toc_label: "Spring 2024 Schedule"
 toc_icon: "folder-open"
 ---
-
 
 ## UNIT 1: DATA IN THE ARTS AND HUMANITIES
 
