@@ -159,7 +159,7 @@ WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 **EXTRA CREDIT OPPORTUNITY: It's the [Gulf History Transcribe-a-thon(https://www.hrf-arabworld.org/events/2024/gulf-history-transcribe-a-thon)** Due Date 5 May, 1-2 points on Assignment 3 or 4, to be written as a post. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
 {: .notice}
 
-**Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 25 April 2024, 5% final grade.
+**Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 2 May 2024, 5% final grade.
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
