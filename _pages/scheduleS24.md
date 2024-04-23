@@ -156,7 +156,7 @@ WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 | Tues, 23 April | Collaboration in DAAH scholarship <br> -"[Collaborations in the Digital Humanities - Persisting Silences](http://www.digitalhumanities.org/dhq/vol/12/1/000351/000351.html)" <br> -Another kind of computer vision: HTR, 5-7pm | <br> -attending a real-live collaborative scholarship event, the NYU Abu Dhabi HTR working group, dinner included! |
 | Thurs, 25 April | Image continuation | Assignment 4 | 
 
-**EXTRA CREDIT OPPORTUNITY: It's the [Gulf History Transcribe-a-thon](https://www.hrf-arabworld.org/events/2024/gulf-history-transcribe-a-thon)** Due Date 5 May, 1-2 points on Assignment 3 or 4, to be written as a post. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
+**EXTRA CREDIT OPPORTUNITY: It's the [Gulf History Transcribe-a-thon](https://www.hrf-arabworld.org/events/2024/gulf-history-transcribe-a-thon)** Due Date POSTPONED, 1-2 points on Assignment 3 or 4, to be written as a post. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
 {: .notice}
 
 **Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 2 May 2024, 5% final grade.
