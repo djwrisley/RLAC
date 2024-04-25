@@ -180,4 +180,7 @@ WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 | Tues, 7 May | none | in-class presentations of our "unprojects" | 
 | Thurs, 9 May | none | wrap up | 
 
+**Final portfolio : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 10 May, 11:59pm, 20% final grade.
+{: .notice}
+
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
