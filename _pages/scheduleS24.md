@@ -33,7 +33,6 @@ toc_icon: "calendar"
 
 ### Week 3 Data and Metadata in the Arts and Humanities 1 
 
-
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
 | Tues, 6 February  3:35PM-6:15PM | <br> -Broman/Woo ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375989?needAccess=true), The American Statistician, 24 April 2018. <br> -Drucker, [ch 2](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (19-33) & [ch 4](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (52-69) <br> -[Local Origins](https://doi.org/10.7551/mitpress/11543.003.0005) (Loukissas) | -Lab slides in drive <br> -Notebook: Cultural Heritage By the Numbers (posit.cloud) |
@@ -136,7 +135,7 @@ If you can find it, watch the German Netflix mini series, [The Billion Dollar Co
 
 EID! This entire week has been declared Eid (8-14 April) by the government on 2 April. 
 
-### Week 12  MORE WITH IMAGES AND THE UNPROJECT 
+### Week 12  More than Images and the "Unproject"  
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
@@ -147,7 +146,7 @@ EID! This entire week has been declared Eid (8-14 April) by the government on 2 
 
 ## COLLABORATION AND OPEN, SOCIAL SCHOLARSHIP
 
-### Week 13  COLLABORATION IN DAAH 
+### Week 13  Collaboration in DAAH 
 
 WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
@@ -164,16 +163,16 @@ WORK ON REMAINING ASSIGNMENTS & UNPROJECT
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-### Week 14  LAB WORK 
+### Week 14  Lab Work 
 
-WORK ON REMAINING ASSIGNMENTS & UNPROJECT
+Work on Remaining Assignments and Unproject
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
 | Tues, 30 April | lab | |
 | Thurs, 2 May | lab | | 
 
-### Week 15  WRAP UP AND UNPROJECTS
+### Week 15  Wrap up and Unprojects
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
