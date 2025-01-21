@@ -18,7 +18,7 @@ author_profile: false
 
 **GRADE CUTOFFS:** 
 
-In the S24 semester, I will be using the following cutoffs. It may be necessary to lower them slightly in the final stages of grading for holistic evaluation. 
+In the S25 semester, I will be using the following cutoffs. It may be necessary to lower them slightly in the final stages of grading for holistic evaluation. 
 
 | grade | range | grade | range | grade | range | grade | range | grade | range |
 | A | 100-93 | A- | 92-90 | B+ | 89-87 | B | 86-83 | B- | 82-80 |
@@ -27,7 +27,7 @@ In the S24 semester, I will be using the following cutoffs. It may be necessary 
 
 **MIDTERM PROGRESS REPORT**
 
-There are three kinds of Midterm Progress reports you may receive in this course: "strong", "satisfactory" and "concerns about progress". Absences are counted after the drop/add deadline.
+There are three kinds of Midterm Progress reports you may receive in this course: "strong", "satisfactory" and "concerns about progress." Absences are counted after the drop/add deadline.
 
 _Strong progress_ means that you have consistently participated in classroom discussions and activities; you have completed the preparation for the class; you have submitted all assignments on time; and you have not missed more than 2 classes. To receive a strong progress, you should have submitted work that meets the highest standards in the rubric. 
 
