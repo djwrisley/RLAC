@@ -21,7 +21,7 @@ Introduction to Digital Arts and Humanities examines different intersections bet
 
 
 | **Element** | **Day** | **Timing** | **Location** | 
-| Lab | Tu | 3:35PM-6:15PM | C2 L00 W009 |
+| Lab | Tu | 3:35PM-6:15PM | C2 L00 W007 |
 | Class | Th | 3:35PM-4:50PM | C2 L00 W009 | 
 | Office hours | Th | 1-3PM | A6 L01 1151 |
 | Ramadan in person OH | TBA | TBA | A6 L01 1151 |
