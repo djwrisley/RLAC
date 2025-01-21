@@ -85,6 +85,9 @@ toc_icon: "calendar"
 **ASSIGNMENT 2: "Wrangle" data from a historical source, the [Gazette of Zanzibar](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) to build and visualize a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/XXX//)** Due 22 March, 20% final grade. 
 {: .notice}
 
+**Ramadan begins around here**
+{: .notice}
+
 ### Week 7 Extracting and Visualizing Spatial Information from Sources
 
 | Time/Date | Reading/Material | Activity |
