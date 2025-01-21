@@ -29,6 +29,8 @@ toc_icon: "calendar"
 **Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-assignment-S24/)** Due Date 8 Feb, total of 10% final grade (in phases over the semester).
 {: .notice}
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
+
 ## UNIT 2: TEXTUAL DATA
 
 Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files)
@@ -40,6 +42,8 @@ Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/work
 | Tues, 4 February 3:35PM-6:15PM | <br> -Drucker, [ch 7](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 110-120.<br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://muse.jhu.edu/pub/23/edited_volume/chapter/3144062)" Global Debates in the Digital Humanities, 2022 <br>-[Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading) | <br> -Lab: <br> -Text Mining: Easy to Less Easy <br> -[Google NGram Viewer](https://books.google.com/ngrams/) <br> -[Bookworm](https://bookworm.htrc.illinois.edu/develop/) <br> -[Voyant](https://voyant-tools.org/) <br> -[AntConc](https://www.laurenceanthony.net/software/antconc/) (download in advance of session) |
 | Thurs, 6 February 3:35PM-4:50PM | <br> -What is a Corpus? | Hands on with different corpora, including AI-created |
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
+
 **ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/corpus-assignmentXXXX/)** Due 28 Feb, 20% final grade. 
 {: .notice}
 
@@ -49,6 +53,8 @@ Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/work
 | :--- | :--- | :--- |
 | Tues, 11 February 3:35PM-6:15PM | <br> -RStudio notebook "Humanities Data in R 2nd ed." <br> -Drucker, [ch 3](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 34-51. | <br> - Mini lecture: "Creating Our Own Textual Data" <br> -Hands on with different corpora, including AI-created ones |
 | Thurs, 13 February 3:35PM-4:50PM | <br> -Handwritten Text Recognition with Transkribus | <br> -Creating ground truth <br> -Correcting the Machine <br> -Transformer Models and HTR |
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 **EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://guides.nyu.edu/love-data)** This year's theme is "Whose Data is it, anyway?" To avail yourself of the extra credit, you should sign up for one of the events, attend and then write a post about what you learned. Due Date 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
 {: .notice}
@@ -61,6 +67,7 @@ Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/work
 | Tues, 18 February 3:35PM-6:15PM | <br> -Barton, [Experiments Using chatGPT With Archival Collections](https://youtu.be/-X4kaiFPXz4) <br> -Download DOT(https://dotapp.uk/) <br> -Kirmizialtin and Wrisley "[Exploring Gulf Manumission Documents with Word Vectors](https://brill.com/view/journals/jdir/2/1-2/jdir.2.issue-1-2.xml), 2024, 1-29 | <br> -Hands on with DOT and other LLMs of your choice <br> -summarization, OCR correction, information extraction |
 | Thurs, 20 February 3:35PM-4:50PM | <br> -[GPT for the Arts and Humanities](https://thenewcentre.org/seminars/gpt-for-arts-humanities/) <br> -Rane and Choudhary [Role and challenges of ChatGPT, Google Bard, and similar generative Artificial Intelligence in Arts and Humanities](https://www.sabapub.com/index.php/she/article/view/999)| <br> -general discussion <br> -questions regarding Assignment 1 |
  
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ## UNIT 3: SPATIAL DATA 
 
@@ -70,6 +77,8 @@ Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/work
 | :--- | :--- | :--- |
 | Tues, 25 February 3:35PM-6:15PM | <br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 <br> -[The Sultanate of Zanzibar](https://www.blackpast.org/global-african-history/sultanate-zanzibar-1856-1964/) <br> -[Zanzibar (Wikipedia)](https://en.wikipedia.org/wiki/Zanzibar) | <br> -Visit to Special Collections and Lab <br> -Hands on with the [UFO dataset](https://www.kaggle.com/datasets/NUFORC/ufo-sightings?select=scrubbed.csv) and [kepler](kepler.gl) |
 | Thurs, 27 February 3:35PM-4:50PM | <br> -[Exploring Spatial Projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit)  <br> -"[A Place for Plant Data](https://doi.org/10.7551/mitpress/11543.001.0001)" (Loukissas) <br> -"Mapping" (Wilson, in drive) | <br> -discussion of structured data from a corpus <br> -presentation of Assignment 2 | 
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 **Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-assignment-SXX/)**, Due Date 6 March, total 10% of final grade, this part being 5%.
 {: .notice}
@@ -82,11 +91,13 @@ Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/work
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 | Tues, 4 March 3:35PM-6:15PM | <br> -Broman and Woo, "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", 2018, 2-8 <br> -"[Why We Should Digitize Historical Newspapers](https://web.archive.org/web/20240628020226/https://minorecs.hypotheses.org/495)", "[How Do we Digitize Historic Newspapers?](https://www.youtube.com/watch?v=XDa-KDsWYb4)",  | Lab: GPT, Information Extraction and Digitized Historical Documents |
-| Thurs, 6 March 3:35PM-4:50PM | Choosing pages from the Zanzibar Gazette | Hands on | 
+| Thurs, 6 March 3:35PM-4:50PM | Choosing pages from the Zanzibar Gazette | <br> -Hands on <br> -An R Markdown Notebook for visualizing spatial data | 
 
 ** Spring Break and Eid 
 
 If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break. 
+
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 8 TBA
 
@@ -102,6 +113,7 @@ If you can find it, watch the German Netflix mini series, [The Billion Dollar Co
 | Tues, 25 March 3:35PM-6:15PM | <br> -Classifying Soviet Map Features  <br> -"[The Soviet Military Program that Secretly Mapped the Entire World](https://www.nationalgeographic.com/history/article/maps-soviet-union-ussr-military-secret-mapping-spies) <br> -[Soviet Mapping of the World](https://www.geamap.com/en/soviet#2/37.3/-4.9), 2017 | Working with MapReader and [Soviet Maps of the UAE from 1978](https://geo.nyu.edu/catalog/nyu-2451-34737) |
 | Thurs, 27 March 3:35PM-4:50PM | <br> -general discussion | <br> -questions regarding Assignment 2 | 
 
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ## UNIT 4: IMAGE DATA
 
@@ -109,43 +121,37 @@ If you can find it, watch the German Netflix mini series, [The Billion Dollar Co
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 8 April 3:35PM-6:15PM | | |
-| Thurs, 10 April  3:35PM-4:50PM | | | 
+| Tues, 8 April 3:35PM-6:15PM | -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography) <br> -[Exploring our own dataset with CLIP](leoimpett.github.io/2dclip)|
+| Thurs, 10 April  3:35PM-4:50PM | <br> -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | Discussion of "Distant Viewing" | 
+
+**ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining and/or the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/XXX//)** Due 2 May, 20% final grade. 
+{: .notice}
 
 https://developers.google.com/earth-engine/datasets/
-Photogrammar
 
 ### Week 11 "Looking at and through the algorithm"
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 4 March 3:35PM-6:15PM | | |
-| Thurs, 6 March 3:35PM-4:50PM | | | 
+| Tues, 15 April 3:35PM-6:15PM | [Download Orange Data Mining](https://orangedatamining.com/) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) | Lab: <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) <br> -Learning about Orange Data Mining <br> -[Clustering Monet and Manet](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) (Orange) <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images) <br> -[DV Explorer](https://distantviewing.org/dvexplorer/pages/welcome/) |
+| Thurs, 17 April 3:35PM-4:50PM | More Exploration of DV Explorer | Discussion of How to Build an Image Corpus | 
 
-### Week 12 Visual AI
+[Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
+
+### Week 12 Computer Vision and Historical Images
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 4 March 3:35PM-6:15PM | | |
-| Thurs, 6 March 3:35PM-4:50PM | | | 
+| Tues, 22 Apr 3:35PM-6:15PM | <br> -Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | Lab: R Markdown Notebooks for Color, Object Detection and Face Detection|
+| Thurs, 24 April 3:35PM-4:50PM | Continuing CV | <br> -Discussion <br> -Questions about Assignment 3 | 
 
-Distant Viewing Toolkit 
-
--Choosing our image corpora
-
-### Week 13 Towards the Unproject
-
-| Time/Date | Reading | Activity |
-| :--- | :--- | :--- |
-| Tues, 22 April | Image classification | |
-| Thurs, 24 April | <br> -Presentation of Unproject <br> | Assignment 4 | 
 
 **Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 2 May 2024, 5% final grade.
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-### Week 14  Lab Work 
+### Week 13  Lab Work 
 
 Work on Remaining Assignments and Unproject
 
@@ -154,14 +160,12 @@ Work on Remaining Assignments and Unproject
 | Tues, 29 April | lab | |
 | Thurs, 1 May | lab | | 
 
-### Week 15  Wrap up and Unprojects
+### Week 14  Wrap up and Presentations
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
-| Tues, 6 May | none | in-class presentations of our "unprojects" | 
+| Tues, 6 May | none | in-class individual presentations reflecting on what we learned | 
 | Thurs, 8 May | none | wrap up | 
 
-**Final portfolio : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 10 May, 11:59pm, 20% final grade.
-{: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
