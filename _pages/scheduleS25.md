@@ -30,20 +30,34 @@ toc_icon: "calendar"
 
 Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files)
 
-### Week 3
+### Week 3 Distant Reading
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
+| Tues, 4 February 3:35PM-6:15PM | <br> -Drucker, [ch 7](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 110-120.<br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://muse.jhu.edu/pub/23/edited_volume/chapter/3144062)" Global Debates in the Digital Humanities, 2022 <br>-[Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading) | <br> -Lab: <br> -Text Mining: Easy to Less Easy <br> -[Google NGram Viewer](https://books.google.com/ngrams/) <br> -[Bookworm](https://bookworm.htrc.illinois.edu/develop/) <br> -[Voyant](https://voyant-tools.org/) <br> -[AntConc](https://www.laurenceanthony.net/software/antconc/) (download in advance of session) |
+| Thurs, 6 February 3:35PM-4:50PM | <br> -What is a Corpus? | Hands on with different corpora, including AI-created |
 
-### Week 4
+**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/corpus-assignmentXXXX/)** Due 28 Feb, 20% final grade. 
+{: .notice}
+
+### Week 4 Computational Analysis of (Historical) Text
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
+| Tues, 11 February 3:35PM-4:50PM | <br> -RStudio notebook "Humanities Data in R 2nd ed." <br> -Drucker, [ch 3](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 34-51. | Hands on with different corpora, including AI-created ones |
+| Thurs, 13 February 3:35PM-4:50PM | <br> -Handwritten Text Recognition with Transkribus | <br> -Creating ground truth <br> -Correcting the Machine <br> -Transformer Models and HTR |
 
-### Week 5
+**EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://guides.nyu.edu/love-data)** This year's theme is "Whose Data is it, anyway?" To avail yourself of the extra credit, you should sign up for one of the events, attend and then write a post about what you learned. Due Date 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
+{: .notice}
+
+
+### Week 5 A Language Model, Boosted with Historical Data
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
+| Tues, 18 February 3:35PM-4:50PM | <br> -Barton, "[Experiments Using chatGPT With Archival Collections](https://youtu.be/-X4kaiFPXz4) <br> -Download DOT(https://dotapp.uk/) | <br> -Hands on with DOT and other LLMs of your choice <br> -summarization, OCR correction, information extraction |
+| Thurs, 20 February 3:35PM-4:50PM | <br> -[GPT for the Arts and Humanities](https://thenewcentre.org/seminars/gpt-for-arts-humanities/) | <br> -discussion <br> -questions regarding Assignment 1 |
+ 
 
 ## UNIT 3: SPATIAL DATA 
 
@@ -62,27 +76,38 @@ Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/work
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 
+Instructor at a conference -- Activities TBA
+Google Space contributions
+
 ### Week 9
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 
+Classifying Maps 
+
+
 ## UNIT 4: IMAGE DATA
 
-### Week 10
+### Week 10 Images as Data 
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 
-### Week 11
+https://developers.google.com/earth-engine/datasets/
+Photogrammar
+
+### Week 11 "Looking at and through the algorithm"
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 
-### Week 12
+### Week 12 Visual AI
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
+
+Distant Viewing Toolkit 
 
 -Choosing our image corpora
 
