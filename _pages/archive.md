@@ -14,8 +14,8 @@ These syllabi are provided as open educational resources with a CC BY-SA-NC 4.0 
 - [Fall 2017](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/F17/Intro-DH-IM-UH-1111X-001-F17.pdf)
 - [Spring 2019](https://wp.nyu.edu/introdh/)
 - Spring 2023 [Schedule](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/S23/scheduleS23.md) [Materials](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/S23/materialsS23.md) [Outcomes](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/S23/outcomesS23.md) [Assessment](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/S23/assessmentS23.md)
-- Fall 2023 [Schedule]() [Materials](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/F23/materialsF23.md) [Outcomes](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/F23/outcomesF23.md) [Assessment](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/F23/assessmentF23.md)
-- Spring 2024 forthcoming 
+- Fall 2023 [Schedule](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/F23/scheduleF23.md) [Materials](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/F23/materialsF23.md) [Outcomes](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/F23/outcomesF23.md) [Assessment](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/F23/assessmentF23.md)
+- Spring 2024 [Schedule](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/S24/scheduleS24.md) [Materials](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/S24/materialsS24.md) [Outcomes](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/S24/outcomesS24.md) [Assessment](https://github.com/DAAHNYUAD/daahnyuad.github.io/blob/master/assets/archive/S24/assessmentS24.md) 
 
 
 **Suggested Citation**: 
