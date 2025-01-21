@@ -124,7 +124,7 @@ toc_icon: "calendar"
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 8 April 3:35PM-6:15PM | <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" <br> -Impett/Offert, "[There is a Digital Art History"(https://www.tandfonline.com/doi/full/10.1080/01973762.2024.2362466#d1e113) | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography) <br> -[Exploring our own dataset with CLIP](leoimpett.github.io/2dclip)|
+| Tues, 8 April 3:35PM-6:15PM | <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" <br> -Impett and Offert, "[There is a Digital Art History"(https://www.tandfonline.com/doi/full/10.1080/01973762.2024.2362466#d1e113) | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography) <br> -[Exploring our own dataset with CLIP](leoimpett.github.io/2dclip)|
 | Thurs, 10 April  3:35PM-4:50PM | <br> -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | Discussion of "Distant Viewing" | 
 
 **ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining and/or the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/XXX//)** Due 2 May, 20% final grade. 
@@ -148,11 +148,12 @@ https://developers.google.com/earth-engine/datasets/
 | Tues, 22 Apr 3:35PM-6:15PM | <br> -Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | Lab: R Markdown Notebooks for Color, Object Detection and Face Detection|
 | Thurs, 24 April 3:35PM-4:50PM | Continuing CV | <br> -Discussion <br> -Questions about Assignment 3 | 
 
-
 **Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 2 May 2024, 5% final grade.
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
+
+## UNIT 5: WRAP UP
 
 ### Week 13  Lab Work 
 
@@ -161,7 +162,7 @@ https://developers.google.com/earth-engine/datasets/
 | Tues, 29 April | lab | |
 | Thurs, 1 May | lab | | 
 
-### Week 14  Wrap up and Presentations
+### Week 14  Presentations
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
