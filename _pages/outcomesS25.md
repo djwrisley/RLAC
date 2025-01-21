@@ -1,5 +1,5 @@
 ---
-title: "Outcomes S24"
+title: "Outcomes S25"
 permalink: /outcomes/
 author_profile: false
 ---
