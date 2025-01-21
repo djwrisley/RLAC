@@ -19,28 +19,27 @@ toc_icon: "calendar"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-### Week 2 On the Way to Computational Thinking
+### Week 2 "On the Way to Computational Thinking"
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 | Tues, 28 January 3:35PM-6:15PM |	<br> -Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/10JKeKr9x79qBj8Bd6ND9wbOlOCFRSqNb/view?usp=drive_link),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59.  <br> -Drucker, [ch 11](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 192-210. <br> -Download [GitHub Desktop](https://desktop.github.com/) | Lab: <br> -Web Publishing Alternatives: [Github Pages](https://daahnyuad.github.io/blog/creating-a-static-siteS24/), [Google Sites](https://workspace.google.com/products/sites/), [Hypotheses](https://hypotheses.org/), [Notion](https://www.notion.so/), [Vercel](https://vercel.com/), [NYU WP](https://wp.nyu.edu/), [Humanities Commons](https://hcommons.org/), [HSS Commons](https://hsscommons.ca/en/) <br> -Working on our own blogs  <br> -pushing material to them using Github Desktop  <br> -discussion and practice with Markdown <br> -a [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) |
-| Thurs, 30 January 3:35PM-4:50PM |	<br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -[The Making and Knowing Project](https://www.makingandknowing.org/) <br> -[On Phronesis](https://en.wikipedia.org/wiki/Phronesis) <br> -[LLMs and practical knowledge: What is intelligence?, Electrifying the Future, 11th Budapest Visual Learning Conference, 2024, pp. 19-26.](https://philpapers.org/archive/SMILAP-5.pdf)| <br> -discussion <br> -Introduction to RStudio and [Posit.cloud](Posit.cloud) <br> -set up of digital literacy narrative with GPT | 
+| Thurs, 30 January 3:35PM-4:50PM |	<br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -[The Making and Knowing Project](https://www.makingandknowing.org/) <br> -[On Phronesis](https://en.wikipedia.org/wiki/Phronesis) <br> -[LLMs and practical knowledge: What is intelligence?, 2024, pp. 19-26.](https://philpapers.org/archive/SMILAP-5.pdf)| <br> -discussion <br> -Introduction to RStudio and [Posit.cloud](Posit.cloud) <br> -set up of digital literacy narrative with GPT | 
 
-**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/DLN-assignment-S24/)** Due Date 8 Feb, total of 10% final grade (in phases over the semester).
+**Digital Literacy Narrative Instructions [here](https://daahnyuad.github.io/blog/XXX/)** Due Date 8 Feb, total of 10% final grade (in phases over the semester).
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ## UNIT 2: TEXTUAL DATA
 
-Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files)
 
 ### Week 3 Distant Reading
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 4 February 3:35PM-6:15PM | <br> -Drucker, [ch 7](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 110-120.<br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://muse.jhu.edu/pub/23/edited_volume/chapter/3144062)" Global Debates in the Digital Humanities, 2022 <br>-[Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading) | <br> -Lab: <br> -Text Mining: Easy to Less Easy <br> -[Google NGram Viewer](https://books.google.com/ngrams/) <br> -[Bookworm](https://bookworm.htrc.illinois.edu/develop/) <br> -[Voyant](https://voyant-tools.org/) <br> -[AntConc](https://www.laurenceanthony.net/software/antconc/) (download in advance of session) |
-| Thurs, 6 February 3:35PM-4:50PM | <br> -What is a Corpus? | Hands on with different corpora, including AI-created |
+| Tues, 4 February 3:35PM-6:15PM |  <br> -Drucker, [ch 7](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 110-120 <br> -Clark et al, "[What's Trending in the Chinese Google Books Corpus](https://muse.jhu.edu/pub/23/edited_volume/chapter/3144062)" Global Debates in the Digital Humanities, 2022 <br>-Listen to [Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading) | <br> -Lab: <br> -Text Mining: Easy to Less Easy <br> -[Google NGram Viewer](https://books.google.com/ngrams/) <br> -[Bookworm](https://bookworm.htrc.illinois.edu/develop/) <br> -[Voyant](https://voyant-tools.org/) |
+| Thurs, 6 February 3:35PM-4:50PM | <br> -What is a Corpus? <br> -Rockwell and Sinclair, "[The Measured Words: How Computers Analyze Text](https://search.abudhabi.library.nyu.edu/permalink/01NYU_AD/1ktnrr4/cdi_webofscience_primary_000387586700007CitationCount)", 25-43 | More hands on with different corpora, including AI-created |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -52,11 +51,11 @@ Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/work
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 | Tues, 11 February 3:35PM-6:15PM | <br> -RStudio notebook "Humanities Data in R 2nd ed." <br> -Drucker, [ch 3](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 34-51. | <br> - Mini lecture: "Creating Our Own Textual Data" <br> -Hands on with different corpora, including AI-created ones |
-| Thurs, 13 February 3:35PM-4:50PM | <br> -Handwritten Text Recognition with Transkribus | <br> -Creating ground truth <br> -Correcting the Machine <br> -Transformer Models and HTR |
+| Thurs, 13 February 3:35PM-4:50PM | <br> -Handwritten Text Recognition with [Transkribus](https://www.transkribus.org/) | <br> -Creating humanities [ground truth](https://www.ibm.com/think/topics/ground-truth) <br> -Correcting the Machine <br> -Transformer Models and HTR |
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://guides.nyu.edu/love-data)** This year's theme is "Whose Data is it, anyway?" To avail yourself of the extra credit, you should sign up for one of the events, attend and then write a post about what you learned. Due Date 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
+**EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://guides.nyu.edu/love-data)** This year's theme is "Whose Data is it, anyway?" To avail yourself of the extra credit, you should sign up for one of the events, attend and then write a post about what you learned. Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
 {: .notice}
 
 
@@ -71,7 +70,7 @@ Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/work
 
 ## UNIT 3: SPATIAL DATA 
 
-### Week 6 The (geo)spatial in the arts and humanities
+### Week 6 The (Geo)spatial in the arts and humanities
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
@@ -86,16 +85,17 @@ Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/work
 **ASSIGNMENT 2: "Wrangle" data from a historical source, the [Gazette of Zanzibar](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) to build and visualize a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/XXX//)** Due 22 March, 20% final grade. 
 {: .notice}
 
-### Week 7
+### Week 7 Extracting and Visualizing Spatial Information from Sources
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 4 March 3:35PM-6:15PM | <br> -Broman and Woo, "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", 2018, 2-8 <br> -"[Why We Should Digitize Historical Newspapers](https://web.archive.org/web/20240628020226/https://minorecs.hypotheses.org/495)", "[How Do we Digitize Historic Newspapers?](https://www.youtube.com/watch?v=XDa-KDsWYb4)",  | Lab: GPT, Information Extraction and Digitized Historical Documents |
+| Tues, 4 March 3:35PM-6:15PM | <br> -Broman and Woo, "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", 2018, 2-8 <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109 <br> -"[Why We Should Digitize Historical Newspapers](https://web.archive.org/web/20240628020226/https://minorecs.hypotheses.org/495)", "[How Do we Digitize Historic Newspapers?](https://www.youtube.com/watch?v=XDa-KDsWYb4)",  | Lab: GPT, Information Extraction and Digitized Historical Documents |
 | Thurs, 6 March 3:35PM-4:50PM | Choosing pages from the Zanzibar Gazette | <br> -Hands on <br> -An R Markdown Notebook for visualizing spatial data | 
 
-** Spring Break and Eid 
 
-If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break. 
+**Spring Break and Eid** If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break. It's all about spatial data!
+{: .notice}
+ 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
@@ -121,7 +121,7 @@ If you can find it, watch the German Netflix mini series, [The Billion Dollar Co
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 8 April 3:35PM-6:15PM | -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography) <br> -[Exploring our own dataset with CLIP](leoimpett.github.io/2dclip)|
+| Tues, 8 April 3:35PM-6:15PM | <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" <br> -Impett/Offert, "[There is a Digital Art History"(https://www.tandfonline.com/doi/full/10.1080/01973762.2024.2362466#d1e113) | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -[MoMA photography](https://www.moma.org/collection/terms/photography) <br> -[Exploring our own dataset with CLIP](leoimpett.github.io/2dclip)|
 | Thurs, 10 April  3:35PM-4:50PM | <br> -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | Discussion of "Distant Viewing" | 
 
 **ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining and/or the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/XXX//)** Due 2 May, 20% final grade. 
@@ -152,8 +152,6 @@ https://developers.google.com/earth-engine/datasets/
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 13  Lab Work 
-
-Work on Remaining Assignments and Unproject
 
 | Time/Date | Reading | Activity |
 | :--- | :--- | :--- |
