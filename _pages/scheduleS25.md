@@ -24,36 +24,65 @@ toc_icon: "calendar"
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 | Tues, 28 January 3:35PM-6:15PM |	<br> -Berry/Fagerjord, “[On the Way to Computational Thinking](https://drive.google.com/file/d/10JKeKr9x79qBj8Bd6ND9wbOlOCFRSqNb/view?usp=drive_link),” Digital Humanities: Knowledge and Critique in the Digital Age, 2017, 40-59.   <br> -Download [GitHub Desktop](https://desktop.github.com/) | Lab: <br> -Web Publishing Alternatives: [Github Pages](https://daahnyuad.github.io/blog/creating-a-static-siteS24/), [Google Sites](https://workspace.google.com/products/sites/), [Hypotheses](https://hypotheses.org/), [Notion](https://www.notion.so/), [Vercel](https://vercel.com/), [NYU WP](https://wp.nyu.edu/), [Humanities Commons](https://hcommons.org/), [HSS Commons](https://hsscommons.ca/en/) <br> -Working on our own blogs  <br> -pushing material to them using Github Desktop  <br> -discussion and practice with Markdown <br> -a [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) |
-| Thurs, 30 January 3:35PM-4:50PM |	<br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -[The Making and Knowing Project](https://www.makingandknowing.org/) <br> -[On Phronesis](https://en.wikipedia.org/wiki/Phronesis) | <br> -discussion <br> -Introduction to RStudio and [Posit.cloud](Posit.cloud) <br> -set up of digital literacy narrative with GPT | 
+| Thurs, 30 January 3:35PM-4:50PM |	<br> -Posner, "[How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that-the-video/)" 2014. <br> -Chachra, "[Why I am Not a Maker](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)" The Atlantic, 23 January 2015. Full text [here](https://docs.google.com/document/d/1-ENkntIIro-sLGM5xtLYXdOJNadcumKfHVXMpWjxbAk/edit) <br> -[The Making and Knowing Project](https://www.makingandknowing.org/) <br> -[On Phronesis](https://en.wikipedia.org/wiki/Phronesis) <br> -[LLMs and practical knowledge: What is intelligence?, Electrifying the Future, 11th Budapest Visual Learning Conference, 2024, pp. 19-26.](https://philpapers.org/archive/SMILAP-5.pdf)| <br> -discussion <br> -Introduction to RStudio and [Posit.cloud](Posit.cloud) <br> -set up of digital literacy narrative with GPT | 
 
 ## UNIT 2: TEXTUAL DATA
 
 Lab: <br> -[Learning about OCR](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files)
 
-
 ### Week 3
+
+| Time/Date | Reading/Material | Activity |
+| :--- | :--- | :--- |
 
 ### Week 4
 
+| Time/Date | Reading/Material | Activity |
+| :--- | :--- | :--- |
+
 ### Week 5
+
+| Time/Date | Reading/Material | Activity |
+| :--- | :--- | :--- |
 
 ## UNIT 3: SPATIAL DATA 
 
 ### Week 6
 
+| Time/Date | Reading/Material | Activity |
+| :--- | :--- | :--- |
+
 ### Week 7
+
+| Time/Date | Reading/Material | Activity |
+| :--- | :--- | :--- |
 
 ### Week 8
 
+| Time/Date | Reading/Material | Activity |
+| :--- | :--- | :--- |
+
 ### Week 9
+
+| Time/Date | Reading/Material | Activity |
+| :--- | :--- | :--- |
 
 ## UNIT 4: IMAGE DATA
 
 ### Week 10
 
+| Time/Date | Reading/Material | Activity |
+| :--- | :--- | :--- |
+
 ### Week 11
 
+| Time/Date | Reading/Material | Activity |
+| :--- | :--- | :--- |
+
 ### Week 12
+
+| Time/Date | Reading/Material | Activity |
+| :--- | :--- | :--- |
 
 -Choosing our image corpora
 
