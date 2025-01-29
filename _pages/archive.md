@@ -6,7 +6,7 @@ author_profile: false
 
 ## IM-UH 1511 Archive
 
-IM-UH 1511 Introduction to Digital Arts and Humanities is the foundation course for the minor in Digital Arts and Humanities. As we expect it to grow and change over the years, we will archive the markdown files for the schedule here. 
+IM-UH 1511 Introduction to Digital Arts and Humanities is the foundation course for the minor in Digital Arts and Humanities. As the field is rapidly changing and we expect it to grow and change over the years, we will archive the markdown files for the key pages (schedule, materials, outcomes, assessment) here. 
 
 These syllabi are provided as open educational resources with a CC BY-SA-NC 4.0 International license. If you reuse them, in part or in whole, please cite them.
 
