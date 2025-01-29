@@ -63,11 +63,11 @@ Open GitHub Desktop and log into it with your credentials from your GitHub accou
 
 Then, click on the down arrow which reveals a button `add` with another down arrow which takes you to Clone Repository. 
 
-<img src="/assets/images/clonerepo1.png" style="zoom:25%;" />
+<img src="/assets/images/clonerepo1.png" style="zoom:40%;" />
 
 Then, copy the URL of your repository where you forked the `minimal-mistakes`template. Selecting the URL tab, paste that URL into the repository URL blank and click clone. 
 
-<img src="/assets/images/clonerepo.png" style="zoom:40%;" />
+<img src="/assets/images/clonerepo.png" style="zoom:60%;" />
 
 When done, you should be able to see it in the current repository tab at left in Github Desktop. 
 
