@@ -1,5 +1,5 @@
 ---
-title: "Disclosure of Generative AI use S24"
+title: "Disclosure of Generative AI use S25"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -7,14 +7,17 @@ tags:
   - Assignments
   - chatGPT
   - genAI
-  - S24
+  - S25
 
 ---
 
 ## Guidelines for the Disclosure of Generative AI: 
 
+THIS IS A DRAFT POST
 
-There are two exercises in which I ask you to interact with one form of generative AI: first, the Digital Literacy Narrative with AI text generators and Assignment 3 using GPT for data wrangling. 
+We will be interacting with different forms of generative AI (genAI) throughout the semester, both in class exercises and graded ones
+
+First, the Digital Literacy Narrative with AI text generators and Assignment 3 using GPT for data wrangling. 
 
 
 

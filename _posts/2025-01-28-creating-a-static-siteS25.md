@@ -7,6 +7,7 @@ tags:
   - lab
   - S25
   - Github Pages
+  - sustainability
 ---
 
 ## Guidelines for the Lab: 
@@ -90,6 +91,8 @@ From GitHub Desktop you can set the text editor you want to work in.
 > Remember that every time you push to the web, the compiler works to make your page's updates.  Be patient and look for the green arrow which indicates that your site has been rebuilt with the changes you made. If you see a brown dot next to the last commit message in the repository holding the site, the compiler has not finished. Go have some tea or a quick walk. 
 
 You can play around with making subtle changes to your site, but be careful not to change too much of the basic architecture of the templates, as things can break. 
+
+> GREEN TIP: If you would like to be more sustainable about your use of computing resources, you can test your markdown in a live viewer such as this [one](https://markdownlivepreview.com/) before sending it to the compiler. 
 
 A Markdown cheatsheet can be found [here](https://www.markdownguide.org/cheat-sheet/).
 
