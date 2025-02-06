@@ -8,11 +8,11 @@ tags:
   - Extra Credit
 ---
 
-## Guidelines for the Post: 
+## Guidelines for the Post Based on an Extra Credit Event: 
 
 Sometimes I will assign an optional extra credit opportunity. It will usually be in the form of an event (sometimes a remote event) to attend. These opportunities are entirely optional.
 
-To receive the amount of credit I specify, please make sure that you include the following: 
+To receive the amount of credit I specify, please make sure that you include the following: [ˆ1]
 
 - the date, time and location of the event
 - a summary of the main points of the event
@@ -28,4 +28,4 @@ The target length is 1000-1250 words with 2 images. Use well-formed Markdown tex
 
 Remember to be respectful of people attending remote events and not post screenshots of faces in Zoom windows. Keep your images relevant to the content of the event.
 
-Note: You should complete all the points above to receive the extra points. 
+ [ˆ1]: NB You should complete all the points above to receive the extra points.
