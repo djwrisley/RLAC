@@ -6,7 +6,7 @@ categories:
 tags:
   - Assignments
   - chatGPT
-  - generative AI
+  - genAI
   - S25
   - sustainability
 

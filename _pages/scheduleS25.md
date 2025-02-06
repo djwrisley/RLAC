@@ -55,7 +55,7 @@ toc_icon: "calendar"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://guides.nyu.edu/love-data)** This year's theme is "Whose Data is it, anyway?" To avail yourself of the extra credit, you should sign up for one of the events, attend and then write a post about what you learned. Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
+**EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://guides.nyu.edu/love-data)** This year's theme is "Whose Data is it, anyway?" To avail yourself of the extra credit, you should sign up for one of the events at NYU New York (or this [lecture](https://www.eventbrite.com/e/virtual-talk-building-trusted-data-an-idea-for-a-community-driven-approach-tickets-1228953355569?aff=oddtdtcreator) by a professor from NYU Wagner), attend and then write a post about what you learned. Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
 {: .notice}
 
 

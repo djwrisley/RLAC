@@ -4,22 +4,36 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Assignments
-  - chatGPT
+  - in-class
+  - LLMs
   - genAI
   - S24
 
 ---
 
-## Guidelines for the Disclosure of Generative AI: 
+## Exploring DOT 
+
+According to the developer, DOT will work with an Apple Silicon chip (M1 or higher) or with a Windows machine. It is not currently supported for Linux. For this assignment you do not have to download DOT as we will demo it in class and try it with different kinds of materials. It is a large download that you can do at your own risk if you choose to try it out for yourself.
 
 
-There are two exercises in which I ask you to interact with one form of generative AI: first, the Digital Literacy Narrative with AI text generators and Assignment 3 using GPT for data wrangling. 
+## Exploring DOT with sensitive historical archives: 
+
+In the words of its creators, DOT is "a standalone, open-source application designed for seamless interaction with documents and files." It was created in the spring of 2024 by an MSc student at UCL. It is built with the Phi-3.5 LLM.
+
+DOT has a graphic user interface allowing you to load multiple documents into an LLM and to interact with them in a fully local environment. There is also Big DOT that acts a bit like chatGPT for questions not related to the documents you have uploaded. 
+
+## Open LLMs 
 
 
+## AI and Archives 
 
-https://blog.arxiv.org/2023/01/31/arxiv-announces-new-policy-on-chatgpt-and-similar-tools/
+
+## Why is personal data risky with commercial LLMs?
 
 
-https://info.arxiv.org/help/moderation/index.html#policy-for-authors-use-of-generative-ai-language-tools
+## Making DOT work with your data
+
+ 
+
+
 
