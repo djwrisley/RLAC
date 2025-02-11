@@ -50,8 +50,10 @@ toc_icon: "calendar"
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 11 February 3:35PM-6:15PM |  <br> -Drucker, [ch 3](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 34-51. | <br> -RMarkdown notebook "The Grammar of Graphics, ch 2" of [Humanities Data in R 2nd ed.](https://humanitiesdata.org/) <br> -RMarkdown notebook" Identifying Most Distinctive Words in Three (Sets of) Texts" adapted from [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/) <br> - Mini lecture: "Creating Our Own Textual Data" |
+| Tues, 11 February 3:35PM-6:15PM |  <br> -Drucker, [ch 3](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 34-51. | <br> -RMarkdown notebook "The Grammar of Graphics, ch 2" of [Humanities Data in R 2nd ed.](https://humanitiesdata.org/) <br> -RMarkdown notebook" Identifying Most Distinctive Words in Three (Sets of) Texts" adapted from [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/) [^1] <br> - Mini lecture: "Creating Our Own Textual Data" |
 | Thurs, 13 February 3:35PM-4:50PM | <br> -Handwritten Text Recognition with [Transkribus](https://www.transkribus.org/) | <br> -Creating humanities [ground truth](https://www.ibm.com/think/topics/ground-truth) <br> -Correcting the Machine <br> -Transformer Models and HTR |
+
+[^1]: This book was written in RMarkdown and Github using the [bookdown](https://bookdown.org/) package.
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
