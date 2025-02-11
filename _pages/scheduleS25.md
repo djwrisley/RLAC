@@ -51,7 +51,7 @@ toc_icon: "calendar"
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 | Tues, 11 February 3:35PM-6:15PM |  <br> -Drucker, [ch 3](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 34-51. | <br> -RMarkdown notebook "The Grammar of Graphics, ch 2" of [Humanities Data in R 2nd ed.](https://humanitiesdata.org/) <br> -RMarkdown notebook" Identifying Most Distinctive Words in Three (Sets of) Texts" adapted from [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/) NB: This book was written in RMarkdown and Github using the [bookdown](https://bookdown.org/) package. <br> - Mini lecture: "Digitization and Creating Our Own Textual Data" [slides in drive] |
-| Thurs, 13 February 3:35PM-4:50PM | <br> -Handwritten Text Recognition with [Transkribus](https://www.transkribus.org/) | <br> -Creating humanities [ground truth](https://www.ibm.com/think/topics/ground-truth) <br> -Correcting the Machine <br> -Transformer Models and HTR |
+| Thurs, 13 February 3:35PM-4:50PM |  <br> -Handwritten Text Recognition [Transkribus Webinar for Beginners](https://www.youtube.com/watch?v=PK1w-8r5myY) <br> -Create a free Transkribus [account](https://www.transkribus.org/) |  <br> -What is humanities [ground truth](https://www.ibm.com/think/topics/ground-truth)? <br> -Correcting and Retraining the Machine <br> -Using Transformer Models to Analyze Historical Documents <br> -Analyzing and Classifying Documents with OCR error |
 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
