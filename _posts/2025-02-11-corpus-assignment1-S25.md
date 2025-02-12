@@ -17,17 +17,21 @@ This exercise has three main elements: (1) choosing a corpus of three texts (or 
 
 **Step 1**: You will need to pick your corpus from the choices below. 
 
-- A. Three different books by the same author taken from [Project Gutenberg](https://gutenberg.org) (perhaps in different genres or at different times of their career).
+### A. Three different books by the same author taken from [Project Gutenberg](https://gutenberg.org) (perhaps in different genres or at different times of their career).
  
-For example, if you use the search function and look for `science fiction` you will find more than 4000 science fiction novel(la)s, many of which are written by the same authors. You could do some research on any of the authors in Wikipedia or in the [Internet Speculative Fiction Database](https://isfdb.org/), and choose three texts by one author. If you know French, there is a large [selection](https://gutenberg.org/ebooks/bookshelf/321) of science fiction too. 
+If you use the search function and look for `science fiction` you will find more than 4000 science fiction novel(la)s, many of which are written by the same authors. You could do some research on any of the authors in Wikipedia or in the [Internet Speculative Fiction Database](https://isfdb.org/), and choose three texts by one author. If you know French, there is a large [selection](https://gutenberg.org/ebooks/bookshelf/321) of science fiction too. 
 
 Here are some other ideas in PG: 
 
 - Arthur Conan Doyle, famous for having written the Adventures of Sherlock Holmes, is the author of more than 150 books in PG and in many genres. Pick three. 
 
-- B. Three books on a similar topic from Project Gutenberg.
+- PG has five books by [Gandhi](https://gutenberg.org/ebooks/search/?query=gandhi&submit_search=Go%21) and a few more about him. 
 
-For example, if you use the search function and look for `artificial intelligence` you will find 20 science fiction novel(la)s on the topic. You could also look for terms such as `alien` or `abduction` or ``
+- PG has 60 texts by Sir Richard Burton(https://gutenberg.org/ebooks/author/898) and 
+
+### B. Three books on a similar topic from Project Gutenberg.
+
+For example, if you use the search function and look for `artificial intelligence` you will find 20 science fiction novel(la)s on the topic. You could also look for terms such as `alien` or `abduction` or `monsters`.
 
 - PG has a number of different "bookshelves", or topical groupings of its books on issues like religion or technology. Explore them and pick three related books. 
 
@@ -37,9 +41,9 @@ For example, if you use the search function and look for `artificial intelligenc
 
 - You can also use keywords to find subject headings. For example, "women" will give you many hundreds of [groupings](https://gutenberg.org/ebooks/subjects/search/?query=women).
 
-- C. You could also choose three texts in a language other than English. NB: This will pose certain challenges in the analysis that you can write about in your assignment.  Check here for books in [Chinese](https://gutenberg.org/browse/languages/zh) [Dutch](https://gutenberg.org/browse/languages/nl) [Finnish](https://gutenberg.org/browse/languages/fi) [French](https://gutenberg.org/browse/languages/fr) [Italian](https://gutenberg.org/browse/languages/it) [Japanese](https://gutenberg.org/browse/languages/ja) [Portuguese](https://gutenberg.org/browse/languages/pt) [Russian](https://gutenberg.org/browse/languages/ru) [Serbian](https://gutenberg.org/browse/languages/sr) [Spanish](https://gutenberg.org/browse/languages/es) [Tagalog](https://gutenberg.org/browse/languages/tl) [Telugu](https://gutenberg.org/browse/languages/te).  There are other languages, but coverage is not uniform.  
+### C. You could also choose three texts in a language other than English. NB: This will pose certain challenges in the analysis that you can write about in your assignment.  Check here for books in [Chinese](https://gutenberg.org/browse/languages/zh) [Dutch](https://gutenberg.org/browse/languages/nl) [Finnish](https://gutenberg.org/browse/languages/fi) [French](https://gutenberg.org/browse/languages/fr) [Italian](https://gutenberg.org/browse/languages/it) [Japanese](https://gutenberg.org/browse/languages/ja) [Portuguese](https://gutenberg.org/browse/languages/pt) [Russian](https://gutenberg.org/browse/languages/ru) [Serbian](https://gutenberg.org/browse/languages/sr) [Spanish](https://gutenberg.org/browse/languages/es) [Tagalog](https://gutenberg.org/browse/languages/tl) [Telugu](https://gutenberg.org/browse/languages/te).  There are other languages, but coverage is not uniform.  
 
-- D. Three different sets of articles from a single class or multiple classes in your major. 
+### D. Three different sets of articles from a single class or multiple classes in your major. 
 
 Whatever your choice may be, you have the option of using three legitimate files, or substituting one of the files with a fake genAI created one, as we did in the case of the science fiction texts. Generating a text of equivalent length with genAI may take considerable extra effort. 
 
