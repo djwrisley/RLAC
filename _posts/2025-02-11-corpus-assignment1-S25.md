@@ -11,11 +11,15 @@ tags:
 
 ## Final Guidelines for the Assignment:  
 
-The Corpus Assignment, otherwise known as Assignment 1, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and the RMarkdown files in posit.cloud. This assignment can be done alone or in pairs.
+The Corpus Assignment, otherwise known as Assignment 1, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and the RMarkdown files in posit.cloud. This assignment can be done *alone* or *in pairs*.
 
-This exercise has three main elements: (1) choosing a corpus of three texts (or three sets of texts) you would like to work with and (2) using digital textual analysis tools to see what kind of exploratory data analysis (EDA) you can do using that corpus, (3) assembling the evidence in a piece of web-facing written work along with visuals. 
+This exercise has three main elements: 
 
-**Step 1**: You will need to pick your corpus from the choices below. 
+1. choosing a corpus of three texts (or three sets of texts) you would like to work with 
+2. using digital textual analysis tools to see what kind of exploratory data analysis (EDA) you can do using that corpus,
+3. assembling the evidence in a piece of web-facing written work along with visuals. 
+
+## **Step 1**: You will need to pick your corpus from the choices below. 
 
 ### A. Three different books by the same author taken from [Project Gutenberg](https://gutenberg.org) (perhaps in different genres or at different times of their career).
  
@@ -49,29 +53,29 @@ Whatever your choice may be, you have the option of using three legitimate files
 
 Alternatively, you can source your text files from anywhere else, but if you make a custom corpus, please consult with the instructor before beginning this process. The texts can be short stories or articles, but not less than 1000-2000 words. If you choose your own files, include a copy of all three of them in your assets folder and create links to them for your readers to examine. _If you are not working with texts from Project Gutenberg, then you will need to follow the instructions in the notebook for uploading your own files._ 
 
-**Step 2**: You should do some general research about the authors, the text, the contents. You will want to justify briefly the selection of texts in your assignment. You might even browse them briefly to know generally what they are about. This will help you to contextualize your findings. _This is important so that you are not studying the corpus without a general idea of its contents._ 
+## **Step 2**: You should do some general research about the authors, the text, the contents. You will want to justify briefly the selection of texts in your assignment. You might even browse them briefly to know generally what they are about. This will help you to contextualize your findings. _This is important so that you are not studying the corpus without a general idea of its contents._ 
 
 > You want to choose texts which have something in common, but also can be thought about as different. The more you know about the texts, the more meaningful the "distant reading" will be. 
 
-**Step 3**: For this exercise you must use both (1) Voyant Tools and (2) the RMarkdown notebook in posit.cloud `Identifying the Most Distinctive Words in Three (Sets of) Texts`. The RMarkdown notebook in posit.cloud `Summarizing a text from Project Gutenberg in a wordcloud` is optional. 
+## **Step 3**: For this exercise you must use both (1) Voyant Tools and (2) the RMarkdown notebook in posit.cloud `Identifying the Most Distinctive Words in Three (Sets of) Texts`. The RMarkdown notebook in posit.cloud `Summarizing a text from Project Gutenberg in a wordcloud` is optional. 
 
 If you want to combine sets of texts from Project Gutenberg into one, you can do so by creating a list of ID numbers like this: 
 
 > gutenbergbook <- gutenberg_download(c(textID1, textID2, textID3, etc))
 
-**Step 4**: Build a set of screenshots from your exploratory analysis. Please be sure to include at least two (2) of them. 
+## **Step 4**: Build a set of screenshots from your exploratory analysis. Please be sure to include at least two (2) of them. 
 
-**Step 5**: Use one iframe from Voyant Tools so that you have one interactive visualization. You can get an iframe from the export URL tab. It is called an html snippet. One example looks like this: 
+## **Step 5**: Use one iframe from Voyant Tools so that you have one interactive visualization. You can get an iframe from the export URL tab. It is called an html snippet. One example looks like this: 
 
 ```
 <iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=8d8c7ce89087801d676ff4f77d5391fc'></iframe>
 ```
 
-**Step 6**: Find two (2) of the readings/resources from this term and include references to them in your essay. Feel free to refer to external resources.
+## **Step 6**: Find two (2) of the readings/resources from this term and include references to them in your essay. Feel free to refer to external resources.
 
 Consider the questions raised in class on making Markdown posts legible: using [Markdown Live Preview](https://markdownlivepreview.com/) and [Hemingway App](https://hemingwayapp.com/) as you compose your response.  Keep the F-shape principle for web writing in mind too!
 
-Guiding Questions (you do not need to answer all these questions):
+## Guiding Questions (you do not need to answer all these questions):
 
 - What did you know about the subject before you began your analysis? 
 - What does computer-assisted analysis allow you to see that you wouldn't have seen in a linear read? Would a linear read of all the texts have been possible in the time frame allotted? 
