@@ -11,19 +11,25 @@ tags:
 
 ## Guidelines for the Assignment:  
 
-The Corpus Assignment, otherwise known as Assignment 2, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and the RMarkdown files in posit.cloud. This assignment can be done alone or in pairs.
+The Corpus Assignment, otherwise known as Assignment 1, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and the RMarkdown files in posit.cloud. This assignment can be done alone or in pairs.
 
 This exercise has three main elements: (1) choosing a corpus of three texts (or three sets of texts) you would like to work with and (2) using digital textual analysis tools to see what kind of exploratory data analysis (EDA) you can do using that corpus, (3) assembling the evidence in a piece of web-facing written work along with visuals. 
 
 **Step 1**: You will need to pick your corpus from the choices below. 
 
 - A. Three different books by the same author taken from Project Gutenberg (perhaps in different genres or at different times of their career).
+ 
+For example, 
+
 - B. Three books on a similar topic from Project Gutenberg.
+
+For example, 
+
 - C. Three different sets of articles from a single class or multiple classes in your major. 
 
 You have the option of using three legitimate files, or substituting one of the files with a fake genAI created one, as we did in the case of the science fiction texts. Generating a text of equivalent length with genAI may take considerable extra effort. 
 
-Alternatively, you can source your text files from anywhere else, but if you make a custom corpus, please consult with the instructor before beginning. The texts can be short stories or articles, but not less than 1000-2000 words. If you choose your own files, include them in your assets folder and create links to them for your readers to examine. _If you are not working with texts from Project Gutenberg, then you will need to follow the instructions in the notebook for uploading your files._ 
+Alternatively, you can source your text files from anywhere else, but if you make a custom corpus, please consult with the instructor before beginning this process. The texts can be short stories or articles, but not less than 1000-2000 words. If you choose your own files, include a copy of all three of them in your assets folder and create links to them for your readers to examine. _If you are not working with texts from Project Gutenberg, then you will need to follow the instructions in the notebook for uploading your own files._ 
 
 **Step 2**: You should do some general research about the authors, the text, the contents. You will want to justify briefly the selection of texts in your assignment. You might even browse them briefly to know generally what they are about. This is important so that you are not studying the corpus without a general idea of its contents. 
 
