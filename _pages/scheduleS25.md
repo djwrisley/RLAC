@@ -43,7 +43,7 @@ toc_icon: "calendar"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/corpus-assignmentXXXX/)** Due 28 Feb, 20% final grade. 
+**ASSIGNMENT 1: Exploring Textual Data from a Custom Corpus. [Instructions](https://daahnyuad.github.io/blog/corpus-assignment1-S25/)** Due 28 Feb, 20% final grade. 
 {: .notice}
 
 ### Week 4 Computational Analysis of (Historical) Text
