@@ -9,7 +9,7 @@ tags:
   - S25
 ---
 
-## DRAFT Guidelines for the Assignment:  
+## Final Guidelines for the Assignment:  
 
 The Corpus Assignment, otherwise known as Assignment 1, will be completed in one step. It builds on work we did in the textual portion of the class, particularly with Voyant Tools and the RMarkdown files in posit.cloud. This assignment can be done alone or in pairs.
 
@@ -23,11 +23,11 @@ If you use the search function and look for `science fiction` you will find more
 
 Here are some other ideas in PG: 
 
-- Arthur Conan Doyle, famous for having written the Adventures of Sherlock Holmes, is the author of more than 150 books in PG and in many genres. Pick three. 
+- [Arthur Conan Doyle](https://gutenberg.org/ebooks/search/?query=Arthur+Conan+Doyle&submit_search=Go%21), famous for having written the Adventures of Sherlock Holmes, is the author of more than 150 books in PG and in many genres.
 
 - PG has five books by [Gandhi](https://gutenberg.org/ebooks/search/?query=gandhi&submit_search=Go%21) and a few more about him. 
 
-- PG has 60 texts by Sir Richard Burton(https://gutenberg.org/ebooks/author/898) and 
+- PG has 60 texts by [Sir Richard Burton](https://gutenberg.org/ebooks/author/898).
 
 ### B. Three books on a similar topic from Project Gutenberg.
 
