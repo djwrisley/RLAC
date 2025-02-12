@@ -25,7 +25,6 @@ Here are some other ideas in PG:
 
 - Arthur Conan Doyle, famous for having written the Adventures of Sherlock Holmes, is the author of more than 150 books in PG and in many genres. Pick three. 
 
-
 - B. Three books on a similar topic from Project Gutenberg.
 
 For example, if you use the search function and look for `artificial intelligence` you will find 20 science fiction novel(la)s on the topic. You could also look for terms such as `alien` or `abduction` or ``
@@ -38,7 +37,9 @@ For example, if you use the search function and look for `artificial intelligenc
 
 - You can also use keywords to find subject headings. For example, "women" will give you many hundreds of [groupings](https://gutenberg.org/ebooks/subjects/search/?query=women).
 
-- C. Three different sets of articles from a single class or multiple classes in your major. 
+- C. You could also choose three texts in a language other than English. NB: This will pose certain challenges in the analysis that you can write about in your assignment.  Check here for books in [Chinese](https://gutenberg.org/browse/languages/zh) [Dutch](https://gutenberg.org/browse/languages/nl) [Finnish](https://gutenberg.org/browse/languages/fi) [French](https://gutenberg.org/browse/languages/fr) [Italian](https://gutenberg.org/browse/languages/it) [Japanese](https://gutenberg.org/browse/languages/ja) [Portuguese](https://gutenberg.org/browse/languages/pt) [Russian](https://gutenberg.org/browse/languages/ru) [Serbian](https://gutenberg.org/browse/languages/sr) [Spanish](https://gutenberg.org/browse/languages/es) [Tagalog](https://gutenberg.org/browse/languages/tl) [Telugu](https://gutenberg.org/browse/languages/te).  There are other languages, but coverage is not uniform.  
+
+- D. Three different sets of articles from a single class or multiple classes in your major. 
 
 Whatever your choice may be, you have the option of using three legitimate files, or substituting one of the files with a fake genAI created one, as we did in the case of the science fiction texts. Generating a text of equivalent length with genAI may take considerable extra effort. 
 
