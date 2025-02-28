@@ -75,15 +75,12 @@ toc_icon: "calendar"
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 25 February 3:35PM-6:15PM | <br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 <br> -[The Sultanate of Zanzibar](https://www.blackpast.org/global-african-history/sultanate-zanzibar-1856-1964/) <br> -[Zanzibar (Wikipedia)](https://en.wikipedia.org/wiki/Zanzibar) | <br> -Visit to Special Collections and Lab <br> -Hands on with the [UFO dataset](https://www.kaggle.com/datasets/NUFORC/ufo-sightings?select=scrubbed.csv) and [kepler](kepler.gl) |
-| Thurs, 27 February 3:35PM-4:50PM | <br> -[Exploring Spatial Projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit)  <br> -"[A Place for Plant Data](https://doi.org/10.7551/mitpress/11543.001.0001)" (Loukissas) <br> -"Mapping" (Wilson, in drive) | <br> -discussion of structured data from a corpus <br> -presentation of Assignment 2 | 
+| Tues, 25 February 3:35PM-6:15PM | <br> -Drucker, [ch 8](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 130-150 <br> -[The Sultanate of Zanzibar](https://www.blackpast.org/global-african-history/sultanate-zanzibar-1856-1964/) <br> -[Zanzibar (Wikipedia)](https://en.wikipedia.org/wiki/Zanzibar) <br> -Make an account at [OpenStreetMap](https://www.openstreetmap.org/search?query=Saadiyat+island#map=13/24.53197/54.43082) | <br> -Visit to Special Collections and Lab <br> -Hands on with the [UFO dataset](https://www.kaggle.com/datasets/NUFORC/ufo-sightings?select=scrubbed.csv) (in Drive) and [kepler](kepler.gl) |
+| Thurs, 27 February 3:35PM-4:50PM | <br> -[Exploring Spatial Projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit)  <br> -"[A Place for Plant Data](https://doi.org/10.7551/mitpress/11543.001.0001)" (Loukissas) <br> -"Mapping" (Wilson, in drive) | <br> -discussion of structured data  | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 **Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-assignment-SXX/)**, Due Date 6 March, total 10% of final grade, this part being 5%.
-{: .notice}
-
-**ASSIGNMENT 2: "Wrangle" data from a historical source, the [Gazette of Zanzibar](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) to build and visualize a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/XXX//)** Due 22 March, 20% final grade. 
 {: .notice}
 
 **Ramadan begins around here**
@@ -93,9 +90,12 @@ toc_icon: "calendar"
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 4 March 3:35PM-6:15PM | <br> -Broman and Woo, "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", 2018, 2-8 <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109 <br> -"[Why We Should Digitize Historical Newspapers](https://web.archive.org/web/20240628020226/https://minorecs.hypotheses.org/495)", "[How Do we Digitize Historic Newspapers?](https://www.youtube.com/watch?v=XDa-KDsWYb4)",  | Lab: GPT, Information Extraction and Digitized Historical Documents |
-| Thurs, 6 March 3:35PM-4:50PM | Choosing pages from the Zanzibar Gazette | <br> -Hands on <br> -An R Markdown Notebook for visualizing spatial data | 
+| Tues, 4 March 3:35PM-6:15PM | <br> -Broman and Woo, "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", 2018, 2-8 <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109 <br> -"[Why We Should Digitize Historical Newspapers](https://web.archive.org/web/20240628020226/https://minorecs.hypotheses.org/495)", "[How Do we Digitize Historic Newspapers?](https://www.youtube.com/watch?v=XDa-KDsWYb4)",  | <br> -Lab: LLMs, Information Extraction and Digitized Historical Documents 
+<br> -theme exploration across all the ZG issues <br> -presentation of Assignment 2 |
+| Thurs, 6 March 3:35PM-4:50PM | <br> -"Thick Mapping" [Hypercities](https://escholarship.org/content/qt3mh5t455/qt3mh5t455.pdf), pp. 49-65. | <br> -Hands on <br> - Choosing topics from the Zanzibar Gazette <br> -An R Markdown Notebook for visualizing spatial data | 
 
+**ASSIGNMENT 2: "Wrangle" data from a historical source, the [Gazette of Zanzibar](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) to build and visualize a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/XXX//)** Due 30 March, 20% final grade. 
+{: .notice}
 
 **Spring Break and Eid** If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break. It's all about spatial data!
 {: .notice}
@@ -103,12 +103,16 @@ toc_icon: "calendar"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-### Week 8 TBA
+### Week 8 Humanitarian Mapping
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 18 March 3:35PM-6:15PM | Instructor at a conference -- Activities TBA | Google Space contributions |
-| Thurs, 20 March 3:35PM-4:50PM | Instructor at a conference -- Activities TBA | Google Space contributions | 
+| Tues, 18 March 3:35PM-6:15PM | <br> -Instructor at a conference <br> -[Spatial Microtasking and Humanitarian OSM](https://dl.acm.org/doi/pdf/10.1145/3637390) | Google Space contributions |
+| Thurs, 20 March 3:35PM-4:50PM | <br> -Instructor at a conference <br> -Explore some [HotOSM projects](https://www.hotosm.org/our-work) | <br> -Google Space contributions <br> -Choose one HotOSM project and explain in the Google Space (in about 150-200 words with links or images) what it attempts to do | 
+
+**EXTRA CREDIT OPPORTUNITY: Missing Maps Abu Dhabi** NYUAD Civic Engagement & Service is hosting a [Mapathon](https://engage.nyuad.nyu.edu/event/11065726) of the humanitarian sort we discussed in class (suhoor provided) on 19 March from 9:30-11:30PM. To avail yourself of the extra credit, you should register for the event, attend and then write a post about what you learned. Address the article "Productivity or Equity?" if appropriate.  Due Date: 26 March, 1-2 points on Assignment 2. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
+{: .notice}
+
 
 ### Week 9 AI and Maps
 
