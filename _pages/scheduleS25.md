@@ -90,7 +90,7 @@ toc_icon: "calendar"
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 4 March 3:35PM-6:15PM | <br> -Broman and Woo, "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", 2018, 2-8 <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109 <br> -"[Why We Should Digitize Historical Newspapers](https://web.archive.org/web/20240628020226/https://minorecs.hypotheses.org/495)", "[How Do we Digitize Historic Newspapers?](https://www.youtube.com/watch?v=XDa-KDsWYb4)",  | <br> -Lab: LLMs, Information Extraction and Digitized Historical Documents 
+| Tues, 4 March 3:35PM-6:15PM | <br> -Broman and Woo, "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", 2018, 2-8 <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109 <br> -"[Why We Should Digitize Historical Newspapers](https://web.archive.org/web/20240628020226/https://minorecs.hypotheses.org/495)", "[How Do we Digitize Historic Newspapers?](https://www.youtube.com/watch?v=XDa-KDsWYb4)",  | <br> -Lab: Share back about the [sample spatial projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit?tab=t.0) <br> -LLMs, Information Extraction and Digitized Historical Documents 
 <br> -theme exploration across all the ZG issues <br> -presentation of Assignment 2 |
 | Thurs, 6 March 3:35PM-4:50PM | <br> -"Thick Mapping" [Hypercities](https://escholarship.org/content/qt3mh5t455/qt3mh5t455.pdf), pp. 49-65. | <br> -Hands on <br> - Choosing topics from the Zanzibar Gazette <br> -An R Markdown Notebook for visualizing spatial data | 
 
@@ -100,7 +100,6 @@ toc_icon: "calendar"
 **Spring Break and Eid** If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break. It's all about spatial data!
 {: .notice}
  
-
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
 ### Week 8 Humanitarian Mapping
