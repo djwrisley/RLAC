@@ -80,7 +80,7 @@ toc_icon: "calendar"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-assignment-SXX/)**, Due Date 6 March, total 10% of final grade, this part being 5%.
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-assignment-SXX/)**, Due Date 22 March, total 10% of final grade, this part being 5%.
 {: .notice}
 
 **Ramadan begins around here**
@@ -105,10 +105,10 @@ toc_icon: "calendar"
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 18 March 3:35PM-6:15PM | <br> -Instructor at a conference <br> -[Spatial Microtasking and Humanitarian OSM](https://dl.acm.org/doi/pdf/10.1145/3637390) | Google Space contributions |
+| Tues, 18 March 3:35PM-6:15PM | <br> -Instructor at a conference <br> -Krupar, [Map Power and Map Methodologies for Social Justice](https://www.jstor.org/stable/43773699)  <br> -[Spatial Microtasking and Humanitarian OSM](https://dl.acm.org/doi/pdf/10.1145/3637390) | Google Space contributions |
 | Thurs, 20 March 3:35PM-4:50PM | <br> -Instructor at a conference <br> -Explore some [HotOSM projects](https://www.hotosm.org/our-work) | <br> -Google Space contributions <br> -Choose one HotOSM project and explain in the Google Space (in about 150-200 words with links or images) what it attempts to do | 
 
-**EXTRA CREDIT OPPORTUNITY: Missing Maps Abu Dhabi** NYUAD Civic Engagement & Service is hosting a [Mapathon](https://engage.nyuad.nyu.edu/event/11065726) of the humanitarian sort we discussed in class (suhoor provided) on 19 March from 9:30-11:30PM. To avail yourself of the extra credit, you should register for the event, attend and then write a post about what you learned. Address the article "Productivity or Equity?" if appropriate.  Due Date: 26 March, 1-2 points on Assignment 2. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
+**TWO EXTRA CREDIT OPPORTUNITIES: (1) Missing Maps Abu Dhabi** NYUAD Civic Engagement & Service is hosting a Mapathon, signup [here](https://docs.google.com/forms/d/e/1FAIpQLSd5hexsrTpQO_ioGwy_U4i4fkwKpN1iOW06VgeFfIyrYmhdWw/viewform) of the humanitarian sort we discussed in class (suhoor provided) on 19 March from 9:30-11:30PM. (2) A humanist’s Intro to VS Studio Code that teaches you the fundmentals of Visual Studio Code, signups [here](https://nyu.libcal.com/event/14218477). Please do not choose this option if you are already using VSC. Include in your writeup a comparison using screenshots of how you have been using sublime Text this term. To avail yourself of either extra credit opportunity, you should register for the event, attend and then write a post about what you learned. For the Missing Maps address either of the two readings for the week "Productivity or Equity?" or "Map Power and Map Methdologies".  Due Date: 26 March, 1-2 points on Assignment 2. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
 {: .notice}
 
 
