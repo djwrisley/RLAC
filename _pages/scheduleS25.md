@@ -80,7 +80,7 @@ toc_icon: "calendar"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-assignment-SXX/)**, Due Date 22 March, total 10% of final grade, this part being 5%.
+**Digital Literacy Narrative Revision #1 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 30 March, total 10% of final grade, this part being 5%.
 {: .notice}
 
 **Ramadan begins around here**
@@ -93,7 +93,7 @@ toc_icon: "calendar"
 | Tues, 4 March 3:35PM-6:15PM | <br> -Broman and Woo, "[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989?src=)", 2018, 2-8 <br> -Drucker, [ch 6](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker), 86-109 <br> -"[Why We Should Digitize Historical Newspapers](https://web.archive.org/web/20240628020226/https://minorecs.hypotheses.org/495)", "[How Do we Digitize Historic Newspapers?](https://www.youtube.com/watch?v=XDa-KDsWYb4)",  | <br> -Lab: Share back about the [sample spatial projects](https://docs.google.com/document/d/1xrmuhiaIKOfWo99H0fNaSqQH7Y4uhzGNsnS66DljsNs/edit?tab=t.0) <br> -LLMs, Information Extraction and Digitized Historical Documents <br> -theme exploration across all the ZG issues  |
 | Thurs, 6 March 3:35PM-4:50PM | <br> -"Thick Mapping" [Hypercities](https://escholarship.org/content/qt3mh5t455/qt3mh5t455.pdf), pp. 49-65. | <br> -Hands on <br> - Finalize topics from the [Zanzibar Gazette](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) <br> -presentation of Assignment 2 | 
 
-**ASSIGNMENT 2: "Wrangle" data from a historical source, the [Gazette of Zanzibar](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) to build and visualize a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/XXX//)** Due 30 March, 20% final grade. 
+**ASSIGNMENT 2: "Wrangle" data from a historical source, the [Gazette of Zanzibar](https://britishonlinearchives.com/collections/77/volumes/545/tanzania-zanzibar-1892-1919?filters[query]=&filters[className]=document) to build and visualize a spatial dataset. [Instructions](https://daahnyuad.github.io/blog/Assignment2-S25/)** Due 15 April, 20% final grade. 
 {: .notice}
 
 **Spring Break and Eid** If you can find it, watch the German Netflix mini series, [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) over the break. It's all about spatial data!
@@ -108,16 +108,16 @@ toc_icon: "calendar"
 | Tues, 18 March 3:35PM-6:15PM | <br> -Instructor at a conference <br> -Krupar, [Map Power and Map Methodologies for Social Justice](https://www.jstor.org/stable/43773699)  <br> -[Spatial Microtasking and Humanitarian OSM](https://dl.acm.org/doi/pdf/10.1145/3637390) | Google Space contributions |
 | Thurs, 20 March 3:35PM-4:50PM | <br> -Instructor at a conference <br> -Explore some [HotOSM projects](https://www.hotosm.org/our-work) | <br> -Google Space contributions <br> -Choose one HotOSM project and explain in the Google Space (in about 150-200 words with links or images) what it attempts to do | 
 
-**TWO EXTRA CREDIT OPPORTUNITIES: (1) Missing Maps Abu Dhabi** NYUAD Civic Engagement & Service is hosting a Mapathon, signup [here](https://docs.google.com/forms/d/e/1FAIpQLSd5hexsrTpQO_ioGwy_U4i4fkwKpN1iOW06VgeFfIyrYmhdWw/viewform) of the humanitarian sort we discussed in class (suhoor provided) on 19 March from 9:30-11:30PM. (2) **A Humanist’s Intro to VS Studio Code** that teaches you the fundmentals of Visual Studio Code, another text editor many people use to work with GitHub, signups [here](https://nyu.libcal.com/event/14218477). Please do not choose this option if you are already using VSC. Include in your writeup a comparison using screenshots of how you have been using sublime Text this term. To avail yourself of either extra credit opportunity, you should register for the event, attend and then write a post about what you learned. For the Missing Maps address either of the two readings for the week "Productivity or Equity?" or "Map Power and Map Methdologies".  Due Date: 26 March, 1-2 points on Assignment 2. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
+**TWO EXTRA CREDIT OPPORTUNITIES:** A Humanist’s Intro to VS Studio Code** that teaches you the fundmentals of Visual Studio Code, another text editor many people use to work with GitHub, signups [here](https://nyu.libcal.com/event/14218477). Please do not choose this option if you are already using VSC. Include in your writeup a comparison using screenshots of how you have been using sublime Text this term. To avail yourself of either extra credit opportunity, you should register for the event, attend and then write a post about what you learned. Due Date: 26 March, 1-2 points on Assignment 2. Guidelines on writing extra credit posts can be found [here](https://daahnyuad.github.io/blog/guidelines-extra-credit/).
 {: .notice}
 
 
-### Week 9 AI and Maps
+### Week 9 More Maps
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 25 March 3:35PM-6:15PM | <br> -Classifying Soviet Map Features  <br> -"[The Soviet Military Program that Secretly Mapped the Entire World](https://www.nationalgeographic.com/history/article/maps-soviet-union-ussr-military-secret-mapping-spies) <br> -[Soviet Mapping of the World](https://www.geamap.com/en/soviet#2/37.3/-4.9), 2017 | Working with MapReader and [Soviet Maps of the UAE from 1978](https://geo.nyu.edu/catalog/nyu-2451-34737) |
-| Thurs, 27 March 3:35PM-4:50PM | <br> -general discussion | <br> -questions regarding Assignment 2 | 
+| Tues, 25 March 3:35PM-6:15PM |  |  |
+| Thurs, 27 March 3:35PM-4:50PM | <br> -work on Assignment 2 | <br> -questions regarding Assignment 2 | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
