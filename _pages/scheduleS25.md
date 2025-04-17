@@ -136,7 +136,7 @@ toc_icon: "calendar"
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 | Tues, 15 April 3:35PM-6:15PM |  <br> -Orange Data Mining day  <br> -[Clustering vs classification](https://datarundown.com/clustering-vs-classification/) | Lab:  <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images)  |
-| Thurs, 17 April 3:35PM-4:50PM | <br> -Discussion of Lang and Ommer, Impett and Offert, Fuchsgruber <br> -[Exploring pre-assembled datasets with CLIP](https://leoimpett.github.io/2dclip) <br> -[DV Explorer](https://distantviewing.org/dvexplorer/pages/welcome/) | <br> -Discussion of How to Build an Image Corpus <br> -Journal of Open Humanities Data <br> -Zenodo | 
+| Thurs, 17 April 3:35PM-4:50PM | <br> -Discussion of Lang and Ommer, Impett and Offert, Fuchsgruber <br> -[Exploring pre-assembled datasets with CLIP](https://leoimpett.github.io/2dclip) <br> -[DV Explorer 2.1-2.7 and 5.1-5.2](https://distantviewing.org/dvexplorer/pages/welcome/) | <br> -Discussion of How to Build an Image Corpus <br> -Journal of Open Humanities Data <br> -Zenodo | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
