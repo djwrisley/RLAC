@@ -128,19 +128,20 @@ toc_icon: "calendar"
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
 | Tues, 8 April 3:35PM-6:15PM | <br> -"[How We Teach Computers to Understand Pictures](https://www.youtube.com/watch?v=40riCqvRoMs)" (Li) <br> -Learning about Orange Data Mining <br> -[Clustering Monet and Manet](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) <br> -Drimmer, "[How AI is Hijacking Art History](https://theconversation.com/how-ai-is-hijacking-art-history-170691)" <br> -Binkyte, "[Distant Reading and Viewing: “Big Questions” in Digital Art History and Digital Literary Studies](https://dhq-static.digitalhumanities.org/pdf/000686.pdf)" | In class exploration: <br> -[WCMA digital project](https://artmuseum.williams.edu/wcma-digital-project/) <br> -[Selfie City](https://selfiecity.net/) <br> -[Photogrammar](https://photogrammar.org/maps) <br> -Looking for Patterns in Image Collections with [IMJ](http://www.zachwhalen.net/pg/imj/) <br> -Exploring Image Clustering with Orange |
-| Thurs, 10 April  3:35PM-4:50PM | <br> -[Download Orange Data Mining](https://orangedatamining.com/) <br> -Lang and Ommer "[Transforming Information Into Knowledge: How Computational Methods Reshape Art History](https://dhq-static.digitalhumanities.org/pdf/000560.pdf)"  <br> -Impett and Offert, "[There is a Digital Art History"](https://www.tandfonline.com/doi/full/10.1080/01973762.2024.2362466#d1e113) <br> -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | <br> -Discussion of "Distant Viewing" <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images) | 
+| Thurs, 10 April  3:35PM-4:50PM | <br> -[Download Orange Data Mining](https://orangedatamining.com/) <br> -Lang and Ommer "[Transforming Information Into Knowledge: How Computational Methods Reshape Art History](https://dhq-static.digitalhumanities.org/pdf/000560.pdf)"  <br> -Impett and Offert, "[There is a Digital Art History"](https://www.tandfonline.com/doi/full/10.1080/01973762.2024.2362466#d1e113) <br> -Fuchsgruber, "[Dead End or Way Out?: Generating Critical Information about Painting Collections Using AI"](https://doi.org/10.14361/9783839467107-007) | <br> -Discussion of "Distant Viewing" | 
 
-**ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining and the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/XXX//)** Due 2 May, 20% final grade. 
-{: .notice}
 
 ### Week 11 "Looking at and through the algorithm"
 
 | Time/Date | Reading/Material | Activity |
 | :--- | :--- | :--- |
-| Tues, 15 April 3:35PM-6:15PM |  | Lab: <br> -[Exploring pre-assembled datasets with CLIP](leoimpett.github.io/2dclip) <br> -[DV Explorer](https://distantviewing.org/dvexplorer/pages/welcome/) |
-| Thurs, 17 April 3:35PM-4:50PM | More Exploration of DV Explorer | Discussion of How to Build an Image Corpus | 
+| Tues, 15 April 3:35PM-6:15PM |  <br> -Orange Data Mining day  <br> -Clustering vs classification | Lab:  <br> -Clustering of Image Datasets with Orange using different datasets (William Wegman portraits, Arabic magazine covers, manga photos, Ramadan images)  |
+| Thurs, 17 April 3:35PM-4:50PM | <br> -Discussion of Lang and Ommer, Impett and Offert, Fuchsgruber <br> -[Exploring pre-assembled datasets with CLIP](leoimpett.github.io/2dclip) <br> -[DV Explorer](https://distantviewing.org/dvexplorer/pages/welcome/) |  | 
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
+
+**ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining and the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/XXX//)** Due 2 May, 20% final grade. 
+{: .notice}
 
 ### Week 12 Computer Vision and Historical Images
 
