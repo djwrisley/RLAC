@@ -1,5 +1,5 @@
 ---
-title: "Assignment 3 Visual AI and Culture S 25"
+title: "Assignment 3 Visual AI and Culture S25"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -13,7 +13,7 @@ tags:
 
 ## DRAFT Guidelines for the Assignment:  
 
-In this assignment we will continue to work with materials and algorithms discussed in class. We will use Orange Data Mining and DV Explorer to carry out this task and to write a small critical essay. This can be worked on in pairs, or alone. 
+In this assignment we will continue to work with materials and algorithms discussed in class. We will use Orange Data Mining, 2DCLIP and DV Explorer to carry out this task and to write a small critical essay. This can be worked on in pairs, or alone. 
 
 ### Part One: 
 
@@ -26,7 +26,7 @@ You should choose a corpus of images (you should have at least 75).
 - a dataset of images from a cultural domain is required, one about which you know a little *or a lot* is welcome. 
 - it does not have to be "high" cultural or from the GLAM sector. 
 - it does not have to be designed with computation in mind.
-- it should address something that you suspect is not close to Microsoft COCO or Google's Inception. 
+- it should address something that you suspect is not close to Microsoft COCO or Google's Inception training. 
 - its collection can be automated, but does not have to be.
 - it should not have faces of people in them.  
 
@@ -66,7 +66,7 @@ In your write up, you should include insights and ideas from the new book Distan
 
 Make sure that you include images from your analysis. 
 
-### Part Three:
+### Part Four:
 
 In the third computational exercise, I want you to work with multimodal models and your image corpus. 
 
