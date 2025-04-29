@@ -7,6 +7,7 @@ tags:
   - Assignments
   - Corpora
   - F25
+  - distant viewing
   - images
 ---
 
