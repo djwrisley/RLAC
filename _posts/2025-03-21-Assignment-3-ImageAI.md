@@ -14,13 +14,11 @@ tags:
 
 ## DRAFT Guidelines for the Assignment:  
 
-In this assignment we will continue to work with materials and algorithms discussed in class. We will use Orange Data Mining, 2DCLIP and DV Explorer to carry out this task and to write a small critical essay. This can be worked on in pairs, or alone. 
+In this assignment we will continue to work with materials and algorithms discussed in class to explore a custom-made corpus of digital images. We will use Orange Data Mining, 2DCLIP and DV Explorer to explore this corpus and then write a small critical essay based on our findings. This can be worked on in pairs, or alone. 
 
 ### Part One: 
 
-The very first thing you have to do is to build an image dataset, a corpus. 
-
-You should choose a corpus of images (you should have at least 75).
+The very first thing you have to do is to build an image dataset, a corpus. You should choose a corpus of images, made up of at least 75 images.  
 
 ## Guidelines for the Corpus building exercise: 
 
@@ -31,7 +29,11 @@ You should choose a corpus of images (you should have at least 75).
 - its collection can be automated, but does not have to be.
 - it should not have faces of people in them.  
 
-Tips on automating the collection. 
+## Tips on automating the collection: 
+
+You could think about automating this process by using certain extensions such as Image Downloader, or by learning how to scrape images. Remember that part of building a corpus will be the organization of those images into categories, and potentially the renaming of them. You will want to keep track of where you get them and cite that as part of your corpus building exercise. 
+
+You may end up collecting some of the images and then removing or adding others later, particularly in the move between part two and parts three and four. 
 
 
 ### Part Two: 
@@ -46,13 +48,13 @@ I suggest you use this part of the assignment to do some exploratory data analys
 - Using hierarchical clustering, isolate specific clusters to look more closely.
 - How "in reading a corpus of visual culture through a neural network, [are you] always also doing the reverse?" (Impett and Offert, 2024)
 
-Make screenshots of the main image plot you generate and annotate it with labels (just typed on manually with a program like Preview) which illustrate in your opinion what combination of features are represented in each of the four quadrants of the plot. Caption the image with the relevant information (i.e. Image Plot generated with Orange Data Mining and the algorithm of your choice). Also include image plot of specific clusters that can help you to understand how the out-of-the-box algorithms (think of the [Monet/Manet video](https://orangedatamining.com/blog/clustering-of-monet-and-manet/) here)
+Make screenshots of the main image plot you generate and annotate it with labels (just typed on manually with a program like Preview) which illustrate in your opinion what combination of features are represented in each of the four quadrants of the plot. Caption the image with the relevant information (i.e. Image Plot generated with Orange Data Mining and the algorithm of your choice). Also include image plot of specific clusters that can help you to understand how the out-of-the-box algorithms (think of the [Monet/Manet video](https://orangedatamining.com/blog/clustering-of-monet-and-manet/)).
 
 Be sure to comment on how differently you see the images. 
 
 ### Part Three:
 
-In the second computaitonal exercise you will categorize the images into at least two different groupings. The categorization is carried out by placing them into folders (bearing a descriptive title). This means that for the purposes of your assignment, you should have two or three copies of the same images, but with specific file names and organized in different folders according to categories you have chosen (e.g. size, shape, color OR origin, quantity, size). For best results, your classification system should be sure to have a somewhat equal number of images in every category. 
+In the second computational exercise you will categorize the images into at least two different groupings. The categorization is carried out by placing them into folders (bearing a descriptive title). This means that for the purposes of your assignment, you should have two or three copies of the same images, but with specific file names and organized in different folders according to categories you have chosen (e.g. size, shape, color OR origin, quantity, size). For best results, your classification system should be sure to have a somewhat equal number of images in every category. 
 
 For each of the sets of images, please generate a confusion matrix and assess the ability of the algorithm to predict the categories you have chosen. Remember that you can click on the box where there has been misclassification and visualize the misclassified objects in the viewer. 
 
@@ -81,4 +83,4 @@ How does CLIP or the DV explorer organize your materials?
 
 
 
-Due:  May 2024, 1500 words maximum. 
+Due: 11 May 2024, noon, 1500 words maximum. 
