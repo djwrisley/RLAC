@@ -140,7 +140,7 @@ toc_icon: "calendar"
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
 
-**ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining and the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/XXX//)** Due 2 May, 20% final grade. 
+**ASSIGNMENT 3: Constructing an Image Dataset and using Orange Data Mining, 2DCLIP and the DV Explorer to analyze it. [Instructions](https://daahnyuad.github.io/blog/Assignment-3-ImageAI/)** Due 2 May, 20% final grade. 
 {: .notice}
 
 ### Week 12 Computer Vision and Historical Images
