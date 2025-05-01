@@ -150,7 +150,7 @@ toc_icon: "calendar"
 | Tues, 22 Apr 3:35PM-6:15PM | <br> -Browse the book: [Distant Viewing: Computational Exploration of Digital Images](https://direct.mit.edu/books/oa-monograph/5674/Distant-ViewingComputational-Exploration-of) | Lab: R Markdown Notebooks for Color, Object Detection and Face Detection|
 | Thurs, 24 April 3:35PM-4:50PM | Continuing CV | <br> -Discussion <br> -Questions about Assignment 3 | 
 
-**Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S24/)**, Due Date 2 May 2024, 5% final grade.
+**Digital Literacy Narrative Revision #2 : instructions [here](https://daahnyuad.github.io/blog/DLN-Assignment-S25/)**, Due Date 11 May 2024, 5% final grade.
 {: .notice}
 
 [Top](https://daahnyuad.github.io/schedule/#unit-1-data-in-the-arts-and-humanities) 
