@@ -97,7 +97,4 @@ Since this is a visual assignment, you are not limited in the number of images y
 
 
 
-Due Date for this assignment: 11 May 2025, noon. 
-
-
-Due: 11 May 2024, noon, 1500 words maximum. 
+Due Date for this assignment: 11 May 2025, noon, 1500 words maximum. 
