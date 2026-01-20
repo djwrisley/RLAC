@@ -6,7 +6,7 @@ permalink: /
 
 ## Reading Like a Computer 
 
-- **Spring 2026 (XXXX)**
+- **Spring 2026 (19958) Section 1**
 - **Number of credits**: 4 (14 weeks)
 - **Instructor**: David Wrisley (djw12@)
 - **Pre-requisites or co-requisites**: none
