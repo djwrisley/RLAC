@@ -1,11 +1,29 @@
 main:
-  - title: "Schedule"
-    url: /schedule/
-  - title: "Materials"
-    url: /materials/
+  - title: "Home"
+    url: /RLAC/
+  
   - title: "Outcomes"
-    url: /outcomes/   
+    url: /RLAC/outcomesS26/
+  
+  - title: "Schedule"
+    url: /RLAC/scheduleS26/
+  
   - title: "Assessment"
-    url: /assessment/  
+    url: /RLAC/assessmentS26/
+  
+  - title: "Assignments"
+    children:
+      - title: "Rubrics"
+        url: /RLAC/assignments/rubrics26/
+      - title: "Response Guidelines"
+        url: /RLAC/assignments/response-guidelines26/
+      - title: "Assignment 1"
+        url: /RLAC/assignments/assignment-1-guidelinesS26/
+      - title: "Assignment 2"
+        url: /RLAC/assignments/assignment-2-guidelinesS26/
+      - title: "Final Assignment"
+        url: /RLAC/assignments/assignment-3-guidelinesS26/
+
   - title: "Tags"
-    url: /tags/
+    url: /RLAC/tag-archive/
+ 
