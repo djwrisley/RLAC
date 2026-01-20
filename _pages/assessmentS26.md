@@ -20,26 +20,23 @@ Active participation is essential for success in this course. This includes:
 - Completing in-class exercises and workshops
 - Contributing to peer learning and collaborative work
 
-**Note:** Attendance is mandatory. If you do not attend class sessions, it will not be possible to complete coursework and receive higher than a C.
+**Note:** Attendance is mandatory. If you do not attend class sessions, it will not be possible to complete coursework and receive higher than a C. Typically, 2-3 absences are tolerated.
 
 ---
 
-### Written Responses (30%)
+### Written Responses (15%)
 
-You will complete 3 written responses throughout the semester, each worth up to 10 points.
+You will complete 3 written responses throughout the semester, each worth up to 5 points.
 
-**Purpose:** These responses allow you to reflect on conceptual issues raised in class, practice web-based academic writing, and develop a public scholarly voice.
+**Purpose:** These responses allow you to reflect on conceptual issues raised in class, practice web-based academic writing, and develop a public scholarly voice. In particular this will fall just before the assignment for each section of the course.
 
 **Format and Length:**
-- Typically 750–1,000 words, plus well-chosen visuals
+- Typically 750–1,000 words, plus any needed visuals
 - Published on your individual course website
-- Media-rich format combining text, images, and/or interactive elements
 
 **Types of Responses:**
 - Reflective pieces on conceptual issues or course themes
-- Lab reports on experiments and projects you've conducted
 - Critical analyses of tools, methods, or course readings
-- Case studies applying course concepts to new contexts
 
 **Submission Dates:**
 - Response 1: Friday, March 7
@@ -59,6 +56,7 @@ These two open-ended assignments apply course methods to new contexts and texts.
 - Approximately 1,500 words each (plus visualizations)
 - Combines written analysis with digital outputs or demonstrations
 - Published on your course website
+- Media-rich format combining text, images, and/or interactive elements
 
 **Detailed instructions and rubrics will be provided in the [Assignments](../assignments/assignment-1-guidelines/) section.**
 
