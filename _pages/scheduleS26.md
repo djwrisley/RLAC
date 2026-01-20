@@ -53,14 +53,13 @@ What does it mean to read like a computer? What does it mean to write for a non-
 
 ### Week 2 (Jan 27, 29)
 **Topic:** Reading, Fast and Slow, Close and Distant  / Reading All of Anything 
-Exploring different reading strategies: close reading vs. distant reading, slow reading vs. fast reading. What can each approach tell us? How do we work with large amounts of text? What are corpora?
+
+Exploring different reading strategies: close reading vs. distant reading, slow reading vs. fast reading, summarizing with an LLM. What can each approach tell us? What do they miss? How do we work with large amounts of text? What are corpora?
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 27 Jan | <br> -Create a GitHub account (if you don't have one) <br> - Install a text editor (VSCode) <br> -Install Github Desktop <br> -Can Computers Read (Literature)? (Kestemont / Herman) | <br> -The Pitfalls of Using Google Ngram |  |  
-
-Explore: Google n-gram vs. BookWorm (extra: tutorial for HT+Bookworm and "My Secret Editing Weapon") 
-| 29 Jan | <br> -What is Fan Fiction? <br> -Harry Potter fandom <br> -Listen: Distant Reading (a conversation Ama Bemma Adwetewa_Badu) - 14 mins <br> - [What is Markdown? Why Use it?](https://www.markdownguide.org/getting-started/) | <br> - Explore Harry Potter fan fiction with an Rmd notebook (source: AOOO) with a selection of the 390K+ fan fiction in the course drive. | 
+| 27 Jan | <br> -Create a [GitHub account](https://github.com) (if you don't have one) <br> - Install a [text editor](https://code.visualstudio.com/download) (eg, VSCode) <br> -Install [Github Desktop](https://desktop.github.com/download/) <br> -[Can Computers Read (Literature)?](http://doi.org/10.6092/issn.2532-8816/8511) (Kestemont / Herman) | <br> -[The Pitfalls of Using Google Ngram}(https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/) <br> -[Google n-gram](https://books.google.com/ngrams/) vs. [BookWorm](https://bookworm.htrc.illinois.edu/develop/) <br> -"My Secret Editing Weapon" | <br> -Discussion <br> -Gentle Introduction to Github Pages|  
+| 29 Jan | <br> -[What is Fan Fiction?](https://en.wikipedia.org/wiki/Fan_fiction) <br> -[Harry Potter fandom](https://en.wikipedia.org/wiki/Harry_Potter_fandom) <br> - [What is AOOO?](https://en.wikipedia.org/wiki/Archive_of_Our_Own) <br> -Listen: Distant Reading (a conversation Ama Bemma Adwetewa_Badu) - 14 mins <br> - [What is Markdown? Why Use it?](https://www.markdownguide.org/getting-started/) | <br> -Discussion of openness in the age of AI <br> -Explore Harry Potter fan fiction with an Rmd notebook (source: AOOO) with a selection of the 390K+ fan fiction in the course drive. | 
 
 ### Week 3 (Feb 3, 5)
 **Topic:**  Voyant and Project Gutenberg  
