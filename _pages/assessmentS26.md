@@ -26,7 +26,7 @@ Active participation is essential for success in this course. This includes:
 
 ### Written Responses (30%)
 
-You will complete 4 written responses throughout the semester, each worth up to 10 points.
+You will complete 3 written responses throughout the semester, each worth up to 10 points.
 
 **Purpose:** These responses allow you to reflect on conceptual issues raised in class, practice web-based academic writing, and develop a public scholarly voice.
 
@@ -49,11 +49,11 @@ You will complete 4 written responses throughout the semester, each worth up to 
 
 ---
 
-### Two Assignments (30% total — 15% each)
+### Three Assignments (45% total — 15% each)
 
 These two open-ended assignments apply course methods to new contexts and texts.
 
-**Purpose:** To develop practical skills in computational text analysis and to practice critical communication about technology and interpretation.
+**Purpose:** To develop practical skills in computational text analysis and to practice critical thinking and evaluation about technology and humanities data.
 
 **Format and Length:**
 - Approximately 1,500 words each (plus visualizations)
@@ -66,11 +66,7 @@ These two open-ended assignments apply course methods to new contexts and texts.
 - Assignment 1: Friday, May 1
 - Assignment 2: Friday, May 23
 
----
-
-### Final Project (30%)
-
-A project-based assignment in which you will analyze a corpus of your choice using computational methods.
+___
 
 **Purpose:** To demonstrate mastery of course concepts and methods through independent research and creative data storytelling.
 
