@@ -1,29 +1,30 @@
 main:
   - title: "Home"
-    url: /index.html
+    url: /
   
   - title: "Outcomes"
-    url: /outcomesS26/
+    url: /outcomes/
   
   - title: "Schedule"
-    url: /scheduleS26/
+    url: /schedule/
   
   - title: "Assessment"
-    url: /assessmentS26/
+    url: /assessment/
   
   - title: "Assignments"
     children:
       - title: "Rubrics"
-        url: /assignments/rubrics26/
+        url: /assignments/rubrics/
       - title: "Response Guidelines"
-        url: /assignments/response-guidelines26/
+        url: /assignments/response-guidelines/
       - title: "Assignment 1"
-        url: /assignments/assignment-1-guidelinesS26/
+        url: /assignments/assignment-1-guidelines/
       - title: "Assignment 2"
-        url: /assignments/assignment-2-guidelinesS26/
+        url: /assignments/assignment-2-guidelines/
       - title: "Final Assignment"
-        url: /assignments/assignment-3-guidelinesS26/
+        url: /assignments/final-assignment-guidelines/
 
   - title: "Tags"
-    url: /tag-archive/
+    url: /tags/
+
  
