@@ -13,16 +13,13 @@ toc_icon: "calendar"
 
 ## Spring 2026 Course Schedule
 
-**Class meets:** Tuesday & Thursday, 11:20 AM - 12:45 PM in Campus Center C2 L00 009
+This schedule is organized by week and assignments. Reading and assignment details will be posted on the course site as we progress through the semester. All dates are subject to change at the instructor's discretion. 
 
-This schedule is organized by topic and learning objective. Reading and assignment details will be posted on the course site as we progress through the semester. All dates are subject to change at the instructor's discretion. 
-
-### Materials: 
+Materials: 
 
 The course learning materials are composed of numerous online articles & tutorials, interdisciplinary writing from the web, videos, digital projects in addition to traditional academic readings.  **There will be no books for purchase.**  Students will have access to ebook chapters available through NYU Libraries. Readings & other materials will be listed here a few weeks in advance of the courses. 
 
-For this course you will need to make some accounts and download some software.  To make the accounts, you can use your NYU account or create a "burner" account for the class. We will make use of AntConc, AntCorGen, VS Code (or other text editor), as well as a number of web-based tools. You will also be assigned access to RStudio Cloud within a few weeks.  If you are familiar with RStudio and already have it downloaded, you can use it on your own machine. For beginners, I recommend the cloud based version.  These resources are all at no cost to you. 
-
+For this course you will need to make some accounts and download some software. We will make use of AntConc, AntCorGen, VS Code (or other text editor), as well as a number of web-based tools. You will also be assigned access to RStudio Cloud within a few weeks.  If you are familiar with RStudio and already have it downloaded, you can use it on your own machine. For beginners, I recommend the cloud based version.  These resources are all at no cost to you. 
 
 ---
 
