@@ -28,9 +28,9 @@ Active participation is essential for success in this course. This includes:
 
 ---
 
-### Written Responses (30%)
+### Written Responses (20%)
 
-You will complete 3 written responses throughout the semester, each worth up to 10 points.
+You will complete 2 written responses throughout the semester, each worth up to 10 points.
 
 **Purpose:** These responses allow you to reflect on conceptual issues raised in class, practice web-based academic writing, and develop a public scholarly voice. In particular this will fall just before the assignment for each section of the course.
 
@@ -45,11 +45,10 @@ You will complete 3 written responses throughout the semester, each worth up to 
 **Submission Dates:**
 - Response 1: TBA
 - Response 2: TBA
-- Response 3: TBA
 
 ---
 
-### Three Assignments (60% total — 20% each)
+### Three Assignments (50% total — 10% first assignment, 20% for following)
 
 These two open-ended assignments apply course methods to new contexts and texts.
 
@@ -68,18 +67,22 @@ These two open-ended assignments apply course methods to new contexts and texts.
 - Assignment 2: TBA
 - Assigment 3: TBA
 
+### Midterm and Final Oral Exam (20% total — 10% each)
+
+The oral exams will cover readings, material covered in your assignments and any material more generally in the class. They will last 15 minutes each and will be in person. 
+
 ___
 
 **Purpose:** To demonstrate mastery of course concepts and methods through independent research and creative data storytelling.
 
 **Components:**
 - Analysis of a text corpus using methods explored in class
-- Written component (2,000–3,000 words) critically examining process, results, and limitations
+- Written component (1,500-3,000 words) critically examining process, results, and limitations
 - Digital visualization or interactive component
-- Presentation to the class (5–10 minutes)
+- Oral response to questions about the class
 
 **Corpus Options:**
-You may choose from provided corpora (science fiction texts, NYUAD Arts Center performances, historical documents) or propose your own corpus for approval.
+You may choose from provided corpora or propose your own corpus for approval.
 
 **Grading Criteria:**
 - Quality and rigor of analysis

@@ -19,24 +19,19 @@ This schedule is organized by topic and learning objective. Reading and assignme
 
 ---
 
-## Important Dates
+## Important Dates from [NYUAD Registrar](https://nyuad.nyu.edu/en/about/administration-and-governance/undergraduate-academic-calendar/2025-2026-academic-calendar.html)
 
 | Date | Event |
 |------|-------|
 | Tuesday, January 20 | **First Day of Classes** |
 | Monday, February 2 | Add/Drop Deadline (14-week courses) |
 | Sunday, February 16 – Wednesday, March 18 | Ramadan |
-| Monday, February 23 | Withdrawal Deadline (7-week courses) |
-| Monday, March 9 | Last Day of Classes (7-week courses) |
-| Tuesday, March 10 | Reading Day (no classes) |
-| Wednesday-Sunday, March 11-15 | Finals (7-week courses) |
+| Tuesday, March 10-15 | Reading Day & Finals for 7 week courses (no classes) |
 | Monday-Friday, March 16-20 | Spring Break / Eid Al-Fitr Holiday |
 | Monday, March 23 | Classes Resume (14-week courses) |
 | Friday, April 3 | Withdrawal Deadline (14-week courses) |
 | Friday, May 8 | Last Day of Classes |
-| Saturday, May 9 | Reading Day (no classes or exams) |
-| Sunday-Sunday, May 10-17 | Final Examinations |
-| Wednesday, May 20 | Final Grades Due |
+| Saturday, May 9 | All work due |
 
 ---
 
