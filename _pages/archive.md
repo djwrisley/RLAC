@@ -4,6 +4,10 @@ permalink: /archive/
 author_profile: false
 ---
 
+<div style="background-color: #57068C; padding: 40px 20px; margin: -40px -40px 30px -40px; text-align: center; border-radius: 8px 8px 0 0;">
+  <h1 style="color: white; margin: 0; font-size: 2.5em; font-weight: 300; letter-spacing: 2px;">Reading Like a Computer</h1>
+</div>
+
 ## RLAC Archive
 
 CDAD UH-1024 Reading Like a Computer is a course within the Data and Discovery branch of the Core Curriculum at NYU Abu Dhabi. As the field is rapidly changing and we expect it to grow and change over the years, we will archive the markdown files for the key pages (schedule, materials, outcomes, assessment) here. 

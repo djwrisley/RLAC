@@ -1,0 +1,40 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Find all menu items with children
+  const menuItems = document.querySelectorAll('.masthead__menu-item');
+  
+  menuItems.forEach(item => {
+    const submenu = item.querySelector('.submenu');
+    if (submenu) {
+      const parent = item.querySelector('.masthead__menu-parent');
+      
+      // Add click handler for parent
+      if (parent) {
+        parent.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopPropagation();
+          submenu.style.display = submenu.style.display === 'block' ? 'none' : 'block';
+        });
+      }
+      
+      // Close submenu when clicking on a link
+      const links = submenu.querySelectorAll('a');
+      links.forEach(link => {
+        link.addEventListener('click', function() {
+          submenu.style.display = 'none';
+        });
+      });
+    }
+  });
+  
+  // Close submenus when clicking outside
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.masthead__menu-item')) {
+      const submenus = document.querySelectorAll('.submenu');
+      submenus.forEach(submenu => {
+        submenu.style.display = 'none';
+      });
+    }
+  });
+});
+</script>

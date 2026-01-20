@@ -11,18 +11,20 @@ main:
   - title: "Assessment"
     url: /assessment/
   
-  - title: "Assignments"
-    children:
-      - title: "Rubrics"
-        url: /assignments/rubrics/
-      - title: "Response Guidelines"
-        url: /assignments/response-guidelines/
-      - title: "Assignment 1"
-        url: /assignments/assignment-1-guidelines/
-      - title: "Assignment 2"
-        url: /assignments/assignment-2-guidelines/
-      - title: "Final Assignment"
-        url: /assignments/assignment-3-guidelines/
+  - title: "Rubrics"
+    url: /assignments/rubrics/
+  
+  - title: "Response Guidelines"
+    url: /assignments/response-guidelines/
+  
+  - title: "Assignment 1"
+    url: /assignments/assignment-1-guidelines/
+  
+  - title: "Assignment 2"
+    url: /assignments/assignment-2-guidelines/
+  
+  - title: "Final Assignment"
+    url: /assignments/final-assignment-guidelines/
 
-
- 
+  - title: "Tags"
+    url: /tags/
