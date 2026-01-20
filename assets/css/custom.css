@@ -3,6 +3,11 @@
   position: relative;
 }
 
+.masthead__menu-item.has-children .masthead__menu-link,
+.masthead__menu-item.has-children span.masthead__menu-link {
+  cursor: pointer;
+}
+
 .submenu {
   display: none;
   position: absolute;

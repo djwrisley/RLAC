@@ -6,11 +6,11 @@
     </button>
     <ul class="visible-links">
       {%- for link in site.data.navigation.main -%}
-        <li class="masthead__menu-item">
+        <li class="masthead__menu-item{% if link.children %} has-children{% endif %}">
           {%- if link.url -%}
             <a href="{{ link.url | relative_url }}" class="masthead__menu-link" {%- if page.url == link.url %} class="active"{% endif %}>{{ link.title }}</a>
           {%- else -%}
-            <a href="javascript:void(0)" class="masthead__menu-link">{{ link.title }}</a>
+            <span class="masthead__menu-link">{{ link.title }}</span>
           {%- endif -%}
           
           {%- if link.children -%}
