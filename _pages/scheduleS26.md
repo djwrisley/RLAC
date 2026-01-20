@@ -45,65 +45,76 @@ For this course you will need to make some accounts and download some software. 
 **Topic:** Beginnings  
 What does it mean to read like a computer? Introduction to the course, objectives, and the concept of corpora.
 
+| Date | Preparation | Activity | 
+| :--- | :--- | :--- |
+| 20 Jan | none | discussion | 
+| 22 Jan | <br> - Speed Reading (Tonight Show) (6 mins) <br> -How to Speed Read (Ferriss) (9 mins) <br> - "How Many Books Will You Read Before You Die?" <br> - "The beginning of silent reading" <br> - [People Don't Read But LLMs do](https://blog.glyndarkin.co.uk/ai/people-dont-read-but-ll-ms-do/) | Introduction to static sites | 
+
+
 ### Week 2 (Jan 27, 29)
-**Topic:** Reading, Fast and Slow, Close and Distant  
-Exploring different reading strategies: close reading vs. distant reading, slow reading vs. fast reading. What can each approach tell us?
+**Topic:** Reading, Fast and Slow, Close and Distant  / Reading All of Anything 
+Exploring different reading strategies: close reading vs. distant reading, slow reading vs. fast reading. What can each approach tell us? How do we work with large amounts of text? What are corpora?
+
+| Date | Preparation | Activity | 
+| :--- | :--- | :--- |
+| 27 Jan | 
 
 ### Week 3 (Feb 3, 5)
-**Topic:** Reading All of Anything  
-Introduction to large-scale textual analysis. How do we work with entire corpora? Introduction to Project Gutenberg and similar resources.
+**Topic:**  Voyant and Project Gutenberg  
+
+Hands-on workshop with Voyant Tools for text analysis and visualization. Exploring public domain texts from Project Gutenberg. Introduction to R and RStudio for text analysis. Basic programming concepts and statistical approaches to text.
+
+**First Assignment Due: Friday, Feb 13**
 
 ### Week 4 (Feb 10, 12)
-**Topic:** Voyant and Project Gutenberg  
-Hands-on workshop with Voyant Tools for text analysis and visualization. Exploring public domain texts from Project Gutenberg.
+**Topic:** More Text Analysis with R. The Anatomy of a Word Cloud. Creating and interpreting visualizations.
 
 _Ramadan begins. There will be no change in class timings for Ramadan._
 
 ### Week 5 (Feb 17, 19)
-**Topic:** Text Analysis with R  
-Introduction to R and RStudio for text analysis. Basic programming concepts and statistical approaches to text.  
+**Topic:** More Text Analysis with R — Most Distinctive Words / TF-IDF. Techniques for identifying key vocabulary in texts. 
+
+**First Response Due: Friday, Feb 20** Asking an LLM to interpret a visualization without context.
 
 ### Week 6 (Feb 24, 26)
-**Topic:** More Text Analysis with R — Most Distinctive Words and Wordclouds  
-Advanced R techniques for identifying key vocabulary. Creating and interpreting wordcloud visualizations.
+**Topic:** Sentiment Analysis
+Introduction to sentiment analysis for different kinds of texts.
 
 ### Week 7 (Mar 3, 5)
-**Topic:** Sentiment Analysis and Wrap-Up  
-Introduction to sentiment analysis. Reflection on Part 1 and preparation for Part 2.
+**Topic:**  Wrap-Up  
+Reflection on Part 1 on working with corpora. and preparation for Part 2.
 
-**First Response Due: Friday, March 7**
+Oral Exam week of Mar 2. Sign ups available here. 
 
 ---
 
 ## Part 2: Digital Text Analysis (+ Creating Digital Text) — Project-Based Learning
 
-### Week 8 (Mar 24, 26)
+### Week 8 xt Analysis with R (Mar 24, 26)
 **Topic:** OCR and HTR  
 Optical Character Recognition and Handwritten Text Recognition. Working with digitized documents from archives and special collections.
 
 ### Week 9 (Mar 31, Apr 2)
-**Topic:** Converting Recorded Video into Text  
-Speech-to-text technologies and transcription workflows. Analyzing audio materials as text.
+**Topic:** Approaches to analyzing OCR'd or HTR'd text  
+
+**Second Assignment Due: Friday, April 3**
 
 ### Week 10 (Apr 7, 9)
 **Topic:** Word Embeddings 1  
 Introduction to word embeddings and semantic relationships. Understanding distributed representations of meaning.
 
 ### Week 11 (Apr 14, 16)
-**Topic:** Word Embeddings 2  
-Advanced applications of word embeddings. Visualization and interpretation of semantic spaces.
+More with word embeddings. Visualization and interpretation of semantic spaces.
 
-**Second Response Due: Friday, April 18**
+**Second Response Due: Friday, April 18** 
 
 ### Week 12 (Apr 21, 23)
 **Topic:** Stylometry  
-Computational stylistic analysis. Author identification, authorship attribution, and style analysis.
+Computational stylistic analysis. Author identification, authorship attribution, and style analysis. Work with class writings. 
 
 ### Week 13 (Apr 28, 30)
 **Topic:** Lab Time  
 Hands-on work on final projects. Individual and small group consultations with instructor.
-
-**Assignment 1 Due: Friday, May 1**
 
 ### Week 14 (May 5, 7)
 **Topic:** Lab Time / Final Presentations Preparation  
@@ -113,7 +124,7 @@ Continued project work. Preparing presentations and written components.
 **Topic:** Final Presentations and Wrap-Up  
 Student presentations of final projects. Course reflection and synthesis.
 
-**Final Assignment Due: Friday, May 16**
+**Third Assignment Due: Friday, May 15**
 
 ---
 
