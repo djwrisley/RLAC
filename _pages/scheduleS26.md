@@ -42,13 +42,13 @@ For this course you will need to make some accounts and download some software. 
 ## Part 1: Digital Textual Analysis — Thinking with Corpora
 
 ### Week 1 (Jan 20, 22)
-**Topic:** Beginnings  
-What does it mean to read like a computer? Introduction to the course, objectives, and the concept of corpora.
+**Topic:** Beginnings, aka "So Many Books, So Little Time"
+What does it mean to read like a computer? What does it mean to write for a non-human audience?
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 20 Jan | none | Introduction to course, expectations, syllabus | 
-| 22 Jan | <br> - Speed Reading (Tonight Show) (6 mins) <br> -How to Speed Read (Ferriss) (9 mins) <br> - "How Many Books Will You Read Before You Die?" <br> - "The beginning of silent reading" <br> - [People Don't Read But LLMs do](https://blog.glyndarkin.co.uk/ai/people-dont-read-but-ll-ms-do/) | Introduction to static sites | 
+| 22 Jan | <br> - [Speed Reading](https://www.youtube.com/watch?v=oLgBDHhV-xM) (Tonight Show) (6 mins) <br> -[How to Speed Read](https://www.youtube.com/watch?v=ZwEquW_Yij0) (Ferriss) (9 mins) <br> - "[How Many Books Will You Read Before You Die](https://lithub.com/how-many-books-will-you-read-before-you-die/)?" <br> - "[The beginning of silent reading](https://qz.com/quartzy/1118580/the-beginning-of-silent-reading-was-also-the-beginning-of-an-interior-life)" <br> - [People Don't Read But LLMs do](https://blog.glyndarkin.co.uk/ai/people-dont-read-but-ll-ms-do/) | Introduction to static sites | 
 
 
 ### Week 2 (Jan 27, 29)
