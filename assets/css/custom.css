@@ -1,0 +1,40 @@
+/* Dropdown menu styles for navigation */
+.masthead__menu-item {
+  position: relative;
+}
+
+.submenu {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+  top: 100%;
+  left: 0;
+  border-radius: 4px;
+}
+
+.masthead__menu-item:hover .submenu {
+  display: flex;
+  flex-direction: column;
+}
+
+.submenu__link {
+  color: #333;
+  padding: 12px 0;
+  text-decoration: none;
+  display: block;
+  font-size: 0.875em;
+}
+
+.submenu__link:hover {
+  color: #57068C;
+  font-weight: 500;
+}
+
+.submenu__link.active {
+  color: #57068C;
+  font-weight: 600;
+}

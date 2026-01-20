@@ -1,0 +1,27 @@
+{% if site.data.navigation.main %}
+  <nav class="greedy-nav">
+    <button class="greedy-nav__toggle hidden" type="button">
+      <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
+      <div class="navicon"></div>
+    </button>
+    <ul class="visible-links">
+      {%- for link in site.data.navigation.main -%}
+        <li class="masthead__menu-item">
+          {%- if link.url -%}
+            <a href="{{ link.url | relative_url }}" class="masthead__menu-link" {%- if page.url == link.url %} class="active"{% endif %}>{{ link.title }}</a>
+          {%- else -%}
+            <a href="javascript:void(0)" class="masthead__menu-link">{{ link.title }}</a>
+          {%- endif -%}
+          
+          {%- if link.children -%}
+            <div class="submenu">
+              {%- for child in link.children -%}
+                <a href="{{ child.url | relative_url }}" class="submenu__link" {%- if page.url == child.url %} class="active"{% endif %}>{{ child.title }}</a>
+              {%- endfor -%}
+            </div>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  </nav>
+{% endif %}
