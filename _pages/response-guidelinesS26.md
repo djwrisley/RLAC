@@ -1,7 +1,7 @@
 ---
 title: Response Guidelines
 permalink: /assignments/response-guidelines/
-layout: page
+layout: single
 ---
 
 ## Written Response Guidelines

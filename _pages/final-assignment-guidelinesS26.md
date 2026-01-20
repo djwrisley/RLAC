@@ -1,7 +1,7 @@
 ---
 title: Final Assignment Guidelines
 permalink: /assignments/final-assignment-guidelines/
-layout: page
+layout: single
 ---
 
 ## Final Project: Corpus Analysis and Data Storytelling (Spring 2026)

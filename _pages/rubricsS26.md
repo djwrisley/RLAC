@@ -1,7 +1,7 @@
 ---
 title: Rubrics
 permalink: /assignments/rubrics/
-layout: page
+layout: single
 ---
 
 ## Assignment Rubrics

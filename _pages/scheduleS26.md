@@ -1,7 +1,7 @@
 ---
 title: Schedule
 permalink: /schedule/
-layout: page
+layout: single
 ---
 
 ## Spring 2026 Course Schedule

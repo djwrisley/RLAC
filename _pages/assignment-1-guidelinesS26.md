@@ -1,7 +1,7 @@
 ---
 title: Assignment 1 Guidelines
 permalink: /assignments/assignment-1-guidelines/
-layout: page
+layout: single
 ---
 
 ## Assignment 1: Text Analysis with a Computational Tool

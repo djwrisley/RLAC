@@ -1,7 +1,7 @@
 ---
 title: Assessment
 permalink: /assessment/
-layout: page
+layout: single
 ---
 
 ## Course Assessment

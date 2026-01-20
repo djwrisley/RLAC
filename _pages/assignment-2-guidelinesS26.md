@@ -1,7 +1,7 @@
 ---
 title: Assignment 2 Guidelines
 permalink: /assignments/assignment-2-guidelines/
-layout: page
+layout: single
 ---
 
 ## Assignment 2: Remediation and Analysis of Digitized Texts

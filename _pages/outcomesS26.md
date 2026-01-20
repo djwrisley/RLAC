@@ -1,7 +1,7 @@
 ---
 title: Outcomes
 permalink: /outcomes/
-layout: page
+layout: single
 ---
 
 ## Course Learning Outcomes
