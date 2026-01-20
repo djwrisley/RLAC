@@ -47,7 +47,7 @@ What does it mean to read like a computer? Introduction to the course, objective
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 20 Jan | none | discussion | 
+| 20 Jan | none | Introduction to course, expectations, syllabus | 
 | 22 Jan | <br> - Speed Reading (Tonight Show) (6 mins) <br> -How to Speed Read (Ferriss) (9 mins) <br> - "How Many Books Will You Read Before You Die?" <br> - "The beginning of silent reading" <br> - [People Don't Read But LLMs do](https://blog.glyndarkin.co.uk/ai/people-dont-read-but-ll-ms-do/) | Introduction to static sites | 
 
 
@@ -57,7 +57,10 @@ Exploring different reading strategies: close reading vs. distant reading, slow 
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 27 Jan | 
+| 27 Jan | <br> -Create a GitHub account (if you don't have one) <br> - Install a text editor (VSCode) <br> -Install Github Desktop <br> -Can Computers Read (Literature)? (Kestemont / Herman) | <br> -The Pitfalls of Using Google Ngram |  |  
+
+Explore: Google n-gram vs. BookWorm (extra: tutorial for HT+Bookworm and "My Secret Editing Weapon") 
+| 29 Jan | <br> -What is Fan Fiction? <br> -Harry Potter fandom <br> -Listen: Distant Reading (a conversation Ama Bemma Adwetewa_Badu) - 14 mins <br> - [What is Markdown? Why Use it?](https://www.markdownguide.org/getting-started/) | <br> - Explore Harry Potter fan fiction with an Rmd notebook (source: AOOO) with a selection of the 390K+ fan fiction in the course drive. | 
 
 ### Week 3 (Feb 3, 5)
 **Topic:**  Voyant and Project Gutenberg  
