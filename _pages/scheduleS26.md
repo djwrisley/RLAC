@@ -1,7 +1,10 @@
 ---
 title: Schedule
 permalink: /schedule/
-layout: single
+toc: true
+toc_label: "Spring 2025 Schedule"
+toc_sticky: true
+toc_icon: "calendar"
 ---
 
 <div style="background-color: #57068C; padding: 40px 20px; margin: 0 0 30px 0; text-align: center; border-radius: 0;">
@@ -10,7 +13,7 @@ layout: single
 
 ## Spring 2026 Course Schedule
 
-**Class meets:** Tuesday & Thursday, 11:20 AM - 12:45 PM in Computational Research 006
+**Class meets:** Tuesday & Thursday, 11:20 AM - 12:45 PM in Campus Center C2 L00 009
 
 This schedule is organized by topic and learning objective. Reading and assignment details will be posted on the course site as we progress through the semester. All dates are subject to change at the instructor's discretion.
 
