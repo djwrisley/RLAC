@@ -28,14 +28,14 @@ Active participation is essential for success in this course. This includes:
 
 ---
 
-### Written Responses (15%)
+### Written Responses (30%)
 
-You will complete 3 written responses throughout the semester, each worth up to 5 points.
+You will complete 3 written responses throughout the semester, each worth up to 10 points.
 
 **Purpose:** These responses allow you to reflect on conceptual issues raised in class, practice web-based academic writing, and develop a public scholarly voice. In particular this will fall just before the assignment for each section of the course.
 
 **Format and Length:**
-- Typically 750–1,000 words, plus any needed visuals
+- Typically 1,000-1,500 words, plus any needed visuals
 - Published on your individual course website
 
 **Types of Responses:**
@@ -43,21 +43,20 @@ You will complete 3 written responses throughout the semester, each worth up to 
 - Critical analyses of tools, methods, or course readings
 
 **Submission Dates:**
-- Response 1: Friday, March 7
-- Response 2: Friday, April 18
-- Response 3: Friday, April 25
-- Response 4: Friday, May 16
+- Response 1: TBA
+- Response 2: TBA
+- Response 3: TBA
 
 ---
 
-### Three Assignments (45% total — 15% each)
+### Three Assignments (60% total — 20% each)
 
 These two open-ended assignments apply course methods to new contexts and texts.
 
 **Purpose:** To develop practical skills in computational text analysis and to practice critical thinking and evaluation about technology and humanities data.
 
 **Format and Length:**
-- Approximately 1,500 words each (plus visualizations)
+- Approximately 1,500-2,000 words each (plus visualizations)
 - Combines written analysis with digital outputs or demonstrations
 - Published on your course website
 - Media-rich format combining text, images, and/or interactive elements
@@ -65,8 +64,9 @@ These two open-ended assignments apply course methods to new contexts and texts.
 **Detailed instructions and rubrics will be provided in the [Assignments](../assignments/assignment-1-guidelines/) section.**
 
 **Submission Dates:**
-- Assignment 1: Friday, May 1
-- Assignment 2: Friday, May 23
+- Assignment 1: TBA
+- Assignment 2: TBA
+- Assigment 3: TBA
 
 ___
 
