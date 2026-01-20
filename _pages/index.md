@@ -4,27 +4,27 @@ title: "Welcome"
 permalink: /
 ---
 
-## Introduction to Digital Arts and Humanities
+## Reading Like a Computer 
 
-- **Spring 2025 (3682)**
+- **Spring 2026 (XXXX)**
 - **Number of credits**: 4 (14 weeks)
 - **Instructor**: David Wrisley (djw12@)
 - **Pre-requisites or co-requisites**: none
-- **Cross-listing**: This course counts an IM elective.
+- **Cross-listing**: This course counts an IM elective as well as one of the courses for the [Digital Arts and Humanities minor](https://bulletins.nyu.edu/undergraduate/abu-dhabi/programs/digital-arts-humanities-minor/).
 
-> This course is the foundation course for the forthcoming minor in Digital Arts and Humanities. It is taught in person in Abu Dhabi, but is open to registration by study away students. Capacity will be limited to 15. 
+> It is taught in person in Abu Dhabi, but is open to registration by study away students. Capacity will be limited to 18. 
 
 
 ## BRIEF COURSE DESCRIPTION:
 
-Introduction to Digital Arts and Humanities examines different intersections between digital culture and objects of the digitized human record in the context of the rapidly evolving world of platforms and data. The course examines how the digital and the computational can provide new ways to explore and to study the arts and humanities. Key components of the course include varieties of data in the arts and humanities, the synergies of thinking and doing, collaborative and project-based work, intersections of human and machine intelligence, as well as global disparities of cultural data. Methods introduced in the course may vary slightly from term to term, but could include web publishing or text editing, digital textual analysis, data modeling and visualization, algorithmic study of images, sound computing, social network analysis or digital mapping. The course assumes no prior technical skills, but a willingness to explore new technologies is essential for success.
+How can computers be said to “read” text, and how can computer-assisted analysis of texts give us new access to information about ourselves and the cultural legacies we have inherited? How well do LLMs do these tasks? This course explores quantitative methods for discovering and analyzing diverse texts of the human record. It also offers a glimpse into possible futures of reading and remote access to documents, archives and libraries. Students will both discuss, and put into practice, forms of computer-assisted textual analysis that have revolutionized research in humanities and social science fields in recent years and they will critically engage with the notion of a corpus. By engaging with the idea of data in the humanities, and the contextualization that it requires, the course encourages students to reconsider our common-place assumptions about how reading works. Course materials, discussions, and classroom exercises will push students to examine how basic ideas about a text such as author, subject, setting, character or even style might look different when a non-human is involved in the interpretation. The course assumes no prior computer or coding skills, but a willingness to explore new technologies is essential for success.
 
 
 | **Element** | **Day** | **Timing** | **Location** | 
-| Lab | Tu | 3:35PM-6:15PM | C2 L00 W007 |
-| Class | Th | 3:35PM-4:50PM | C2 L00 W009 | 
-| Office hours | Th | 1-3PM | A6 L01 1151 |
+| Class | Tu | 11:20AM-12:35PM | Campus Center L00 W009 |
+| Class | Th | 11:20AM-12:35PM | Campus Center L00 W009 | 
+| Office hours | Thu-T | TBA | A6 L01 1151 |
 | Ramadan in person OH | TBA | TBA | TBA |
 
 
-To see an archive of previous versions of this course, see [here](https://daahnyuad.github.io/archive/)
+To see an archive of previous versions of this course, see [here](https://djwrisley.github.io/RLAC/archive/)
