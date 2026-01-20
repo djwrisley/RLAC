@@ -8,6 +8,8 @@ permalink: /
   <h1 style="color: white; margin: 0; font-size: 2.5em; font-weight: 300; letter-spacing: 2px;">Reading Like a Computer</h1>
 </div>
 
+![Courant Punchcard](/assets/images/Courant_punchcard.jpg)
+
 ## Course Information 
 
 - **Spring 2026 (19958) Section 1**
