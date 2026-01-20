@@ -6,22 +6,25 @@
     </button>
     <ul class="visible-links">
       {%- for link in site.data.navigation.main -%}
-        <li class="masthead__menu-item{% if link.children %} has-children{% endif %}">
+        <li class="masthead__menu-item">
           {%- if link.url -%}
             <a href="{{ link.url | relative_url }}" class="masthead__menu-link" {%- if page.url == link.url %} class="active"{% endif %}>{{ link.title }}</a>
+          {%- elsif link.children -%}
+            <span class="masthead__menu-link masthead__menu-parent">{{ link.title }}</span>
+            <ul class="submenu">
+              {%- for child in link.children -%}
+                <li><a href="{{ child.url | relative_url }}" class="submenu__link" {%- if page.url == child.url %} class="active"{% endif %}>{{ child.title }}</a></li>
+              {%- endfor -%}
+            </ul>
           {%- else -%}
             <span class="masthead__menu-link">{{ link.title }}</span>
-          {%- endif -%}
-          
-          {%- if link.children -%}
-            <div class="submenu">
-              {%- for child in link.children -%}
-                <a href="{{ child.url | relative_url }}" class="submenu__link" {%- if page.url == child.url %} class="active"{% endif %}>{{ child.title }}</a>
-              {%- endfor -%}
-            </div>
           {%- endif -%}
         </li>
       {%- endfor -%}
     </ul>
+    {%- if site.data.navigation.main.size > 0 -%}
+      <button class="greedy-nav__toggle-all hidden" type="button">{{ site.data.ui-text[site.locale].menu_label | default: "Menu" }}</button>
+      <ul class="hidden-links hidden"></ul>
+    {%- endif -%}
   </nav>
 {% endif %}

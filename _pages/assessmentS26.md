@@ -4,6 +4,10 @@ permalink: /assessment/
 layout: single
 ---
 
+<div style="background-color: #57068C; padding: 40px 20px; margin: -40px -40px 30px -40px; text-align: center; border-radius: 8px 8px 0 0;">
+  <h1 style="color: white; margin: 0; font-size: 2.5em; font-weight: 300; letter-spacing: 2px;">Reading Like a Computer</h1>
+</div>
+
 ## Course Assessment
 
 This course uses a diverse set of assessment methods to evaluate your learning and growth. Assessment is ongoing and formative, with opportunities for feedback and revision throughout the semester.
