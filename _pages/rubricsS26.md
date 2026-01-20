@@ -66,10 +66,21 @@ Participation is assessed on the basis of:
 
 ---
 
+## Oral Exam Rubric
+
+| Criterion | Exemplary (15) | Proficient (12) | Developing (9) | Beginning (6) | Incomplete (0) |
+|-----------|--------|-----------|-----------|---------|------------|
+| **Content Mastery** | Demonstrates comprehensive and nuanced understanding of all key topics; integrates course concepts seamlessly | Shows clear understanding of key topics; may miss minor nuance | Adequate grasp of primary concepts; gaps in depth/accuracy | Limited understanding; significant content gaps and misconceptions | Shows minimal or incorrect understanding; fails to correctly address content |
+| **Accuracy of Responses** | Answers are consistently accurate, insightful, and logically justified; integrates evidence or examples where appropriate | Mostly accurate responses with occasional minor errors; sound reasoning | Some correct responses; inconsistent reasoning; moderate inaccuracies | Frequent inaccuracies; reasoning is unclear or flawed | Responses are largely incorrect or irrelevant |
+| **Organization & Structure** | Responses are well-structured and logical; easy to follow progression of ideas | Clear structure with minor lapses in organization | Organization is present but uneven; transitions may be weak | Poorly organized responses; ideas are difficult to follow | No discernible organization; answers are unfocused |
+| **Engagement with Questions** | Responds promptly and thoughtfully to questions; extends beyond the question to offer deeper insight | Responds appropriately; shows solid understanding of question intent | Responses address the question but lack depth or completeness | Struggles to respond to questions; answers are incomplete or partially off-topic | Unable to respond to questions meaningfully |
+| **Critical Thinking & Synthesis** | Demonstrates strong critical thinking; synthesizes ideas, connects concepts, and offers original perspective | Shows some critical thinking; connections across concepts are present but not rich | Basic reasoning present; limited synthesis of concepts | Minimal critical thinking; responses are repetitive or descriptive only | No evidence of critical thinking; superficial or absent reasoning |
+
+
 ## Feedback and Revision
 
 - Rubrics are provided with each assignment
-- Your work will be assessed according to these rubrics and returned with feedback
+- Your work will be assessed according to these rubrics
 - Opportunities for revision may be available for some assignments—check assignment guidelines
-- Discuss your score with the instructor during office hours if you have questions
+
 
