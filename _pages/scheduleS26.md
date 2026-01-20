@@ -15,7 +15,14 @@ toc_icon: "calendar"
 
 **Class meets:** Tuesday & Thursday, 11:20 AM - 12:45 PM in Campus Center C2 L00 009
 
-This schedule is organized by topic and learning objective. Reading and assignment details will be posted on the course site as we progress through the semester. All dates are subject to change at the instructor's discretion. Readings & other materials will be listed here a few weeks in advance of the courses. 
+This schedule is organized by topic and learning objective. Reading and assignment details will be posted on the course site as we progress through the semester. All dates are subject to change at the instructor's discretion. 
+
+### Materials: 
+
+The course learning materials are composed of numerous online articles & tutorials, interdisciplinary writing from the web, videos, digital projects in addition to traditional academic readings.  **There will be no books for purchase.**  Students will have access to ebook chapters available through NYU Libraries. Readings & other materials will be listed here a few weeks in advance of the courses. 
+
+For this course you will need to make some accounts and download some software.  To make the accounts, you can use your NYU account or create a "burner" account for the class. We will make use of AntConc, AntCorGen, VS Code (or other text editor), as well as a number of web-based tools. You will also be assigned access to RStudio Cloud within a few weeks.  If you are familiar with RStudio and already have it downloaded, you can use it on your own machine. For beginners, I recommend the cloud based version.  These resources are all at no cost to you. 
+
 
 ---
 
@@ -26,11 +33,11 @@ This schedule is organized by topic and learning objective. Reading and assignme
 | Tuesday, January 20 | **First Day of Classes** |
 | Monday, February 2 | Add/Drop Deadline (14-week courses) |
 | Sunday, February 16 – Wednesday, March 18 | Ramadan |
-| Tuesday, March 10-15 | Reading Day & Finals for 7 week courses (no classes) |
-| Monday-Friday, March 16-20 | Spring Break / Eid Al-Fitr Holiday |
+| Tuesday, March 10-15 | **Reading Day & Finals for 7 week courses (no classes)** |
+| Monday-Friday, March 16-20 | **Spring Break / Eid Al-Fitr Holiday (no classes)** |
 | Monday, March 23 | Classes Resume (14-week courses) |
 | Friday, April 3 | Withdrawal Deadline (14-week courses) |
-| Friday, May 8 | Last Day of Classes |
+| Friday, May 8 | **Last Day of Classes** |
 | Saturday, May 9 | All work due |
 
 ---
@@ -53,10 +60,11 @@ Introduction to large-scale textual analysis. How do we work with entire corpora
 **Topic:** Voyant and Project Gutenberg  
 Hands-on workshop with Voyant Tools for text analysis and visualization. Exploring public domain texts from Project Gutenberg.
 
+_Ramadan begins. There will be no change in class timings for Ramadan._
+
 ### Week 5 (Feb 17, 19)
 **Topic:** Text Analysis with R  
 Introduction to R and RStudio for text analysis. Basic programming concepts and statistical approaches to text.  
-*Note: Tuesday class during Ramadan—adjust format as needed*
 
 ### Week 6 (Feb 24, 26)
 **Topic:** More Text Analysis with R — Most Distinctive Words and Wordclouds  
