@@ -60,7 +60,7 @@ What are different reading strategies available to us: close reading vs. distant
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 27 Jan | <br> -Create a [GitHub account](https://github.com) (if you don't have one alredy) <br> -Provide your Github username [here](https://docs.google.com/spreadsheets/d/1QA7GWYJ9SY4m7BmJBrMBXQXl-nKB_VfLCZqnSWSU0Tc/edit?usp=sharing) <br> -Install a [text editor](https://code.visualstudio.com/download) (e.g. VSCode) <br> -Install [Github Desktop](https://desktop.github.com/download/) <br> -[Can Computers Read (Literature)?](http://doi.org/10.6092/issn.2532-8816/8511) (Kestemont / Herman)  <br> -[The Pitfalls of Using Google Ngram](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/) <br> -[Google n-gram](https://books.google.com/ngrams/) vs. [BookWorm](https://bookworm.htrc.illinois.edu/develop/) <br> -"[My Secret Editing Weapon](https://medium.com/the-greengrocers-style-guide/my-secret-editing-weapon-the-google-ngram-viewer-2006d20411c6)" | <br>-Discussion of Readings <br> -Gentle Introduction to Github Pages <br> -Setting Up a Site for Coursework|  
-| 29 Jan | <br> -[What is Fan Fiction?](https://en.wikipedia.org/wiki/Fan_fiction) <br> -[Harry Potter fandom](https://en.wikipedia.org/wiki/Harry_Potter_fandom) <br> - [What is AOOO?](https://en.wikipedia.org/wiki/Archive_of_Our_Own) <br> -Listen: [Distant Reading](https://newbooksnetwork.com/distant-reading) (a conversation with [Ama Bemma Adwetewa_Badu](https://artsci.washu.edu/faculty-staff/ama-bemma-adwetewa-badu)) - 14 mins <br> - [What is Markdown? Why Use it?](https://www.markdownguide.org/getting-started/) | <br> -Discussion of openness in the age of AI <br> -Explore Harry Potter fan fiction with an Rmd notebook (source: AOOO) with a selection of the 390K+ fan fiction in the course drive. | 
+| 29 Jan | <br> -[What is Fan Fiction?](https://en.wikipedia.org/wiki/Fan_fiction) <br> -[Harry Potter fandom](https://en.wikipedia.org/wiki/Harry_Potter_fandom) <br> - [What is AOOO?](https://en.wikipedia.org/wiki/Archive_of_Our_Own) <br> -Listen: [Distant Reading](https://newbooksnetwork.com/distant-reading) (a conversation with [Ama Bemma Adwetewa_Badu](https://artsci.washu.edu/faculty-staff/ama-bemma-adwetewa-badu)) - 14 mins <br> - [What is Markdown? Why Use it?](https://www.markdownguide.org/getting-started/) | <br> -Discussion of openness in the age of AI <br> -Explore Harry Potter fan fiction with Voyant Tools and an Rmd notebook (source: AOOO) with a small selection of the 390K+ fan fiction in the course drive. | 
 
 ### Week 3 (Feb 3, 5)
 **Topic:**  Voyant and Project Gutenberg  
@@ -87,7 +87,7 @@ Introduction to sentiment analysis for different kinds of texts.
 **Topic:**  Wrap-Up  
 Reflection on Part 1 on working with corpora. and preparation for Part 2.
 
-Oral Exam week of Mar 2. Sign ups available here. 
+Oral Exam week of Mar 2. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=0#gid=0). 
 
 ---
 
