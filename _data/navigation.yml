@@ -12,7 +12,10 @@ main:
     url: /assessment/
   
   - title: "Rubrics"
-    url: /assignments/rubrics/
+    url: /rubrics/
+
+  - title: "Archive"
+    url: /archive/
 
   - title: "Tags"
     url: /tags/
