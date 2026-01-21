@@ -59,7 +59,9 @@ As Wikle and Williamson argue in their [Code4Lib Journal article](https://journa
 
 This philosophy aligns with principles of minimal computing in the digital humanities—asking what is truly necessary when developing digital scholarship under real-world constraints.
 
-## Understanding Minimal Mistakes Template Components
+> **To read**: <br> -[Static Web Methodology as a Sustainable Approach to Digital Humanities Projects](https://journal.code4lib.org/articles/18372) by Olivia Wikle and Evan Peter Williamson (Code4Lib Journal, 2025). This article provides insight into why static web approaches are gaining traction in academic and digital humanities contexts, over web publishing methods such as WordPress or Drupal. <br> -[The Questions of Minimal Computing](https://dhq-static.digitalhumanities.org/pdf/000646.pdf) by Roopika Risam and Alex Gil (DHQ, 2022). The introduction to a special issue of _DHQ_ frames “minimal computing” as a way of thinking about digital humanities that prioritizes necessary and sufficient technologies under real-world constraints, using four questions (what is needed, what is available, what must be prioritized, and what can be sacrificed) to foreground practices that resist equating innovation with scale or resource intensity.
+
+## Exploring the Components of the Minimal Mistakes Template
 
 The [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme, which powers this course site, is built from several key components:
 
@@ -72,12 +74,4 @@ The [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll the
 
 When you start with Minimal Mistakes, these components work together without issue. If you change things too quickly in the beginning you can break the site. As you gain confidence, however, you can customize individual pieces—changing colors in the CSS, modifying navigation structure in `_data/navigation.yml`, or adjusting layouts to create unique page designs—all without needing to rebuild the entire system.
 
-Let's start by looking at a few elements `_data/navigation.yml`, `_pages`, `_posts` and `_config.yml`.
-
-## Learn More
-
-- [Jekyll Documentation](https://jekyllrb.com/)
-- [GitHub Pages Guide](https://pages.github.com/)
-- [Markdown Syntax](https://www.markdownguide.org/)
-
-> **To read**: <br> -[Static Web Methodology as a Sustainable Approach to Digital Humanities Projects](https://journal.code4lib.org/articles/18372) by Olivia Wikle and Evan Peter Williamson (Code4Lib Journal, 2025). This article provides insight into why static web approaches are gaining traction in academic and digital humanities contexts, over web publishing methods such as WordPress or Drupal. <br> -[The Questions of Minimal Computing](https://dhq-static.digitalhumanities.org/pdf/000646.pdf) by Roopika Risam and Alex Gil (DHQ, 2022). The introduction to a special issue of _DHQ_ frames “minimal computing” as a way of thinking about digital humanities that prioritizes necessary and sufficient technologies under real-world constraints, using four questions (what is needed, what is available, what must be prioritized, and what can be sacrificed) to foreground practices that resist equating innovation with scale or resource intensity.
+Let's start by looking at a few elements `_data/navigation.yml`, `_pages`, `_posts` and `_config.yml`
