@@ -19,7 +19,7 @@ Materials:
 
 The course learning materials are composed of numerous online articles & tutorials, interdisciplinary writing from the web, videos, digital projects in addition to traditional academic readings.  **There will be no books for purchase.**  Students will have access to ebook chapters available through NYU Libraries. Readings & other materials will be listed here a few weeks in advance of the courses. 
 
-For this course you will need to make some accounts and download some software. We will make use of VS Code (or other text editor), as well as a number of web-based tools. You will also be assigned access to Posit Cloud within a few weeks.  If you are familiar with RStudio and already have it downloaded, you can download the notebooks and use them on your own machine. For beginners, I recommend the cloud based version.  These resources are all at no cost to you. 
+For this course you will need to make some accounts and download some software. We will make use of [Visual Studio Code](https://code.visualstudio.com/download), as well as a number of web-based tools. You will also be assigned access to [Posit Cloud](https://posit.cloud/) within a few weeks.  If you are familiar with [RStudio](https://posit.co/downloads/) and already have it downloaded, you can download the notebooks and use them on your own machine. For beginners, I recommend the cloud based version.  These resources are all at no cost to you. 
 
 ---
 
