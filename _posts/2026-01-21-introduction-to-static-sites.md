@@ -13,9 +13,9 @@ tags:
 
 Static sites are web pages that are delivered directly to the user's browser exactly as they are stored. Unlike dynamic sites that generate content on-the-fly using databases and server-side processing, static sites consist of fixed HTML, CSS, and JavaScript files. This simplicity offers numerous advantages for digital humanities and sustainable web practices.
 
-This course site is an example of a very simple static site built in Jekyll in Github Pages. 
+This course site is an example of a very simple static site built in [Jekyll](https://jekyllrb.com/) in [Github Pages](https://docs.github.com/en/pages). 
 
-Here are some more customized ones: 
+Here are some customized ones: 
 - [The Programming Historian](https://programminghistorian.org/) - also Jekyll and in Github.
 - [Stanford Literary Lab](https://litlab.stanford.edu/) - they explain why they adopted a static site [here](https://litlab.stanford.edu/techne/new-litlab-website/)
 
@@ -23,21 +23,21 @@ Here are some more customized ones:
 
 ## Advantages of Static Sites
 
-**Performance & Speed**: Static files load quickly since there's no server-side processing or database queries required.
+**Speed**: Static files load quickly since there are no server-side processing or database queries.
 
-**Cybersecurity**: They have fewer moving parts and no dynamic backend processing, so static sites have fewer vulnerabilities to manage.
+**Cybersecurity**: They have fewer moving parts and no dynamic backend processing, so static sites have fewer vulnerabilities.
 
-**Simplicity**: Static sites are straightforward to understand, maintain, and deploy. No complex server configurations or database management needed.
+**Simplicity**: Static sites are straightforward to understand, maintain, and deploy. No complex server configurations or database management required.
 
-**Version Control**: Because static sites are typically plain text files (often Markdown), they integrate with version control systems, enabling collaborative development.
+**Version Control**: Because static sites are typically .txt (plain text) files (often Markdown), they integrate with version control systems, enabling collaborative development. Both of the examples above are collaboratively managed.
 
-**Sustainability**: Minimal server requirements mean lower resource consumption and environmental impact—ideal for sustainable digital humanities projects.
+**Sustainability**: Minimal server requirements mean lower resource consumption for more sustainable digital humanities projects.
 
-**Cost-Effective**: Hosting static sites is inexpensive, with many platforms offering free hosting options like GitHub Pages.
+**Inexpensive**: Hosting static sites is inexpensive, with many platforms offering free hosting options like GitHub Pages. What is required is some basic know how in versioning systems and Markdown.
 
 ## Static Sites and GitHub Pages
 
-[GitHub Pages](https://pages.github.com/) is a hosting service that makes it easy to publish static sites directly from a GitHub repository and without cost. Combined with Jekyll, a static site generator, GitHub Pages enables you to:
+[GitHub Pages](https://pages.github.com/) is a hosting service that makes it easy to publish static sites directly from a GitHub repository. You can
 
 - Write content in Markdown
 - Version your entire site in VSCode
@@ -45,26 +45,17 @@ Here are some more customized ones:
 - Use themes for your site's appearance, and when you grow more confident, pass on to customization
 - Maintain a complete history of all changes
 
-## Getting Started
-
-To create your own static site on GitHub Pages, you'll need:
+## Elements required:
 
 1. A GitHub account
 2. A text editor (we will use VS Code, etc.)
 3. Git and GitHub Desktop installed
-4. Basic familiarity with Markdown
+4. Familiarity with Markdown
 
-This approach is particularly valuable for course sites, portfolios, project documentation, and archival materials where content stability and preservation matter.
 
 ## Sustainability, Static Sites and Digital Humanities
 
-As Wikle and Williamson argue in their [Code4Lib Journal article](https://journal.code4lib.org/articles/18372), static web methodology represents a shift in how digital humanities practitioners approach infrastructure. Rather than investing significant time and resources in maintaining complex platform infrastructure, a static web approach emphasizes:
-
-- **Minimal Infrastructure**: Static sites can be deployed on free hosting services like GitHub Pages, eliminating ongoing server maintenance costs
-- **Preservation-Ready Data**: Content stored in plain text files and open formats can be easily migrated and preserved for the future
-- **Reduced Technical Barriers**: By minimizing the complexity of platform administration, more scholars and students can engage directly in web development and digital project creation
-- **Agility and Iteration**: Low-cost deployment enables rapid prototyping and iterative development without prohibitive resource constraints
-- **Sustainability Focus**: The approach prioritizes investing resources in people and skills development rather than maintaining expensive systems
+As Wikle and Williamson argue in their [Code4Lib Journal article](https://journal.code4lib.org/articles/18372), static web methodology represents a shift in how digital humanities practitioners approach infrastructure. 
 
 This philosophy aligns with principles of minimal computing in the digital humanities—asking what is truly necessary when developing digital scholarship under real-world constraints.
 
@@ -89,4 +80,4 @@ Let's start by looking at a few elements `_data/navigation.yml`, `_pages`, `_pos
 - [GitHub Pages Guide](https://pages.github.com/)
 - [Markdown Syntax](https://www.markdownguide.org/)
 
-> **To read**: [Static Web Methodology as a Sustainable Approach to Digital Humanities Projects](https://journal.code4lib.org/articles/18372) by Olivia Wikle and Evan Peter Williamson (Code4Lib Journal, 2025). This article provides insight into why static web approaches are gaining traction in academic and digital humanities contexts, over web publishing methods such as WordPress or Drupal.
+> **To read**: <br> -[Static Web Methodology as a Sustainable Approach to Digital Humanities Projects](https://journal.code4lib.org/articles/18372) by Olivia Wikle and Evan Peter Williamson (Code4Lib Journal, 2025). This article provides insight into why static web approaches are gaining traction in academic and digital humanities contexts, over web publishing methods such as WordPress or Drupal. <br> -[The Questions of Minimal Computing](https://dhq-static.digitalhumanities.org/pdf/000646.pdf) by Roopika Risam and Alex Gil (DHQ, 2022). The introduction to a special issue of _DHQ_ frames “minimal computing” as a way of thinking about digital humanities that prioritizes necessary and sufficient technologies under real-world constraints, using four questions (what is needed, what is available, what must be prioritized, and what can be sacrificed) to foreground practices that resist equating innovation with scale or resource intensity.
