@@ -1,6 +1,6 @@
 ---
-title: Response Guidelines
-permalink: /assignments/response-guidelines/
+title: Responses
+permalink: /assignments/responses/
 layout: single
 ---
 
