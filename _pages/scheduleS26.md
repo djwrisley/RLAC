@@ -49,7 +49,7 @@ What does it mean to read like a computer? What does it mean to write for a non-
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 20 Jan | none | Introduction to course, expectations, syllabus | 
-| 22 Jan | <br> -[Speed Reading](https://www.youtube.com/watch?v=oLgBDHhV-xM) (Tonight Show) (6 mins) <br> -[How to Speed Read](https://www.youtube.com/watch?v=ZwEquW_Yij0) (Ferriss) (9 mins) <br> -"[How Many Books Will You Read Before You Die](https://lithub.com/how-many-books-will-you-read-before-you-die/)?" <br> -"[The beginning of silent reading](https://qz.com/quartzy/1118580/the-beginning-of-silent-reading-was-also-the-beginning-of-an-interior-life)" <br> -[People Don't Read But LLMs do](https://blog.glyndarkin.co.uk/ai/people-dont-read-but-ll-ms-do/) | <br> -Discussion <br> -Introduction to static sites | 
+| 22 Jan | <br> -[Speed Reading](https://www.youtube.com/watch?v=oLgBDHhV-xM) (Tonight Show) (6 mins) <br> -[How to Speed Read](https://www.youtube.com/watch?v=ZwEquW_Yij0) (Ferriss) (9 mins) <br> -"[How Many Books Will You Read Before You Die](https://lithub.com/how-many-books-will-you-read-before-you-die/)?" <br> -"[The beginning of silent reading](https://qz.com/quartzy/1118580/the-beginning-of-silent-reading-was-also-the-beginning-of-an-interior-life)" <br> -[People Don't Read But LLMs do](https://blog.glyndarkin.co.uk/ai/people-dont-read-but-ll-ms-do/) | <br> -Discussion <br> -[Introduction to static sites]() | 
 
 
 ### Week 2 (Jan 27, 29)

@@ -1,11 +1,11 @@
 ---
-title: "Creating a Static Site in GitHub Pages F23"
+title: "Creating a Static Site in GitHub Pages S26"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
   - lab
-  - F23
+  - S26
   - Github Pages
 ---
 
