@@ -13,13 +13,13 @@ toc_icon: "calendar"
 
 ## Spring 2026 Course Schedule
 
-This schedule is organized by week and assignments. Reading and assignment details will be posted on the course site as we progress through the semester. All dates are subject to change at the instructor's discretion. 
+This schedule is organized by week. Reading and assignment details will be posted on the course site as we progress through the semester. All material is subject to change at the instructor's discretion based on our progress in the course. 
 
 Materials: 
 
 The course learning materials are composed of numerous online articles & tutorials, interdisciplinary writing from the web, videos, digital projects in addition to traditional academic readings.  **There will be no books for purchase.**  Students will have access to ebook chapters available through NYU Libraries. Readings & other materials will be listed here a few weeks in advance of the courses. 
 
-For this course you will need to make some accounts and download some software. We will make use of AntConc, AntCorGen, VS Code (or other text editor), as well as a number of web-based tools. You will also be assigned access to RStudio Cloud within a few weeks.  If you are familiar with RStudio and already have it downloaded, you can use it on your own machine. For beginners, I recommend the cloud based version.  These resources are all at no cost to you. 
+For this course you will need to make some accounts and download some software. We will make use of VS Code (or other text editor), as well as a number of web-based tools. You will also be assigned access to Posit Cloud within a few weeks.  If you are familiar with RStudio and already have it downloaded, you can download the notebooks and use them on your own machine. For beginners, I recommend the cloud based version.  These resources are all at no cost to you. 
 
 ---
 
@@ -42,7 +42,8 @@ For this course you will need to make some accounts and download some software. 
 ## Part 1: Digital Textual Analysis — Thinking with Corpora
 
 ### Week 1 (Jan 20, 22)
-**Topic:** Beginnings, aka "So Many Books, So Little Time"
+**Topic:** Beginnings, a.k.a. "So Many Books, So Little Time"
+
 What does it mean to read like a computer? What does it mean to write for a non-human audience?
 
 | Date | Preparation | Activity | 
@@ -54,11 +55,11 @@ What does it mean to read like a computer? What does it mean to write for a non-
 ### Week 2 (Jan 27, 29)
 **Topic:** Reading, Fast and Slow, Close and Distant  / Reading All of Anything 
 
-Exploring different reading strategies: close reading vs. distant reading, slow reading vs. fast reading, summarizing with an LLM. What can each approach tell us? What do they miss? How do we work with large amounts of text? What are corpora?
+What are different reading strategies available to us: close reading vs. distant reading, slow reading vs. fast reading, summarizing with an LLM? What can each approach tell us? What do they miss? How do we work with large amounts of text? What are corpora?
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 27 Jan | <br> -Create a [GitHub account](https://github.com) (if you don't have one) <br> - Install a [text editor](https://code.visualstudio.com/download) (eg, VSCode) <br> -Install [Github Desktop](https://desktop.github.com/download/) <br> -[Can Computers Read (Literature)?](http://doi.org/10.6092/issn.2532-8816/8511) (Kestemont / Herman)  <br> -[The Pitfalls of Using Google Ngram](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/) <br> -[Google n-gram](https://books.google.com/ngrams/) vs. [BookWorm](https://bookworm.htrc.illinois.edu/develop/) <br> -"[My Secret Editing Weapon](https://medium.com/the-greengrocers-style-guide/my-secret-editing-weapon-the-google-ngram-viewer-2006d20411c6)" | <br> -Discussion <br> -Gentle Introduction to Github Pages|  
+| 27 Jan | <br> -Create a [GitHub account](https://github.com) (if you don't have one) <br> - Install a [text editor](https://code.visualstudio.com/download) (e.g. VSCode) <br> -Install [Github Desktop](https://desktop.github.com/download/) <br> -[Can Computers Read (Literature)?](http://doi.org/10.6092/issn.2532-8816/8511) (Kestemont / Herman)  <br> -[The Pitfalls of Using Google Ngram](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/) <br> -[Google n-gram](https://books.google.com/ngrams/) vs. [BookWorm](https://bookworm.htrc.illinois.edu/develop/) <br> -"[My Secret Editing Weapon](https://medium.com/the-greengrocers-style-guide/my-secret-editing-weapon-the-google-ngram-viewer-2006d20411c6)" | <br> -Discussion <br> -Gentle Introduction to Github Pages|  
 | 29 Jan | <br> -[What is Fan Fiction?](https://en.wikipedia.org/wiki/Fan_fiction) <br> -[Harry Potter fandom](https://en.wikipedia.org/wiki/Harry_Potter_fandom) <br> - [What is AOOO?](https://en.wikipedia.org/wiki/Archive_of_Our_Own) <br> -Listen: [Distant Reading](https://newbooksnetwork.com/distant-reading) (a conversation with [Ama Bemma Adwetewa_Badu](https://artsci.washu.edu/faculty-staff/ama-bemma-adwetewa-badu)) - 14 mins <br> - [What is Markdown? Why Use it?](https://www.markdownguide.org/getting-started/) | <br> -Discussion of openness in the age of AI <br> -Explore Harry Potter fan fiction with an Rmd notebook (source: AOOO) with a selection of the 390K+ fan fiction in the course drive. | 
 
 ### Week 3 (Feb 3, 5)
