@@ -1,6 +1,6 @@
 ---
 title: Rubrics
-permalink: /assignments/rubrics/
+permalink: /rubrics/
 layout: single
 ---
 
