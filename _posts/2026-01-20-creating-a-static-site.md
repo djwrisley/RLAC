@@ -9,9 +9,9 @@ tags:
   - Github Pages
 ---
 
-## Guidelines for the Lab: 
+## Guidelines for Setting up Github Pages: 
 
-Today in lab one of the things we will be doing is to create your own site at GitHub Pages in which you will do your coursework. Creating such a site will require us to set up GitHub, GitHub Desktop and a text editor, to learn and practice some Markdown and to get comfortable with editing on our own machine and then push slowly our materials to the web. 
+Today in class one of the things we will be doing is to beginning to create your own site at GitHub Pages in which you will do your coursework. Creating such a site will require us to set up GitHub, GitHub Desktop and a text editor, to learn and practice some Markdown and to get comfortable with editing on our own machine and then push slowly our materials to the web. 
 
 Knowing how to create such a "static site" is an important skill in minimal and sustainable digital arts and humanities. 
 
