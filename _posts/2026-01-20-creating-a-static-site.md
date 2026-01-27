@@ -24,13 +24,13 @@ STEP 1:
 
 <img src="/assets/images/creatingacct.png" style="zoom:25%;" />
 
-NB: Your account and your page does not need to reveal your identity in any way. Feel free to consider this account a "burner" account for the purposes of this semester. Once you have gotten your grade, feel free to delete it or to repurpose the Markdown files for another site. 
+NB: Your account and your page does not need to reveal your identity in any way. Feel free to consider this account a "burner" account for the purposes of this semester. Once you have gotten your grade, feel free to delete it or to repurpose the Markdown files for another site. If you have already created a GitHub account using your name or something identifiable, feel free to create another now. 
 
-At some point in the near future, Github will require you to have multifactor authentication (2FA). We will not cover that here. 
+Github may require you to have multifactor authentication (2FA). We will not cover that here. It works somewhat like DUO used at NYU.
 
-2.  Make sure you have downloaded a text editor of your choice. This lab write up will explain with [Sublime Text](https://www.sublimetext.com/) for simplicity. Others are possible, but not explained here.
+1.  Make sure you have downloaded a text editor of your choice. This lab write up will explain with [Visual Studio Code](https://www.sublimetext.com/) for simplicity. Others are possible, but not explained here.
 
-3.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/). 
+2.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/). 
 
 STEP 2 
 
