@@ -28,9 +28,9 @@ NB: Your account and your page does not need to reveal your identity in any way.
 
 Github may require you to have multifactor authentication (2FA). We will not cover that here. It works somewhat like DUO used at NYU.
 
-1.  Make sure you have downloaded a text editor of your choice. This lab write up will explain with [Visual Studio Code](https://www.sublimetext.com/) for simplicity. Others are possible, but not explained here.
+1.  Make sure you have downloaded a text editor of your choice. This lab write up will explain with [Visual Studio Code](https://code.visualstudio.com/download). Others (such as Sublime Text) are possible, but not explained here.
 
-2.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/). 
+2.  Make sure you have downloaded [Github Desktop](https://desktop.github.com/). In the beginning, we will edit in VSCode and save (ie, make our commits to GitHub using GitHub Desktop), but you will learn that you can also commit directly from VSCode. This two-step approach is to take our time and learn slowly.
 
 STEP 2 
 
