@@ -73,6 +73,7 @@ Hands-on with Voyant Tools for text analysis and visualization. Exploring public
 | 5 Feb |  <br> -Make an account at [posit.cloud](https://posit.cloud/) <br> -Skim-watch [RStudio for Beginners with PositCloud and chatGPT](https://www.youtube.com/watch?v=YUGnQQ_hyNI&t=3721s) <br> -[Humanities Data Essentials in R](https://hdf.benschmidt.org/R/) check out the section "Working in a Programming Language" | <br> -Discussion <br> -Making sure our GitHub pages are working <br> -some Rmd notebooks for working with Harry Potter fan fiction and PLOSOne journal articles | 
 
 **First Assignment Due: Friday, Feb 19** Choosing a corpus and analyzing some of its contents by frequency. Full Instructions here.
+{: .notice}
 
 ### Week 4 (Feb 10, 12)
 **Topic:** More Text Analysis with R. The Anatomy of a Word Cloud. Creating and interpreting visualizations.
@@ -98,6 +99,7 @@ Instructor away at a conference. Work on Assignment 1 and Response 1.
 | 26 Feb | <br> -TF/IDF  |  <br> -Rmd notebook:  | 
 
 **First Response Due: Friday, Feb 26** Asking an LLM to interpret a visualization without context. Full Instructions here.
+{: .notice}
 
 ### Week 7 (Mar 3, 5)
 **Topic:**  Sentiment Analysis and Wrap-Up  
@@ -120,6 +122,7 @@ Optical Character Recognition and Handwritten Text Recognition. Working with dig
 **Topic:** Approaches to analyzing OCR'd or HTR'd text  
 
 **Second Assignment Due: Friday, April 3**
+{: .notice}
 
 ### Week 10 (Apr 7, 9)
 **Topic:** Word Embeddings 1  
@@ -128,7 +131,8 @@ Introduction to word embeddings and semantic relationships. Understanding distri
 ### Week 11 (Apr 14, 16)
 More with word embeddings. Visualization and interpretation of semantic spaces.
 
-**Second Response Due: Friday, April 18** 
+**Second Response Due: Friday, April 18**
+{: .notice} 
 
 ### Week 12 (Apr 21, 23)
 **Topic:** Stylometry  
@@ -147,6 +151,7 @@ Continued project work. Preparing presentations and written components.
 Student presentations of final projects. Course reflection and synthesis.
 
 **Third Assignment Due: Friday, May 15**
+{: .notice}
 
 ---
 
