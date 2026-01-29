@@ -120,7 +120,7 @@ Oral Exam week of Mar 2. Sign ups available [here](https://docs.google.com/sprea
 Optical Character Recognition and Handwritten Text Recognition. Working with digitized documents from archives and special collections.  
 
 ### Week 9 (Mar 31, Apr 2)
-**Topic:** Approaches to analyzing OCR'd or HTR'd text. More sentiment analysis, TF/IDF and Distinctive Words.  
+**Topic:** Approaches to analyzing OCR'd or HTR'd text. More sentiment analysis, TF/IDF and Distinctive Words. Integrating CoPilot into our Analysis (benefits, drawbacks and ethics)
 
 **Second Assignment Due: Friday, April 3**
 {: .notice}
