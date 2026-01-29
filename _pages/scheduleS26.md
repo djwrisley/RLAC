@@ -72,7 +72,7 @@ Hands-on with Voyant Tools for text analysis and visualization. Exploring public
 | 3 Feb | <br> -[Introduction to Voyant Tools: Basic Distant Reading](https://www.youtube.com/watch?v=rQbf6V77ScA&t=1s) <br> -[About Plos One Open Access Journal](https://journals.plos.org/plosone/s/journal-information) <br> -Building the Invisible College (Crymble, in Drive) <br> -[A Beginner's Guide to Using Voyant Tools for Thematic Analysis](https://works.hcommons.org/records/9rxyc-c7729) <br> -|  <br> -Harry Potter fan fiction in Voyant <br> -specialized fields of knowledge from PLOSOne journals in Voyant <br> -Discussion: What is your invisible college?  <br> -[Go further in Voyant Tools with Spyral Notebooks](https://voyant-tools.org/spyral/learnspyral@gh/Tutorials/)| 
 | 5 Feb |  <br> -Make an account at [posit.cloud](https://posit.cloud/) <br> -Skim-watch [RStudio for Beginners with PositCloud and chatGPT](https://www.youtube.com/watch?v=YUGnQQ_hyNI&t=3721s) <br> -[Humanities Data Essentials in R](https://hdf.benschmidt.org/R/) check out the section "Working in a Programming Language" | <br> -Discussion <br> -Making sure our GitHub pages are working <br> -some Rmd notebooks for working with Harry Potter fan fiction and PLOSOne journal articles | 
 
-**First Assignment Due: Friday, Feb 19** Choosing a corpus and analyzing some of its contents by frequency. Full Instructions here.
+**First Assignment Due: Friday, Feb 19** Choosing a corpus and critically analyzing some of its contents by frequency. Full Instructions here.
 {: .notice}
 
 ### Week 4 (Feb 10, 12)
@@ -81,9 +81,10 @@ Hands-on with Voyant Tools for text analysis and visualization. Exploring public
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 10 Feb | <br> -About Project Gutenberg |  <br> -Rmd notebook: Anatomy of a Word Cloud |
-| 12 Feb | <br> -South Asian Fiction |  <br> -Rmd notebook: Choosing a Corpus from Project Gutenberg and Exploring it | 
+| 12 Feb | <br> -South Asian Fiction |  <br> -Rmd notebook: Choosing a Corpus from Project Gutenberg and EDA | 
 
 _Ramadan begins. There will be no change in class timings for Ramadan._
+{: .notice}
 
 ### Week 5 (Feb 17, 19)
 
@@ -114,32 +115,33 @@ Oral Exam week of Mar 2. Sign ups available [here](https://docs.google.com/sprea
 
 ## Part 2: Digital Text Analysis (+ Creating Digital Text) — Project-Based Learning
 
-### Week 8 xt Analysis with R (Mar 24, 26)
+### Week 8 Approaches to Text Creation from Digitized Sources (Mar 24, 26)
 **Topic:** OCR and HTR  
 Optical Character Recognition and Handwritten Text Recognition. Working with digitized documents from archives and special collections.  
 
 ### Week 9 (Mar 31, Apr 2)
-**Topic:** Approaches to analyzing OCR'd or HTR'd text  
+**Topic:** Approaches to analyzing OCR'd or HTR'd text. More sentiment analysis, TF/IDF and Distinctive Words.  
 
 **Second Assignment Due: Friday, April 3**
 {: .notice}
 
 ### Week 10 (Apr 7, 9)
-**Topic:** Word Embeddings 1  
-Introduction to word embeddings and semantic relationships. Understanding distributed representations of meaning.
+**Topic:** Stylometry  
+Computational stylistic analysis. Author identification, authorship attribution, and style analysis. Work with class writings. 
 
 ### Week 11 (Apr 14, 16)
-More with word embeddings. Visualization and interpretation of semantic spaces.
+**Topic:** Word Embeddings 1  
+Introduction to word embeddings and semantic relationships. Understanding distributed representations of meaning.
 
 **Second Response Due: Friday, April 18**
 {: .notice} 
 
 ### Week 12 (Apr 21, 23)
-**Topic:** Stylometry  
-Computational stylistic analysis. Author identification, authorship attribution, and style analysis. Work with class writings. 
+**Topic:** Word Embeddings 2 / Topic Modeling 
+More with word embeddings. Visualization and interpretation of semantic spaces.
 
 ### Week 13 (Apr 28, 30)
-**Topic:** Lab Time  
+**Topic:** Comparison of Approaches & Lab Time  
 Hands-on work on final projects. Individual and small group consultations with instructor.
 
 ### Week 14 (May 5, 7)
