@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Static Sites"
+title: "Introduction to Static Sites S26"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
