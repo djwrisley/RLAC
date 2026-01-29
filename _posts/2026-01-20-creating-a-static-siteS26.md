@@ -104,7 +104,7 @@ When you edit and save (and sometime enter a commit message), you will see a blu
 
 Let's make some changes in the Sublime Text and push them. 
 
-<img src="/assets/images/pushing.png" style="zoom50%;" />
+<img src="/assets/images/pushing.png" style="zoom:50%;" />
 
 1. Use the button in Github Desktop to open in external editor (choosing Visual Studio Code), we can now move on to editing any of the pages. 
 
