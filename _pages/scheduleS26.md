@@ -65,27 +65,46 @@ What are different reading strategies available to us: close reading vs. distant
 ### Week 3 (Feb 3, 5)
 **Topic:**  Voyant and Project Gutenberg  
 
-Hands-on workshop with Voyant Tools for text analysis and visualization. Exploring public domain texts from Project Gutenberg. Introduction to R and RStudio for text analysis. Basic programming concepts and statistical approaches to text.
+Hands-on with Voyant Tools for text analysis and visualization. Exploring public domain texts from Project Gutenberg and PLOSOne journals. Introduction to R and RStudio for text analysis. Basic programming concepts and statistical approaches to text.
 
-**First Assignment Due: Friday, Feb 13**
+| Date | Preparation | Activity | 
+| :--- | :--- | :--- |
+| 3 Feb | <br> -About open access journals <br> -About Plos One Open Access Journals  <br> -Building the Invisible College (Crymble, in Drive) |  <br> -Harry Potter fan fiction in Voyant <br> -specialized fields of knowledge from PLOSOne journals in Voyant <br> -Discussion: What is your invisible college? <br> -what is a programming language like R? | 
+| 5 Feb |  <br> -Make an account at [posit.cloud](https://posit.cloud/) <br> -Skim-watch [RStudio for Beginners with PositCloud and chatGPT](https://www.youtube.com/watch?v=YUGnQQ_hyNI&t=3721s) <br> -[Humanities Data Essentials in R](https://hdf.benschmidt.org/R/) check out the section "Working in a Programming Language" | <br> -Discussion <br> -Making sure our GitHub pages are working <br> -some Rmd notebooks for working with Harry Potter fan fiction and PLOSOne journal articles | 
+
+**First Assignment Due: Friday, Feb 19** Choosing a corpus and analyzing some of its contents by frequency. Full Instructions here.
 
 ### Week 4 (Feb 10, 12)
 **Topic:** More Text Analysis with R. The Anatomy of a Word Cloud. Creating and interpreting visualizations.
 
+| Date | Preparation | Activity | 
+| :--- | :--- | :--- |
+| 10 Feb | <br> -About Project Gutenberg |  <br> -Rmd notebook: Anatomy of a Word Cloud |
+| 12 Feb | <br> -South Asian Fiction |  <br> -Rmd notebook: Choosing a Corpus from Project Gutenberg and Exploring it | 
+
 _Ramadan begins. There will be no change in class timings for Ramadan._
 
 ### Week 5 (Feb 17, 19)
-**Topic:** More Text Analysis with R — Most Distinctive Words / TF-IDF. Techniques for identifying key vocabulary in texts. 
 
-**First Response Due: Friday, Feb 20** Asking an LLM to interpret a visualization without context.
+Instructor away at a conference. Work on Assignment 1 and Response 1. 
 
 ### Week 6 (Feb 24, 26)
-**Topic:** Sentiment Analysis
-Introduction to sentiment analysis for different kinds of texts.
+
+**Topic:** More Text Analysis with R — Most Distinctive Words / TF-IDF. Techniques for identifying key vocabulary in texts. 
+
+| Date | Preparation | Activity | 
+| :--- | :--- | :--- |
+| 24 Feb | <br> -Most Distinctive Words in a Corpus |  <br> -Rmd notebook:  |
+| 26 Feb | <br> -TF/IDF  |  <br> -Rmd notebook:  | 
+
+**First Response Due: Friday, Feb 26** Asking an LLM to interpret a visualization without context. Full Instructions here.
 
 ### Week 7 (Mar 3, 5)
-**Topic:**  Wrap-Up  
+**Topic:**  Sentiment Analysis and Wrap-Up  
+Introduction to sentiment analysis for different kinds of texts.
 Reflection on Part 1 on working with corpora. and preparation for Part 2.
+
+List of key concepts for Part 1 of the course
 
 Oral Exam week of Mar 2. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=0#gid=0). 
 
@@ -95,7 +114,7 @@ Oral Exam week of Mar 2. Sign ups available [here](https://docs.google.com/sprea
 
 ### Week 8 xt Analysis with R (Mar 24, 26)
 **Topic:** OCR and HTR  
-Optical Character Recognition and Handwritten Text Recognition. Working with digitized documents from archives and special collections.
+Optical Character Recognition and Handwritten Text Recognition. Working with digitized documents from archives and special collections.  
 
 ### Week 9 (Mar 31, Apr 2)
 **Topic:** Approaches to analyzing OCR'd or HTR'd text  
