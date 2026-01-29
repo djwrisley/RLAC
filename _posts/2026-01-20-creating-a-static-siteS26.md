@@ -48,7 +48,7 @@ STEP 1:
 
 These instructions will guide you through the second option. If this is your first time working with GitHub, you don't have to do anything special. 
 
-<img src="/assets/images/creatingacct.png" style="zoom:25%;" />
+<img src="RLAC/assets/images/creatingacct.png" style="zoom:25%;" />
 
 NB: Your account and your page does not need to reveal your identity in any way. Feel free to consider this account a "burner" account for the purposes of this semester. Once you have gotten your grade, feel free to delete it or to repurpose the Markdown files for another site. If you have already created a GitHub account using your name or something identifiable, feel free to create another now. 
 
@@ -88,7 +88,7 @@ In Github Desktop make sure you are in the current repository {username}.github.
 
 It may come up automatically, alternatively you can select URL, paste that URL into the repository URL blank and click clone. 
 
-<img src="/assets/images/clonerepo.png" style="zoom:25%;" />
+<img src="/RLAC/assets/images/clonerepo.png" style="zoom:25%;" />
 
 When done, you should be able to see it in the current repository tab at left in Github Desktop. 
 
@@ -98,7 +98,7 @@ Now that you have a copy of the repository on your laptop you can edit it there 
 
 When you edit and save (and sometime enter a commit message), you will see a blue button to transfer these changes to the web. 
 
-<img src="/assets/images/pushing.png" style="zoom:25%;" />
+<img src="RLAC/assets/images/pushing.png" style="zoom:25%;" />
 
 > NB: You can do some editing in the GitHub web interface itself, but I recommend editing in Github Desktop with your text editor, and certainly not mixing the web-based interface and the text editor, since you end up with a versioning nightmare. If you do make a change in the GitHub web interface, make sure that you fetch the origin.
 
