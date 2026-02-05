@@ -80,8 +80,8 @@ Hands-on with Voyant Tools for text analysis and visualization. Exploring public
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 10 Feb | <br> -About Project Gutenberg |  <br> -Rmd notebook: Anatomy of a Word Cloud |
-| 12 Feb | <br> -South Asian Fiction |  <br> -Rmd notebook: Choosing a Corpus from Project Gutenberg and EDA | 
+| 10 Feb | <br> -Listen to [Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu](https://newbooksnetwork.com/distant-reading) <br> -[ch 2 of Hermeneutica, "How Computers Measure Words"](https://direct.mit.edu/books/monograph/3494/HermeneuticaComputer-Assisted-Interpretation-in) |   <br> -Continued work with Rmd notebooks <br> -Discussion of podcast  <br> -Building a HeatMap visualization |
+| 12 Feb | <br> -Exploring A Corpus of South Asian Fiction |  <br> -more Rmd notebooks  | 
 
 _Ramadan begins. There will be no change in class timings for Ramadan._
 {: .notice}
@@ -89,6 +89,8 @@ _Ramadan begins. There will be no change in class timings for Ramadan._
 ### Week 5 (Feb 17, 19)
 
 Instructor away at a conference. Work on Assignment 1 and Response 1. 
+
+> Love Data Week at NYU 
 
 ### Week 6 (Feb 24, 26)
 
