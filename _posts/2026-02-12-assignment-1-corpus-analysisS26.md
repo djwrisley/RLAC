@@ -14,9 +14,9 @@ categories:
 
 Assignment 1 invites you to apply computational text analysis methods to a corpus of texts you select. This assignment builds on concepts and tools we've discussed in class—-particularly exploratory data analysis (EDA) in Voyant Tools and the two notebooks in posit.cloud-—and asks you to choose a subset of either the Harry Potter and Harry Potter fan fiction corpus or the Colonial South Asian Corpus and to synthesize your findings in a web-facing written essay with supporting visualizations.
 
-**Format:** Individual or pairs (maximum 2 people) 
-**Length:** Approximately 1500 words (about an 8-minute read), plus visuals  
-**Due Date:** Wednesday, 25 February 2026
+- **Format:** Individual or pairs (maximum 2 people) 
+- **Length:** Approximately 1500 words (about an 8-minute read), plus visuals  
+- **Due Date:** Wednesday, 25 February 2026
 
 ## Three Main Elements
 
@@ -121,6 +121,8 @@ Your work will be assessed according to the following criteria located [here](ht
 **Collaboration:** If working in pairs, you may submit a single essay that links to both group members' sites. Include a brief statement describing each person's unique contribution to the work.
 
 **Publishing:** Post your assignment to your course site as a post so instructors and classmates can read and engage with your work.
+
+It is fine to publish your assignment iteratively, but when you finish the final version of your assignment, write at the bottom of it "READY FOR GRADING". 
 
 
 Good luck with your analysis!
