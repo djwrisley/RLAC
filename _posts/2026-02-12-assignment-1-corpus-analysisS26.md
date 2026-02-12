@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1: Working with a Corpus"
+title: "Assignment 1: Working with a Corpus S26"
 excerpt: "Apply computational text analysis methods to a corpus of your choice"
 last_modified_at: 2026-02-12T12:00:00-05:00
 tags:

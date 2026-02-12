@@ -90,7 +90,7 @@ _Ramadan begins. There will be no change in class timings for Ramadan._
 
 Instructor away at a conference. Work on Assignment 1 and Response 1. 
 
-> Love Data Week at NYU 
+> Extra credit opportunity: Attend an event at Love Data Week at NYU online in NYC or in person in AD and write it up. Worth up to 2 points on Assignment 1.
 
 ### Week 6 (Feb 24, 26)
 
