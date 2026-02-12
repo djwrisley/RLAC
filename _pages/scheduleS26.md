@@ -90,7 +90,10 @@ _Ramadan begins. There will be no change in class timings for Ramadan._
 
 Instructor away at a conference. Work on Assignment 1 and Response 1. 
 
-> Extra credit opportunity: Attend an event at Love Data Week at NYU online in NYC or in person in AD and write it up. Worth up to 2 points on Assignment 1.
+**EXTRA CREDIT OPPORTUNITY: It's Love Data Week [in NYC](https://guides.nyu.edu/love-data) and [in AD](https://nyu-abudhabi.libcal.com/calendar/workshops?cid=8877&t=g&d=0000-00-00&cal=8877&inc=0)** 
+
+Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit posts can be found [here](https://djwrisley.github.io/RLAC/blog/guidelines-extra-credit/).
+{: .notice}
 
 ### Week 6 (Feb 24, 26)
 
