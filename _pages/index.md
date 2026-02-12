@@ -28,7 +28,7 @@ How can computers be said to “read” text, and how can computer-assisted anal
 | **Element** | **Day** | **Timing** | **Location** | 
 | Class | Tu | 11:20AM-12:35PM | Campus Center L00 W009 |
 | Class | Th | 11:20AM-12:35PM | Campus Center L00 W009 | 
-| Office hours | Tu-Th | TBA | A6 L01 1151 |
+| Office hours | Tu / Th or by appt | between 1 and 3pm, but please contact me before coming to make sure I am in the office | A6 L01 1151 |
 | Ramadan in person OH | TBA | TBA | TBA |
 
 
