@@ -72,7 +72,7 @@ Hands-on with Voyant Tools for text analysis and visualization. Exploring public
 | 3 Feb | <br> -[Introduction to Voyant Tools: Basic Distant Reading](https://www.youtube.com/watch?v=rQbf6V77ScA&t=1s) <br> -[About Plos One Open Access Journal](https://journals.plos.org/plosone/s/journal-information) <br> -Building the Invisible College (Crymble, in Drive) <br> -[A Beginner's Guide to Using Voyant Tools for Thematic Analysis](https://works.hcommons.org/records/9rxyc-c7729) <br> -|  <br> -Harry Potter fan fiction in Voyant <br> -specialized fields of knowledge from PLOSOne journals in Voyant <br> -Discussion: What is your invisible college?  <br> -[Go further in Voyant Tools with Spyral Notebooks](https://voyant-tools.org/spyral/learnspyral@gh/Tutorials/)| 
 | 5 Feb |  <br> -Make an account at [posit.cloud](https://posit.cloud/) <br> -Skim-watch [RStudio for Beginners with PositCloud and chatGPT](https://www.youtube.com/watch?v=YUGnQQ_hyNI&t=3721s) <br> -[Humanities Data Essentials in R](https://hdf.benschmidt.org/R/) check out the section "Working in a Programming Language" | <br> -Discussion <br> -Making sure our GitHub pages are working <br> -some Rmd notebooks for working with Harry Potter fan fiction and PLOSOne journal articles | 
 
-**First Assignment Due: Wednesday, Feb 25** Choosing a corpus and critically analyzing some of its contents by frequency. Full Instructions [here](https://djwrisley.github.io/RLAC/blog/assignment-1-corpus-analysisS26/).
+**First Assignment Due: Friday, 27 February, 11:59pm** Choosing a corpus and critically analyzing some of its contents by frequency. Full Instructions [here](https://djwrisley.github.io/RLAC/blog/assignment-1-corpus-analysisS26/).
 {: .notice}
 
 ### Week 4 (Feb 10, 12)
@@ -101,10 +101,10 @@ Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 24 Feb | <br> -Most Distinctive Words in a Corpus |  <br> -Rmd notebook:  |
-| 26 Feb | <br> -TF/IDF  |  <br> -Rmd notebook:  | 
+| 24 Feb | <br> -Most Distinctive Words in a Corpus <br> -[On a logarithmic scale](https://en.wikipedia.org/wiki/Logarithmic_scale) <br> -[|  <br> -Rmd notebook:  |
+| 26 Feb | <br> -Most Distinctive Words in a Corpus |  <br> -Rmd notebook:  | 
 
-**First Response Due: Friday, Feb 26** Asking an LLM to interpret a visualization without context. Full Instructions here.
+**First Response Due: Saturday, 7 March, 11:59pm** Asking an LLM to interpret a visualization without context. Full Instructions here.
 {: .notice}
 
 ### Week 7 (Mar 3, 5)
