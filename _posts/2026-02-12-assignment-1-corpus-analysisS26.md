@@ -17,7 +17,7 @@ Assignment 1 invites you to apply computational text analysis methods to a corpu
 
 - **Format:** Individual or pairs (maximum 2 people) 
 - **Length:** Approximately 1500 words (about an 8-minute read), plus visuals  
-- **Due Date:** Wednesday, 25 February 2026
+- **Due Date:** Sunday, 15 March 2026, 11:59pm
 
 ## Three Main Elements
 
@@ -132,10 +132,4 @@ It is fine to publish your assignment iteratively, but when you finish the final
 
 Good luck with your analysis!
 
-
-As requested, here are some samples of student assignments in a post in the Minimal Mistakes theme. 
-
--
--
--
 
