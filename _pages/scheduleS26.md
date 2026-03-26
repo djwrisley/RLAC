@@ -104,19 +104,17 @@ Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit
 | 24 Feb | <br> -Most Distinctive Words in a Corpus <br> -[On a logarithmic scale](https://en.wikipedia.org/wiki/Logarithmic_scale) <br> -[|  <br> -Rmd notebook:  |
 | 26 Feb | <br> -Most Distinctive Words in a Corpus |  <br> -Rmd notebook:  | 
 
-**First Response Due: Saturday, 7 March, 11:59pm** Asking an LLM to interpret a visualization without context. Full Instructions here.
+**First Response Due: Sunday, 15 March, 11:59pm** Asking an LLM to interpret a visualization without context. Full Instructions [here](https://djwrisley.github.io/RLAC/Response1-S26/).
 {: .notice}
 
 ### Week 7 (Mar 3, 5)
-**Topic:**  Sentiment Analysis and Wrap-Up  
-Introduction to sentiment analysis for different kinds of texts.
-Reflection on Part 1 on working with corpora. and preparation for Part 2.
+**Topic:**  Wrap-Up  
 
-List of key concepts for Part 1 of the course
+Reflection on Part 1 on working with corpora. and preparation for Part 2. Key concepts for course thus far.
 
-Oral Exam week of Mar 2. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=0#gid=0). 
+Oral Exam week of March 30th. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=1828842838#gid=1828842838). 
 
----
+EID & SPRING BREAK -- keep calm and have a break!
 
 ## Part 2: Digital Text Analysis (+ Creating Digital Text) — Project-Based Learning
 
