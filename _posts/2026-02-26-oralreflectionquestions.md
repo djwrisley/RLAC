@@ -14,7 +14,7 @@ I have curated here a number of possible oral exam questions that would be relev
 
 The oral exams will cover readings, material covered in your assignments and any material more generally in the class. 
 
-The oral exam will take place remotely via Zoom. Everyone has signed up for a time to have their exam. It will last a maximum of 20 minutes (expect a little less) and we will use the [all screens mode](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0074632) in Zoom. You will receive a unique calendar invite with a Zoom link for your exam time. There are 10 minutes between each of the oral exams of downtime for me. Please be on time. If late, you will only have the remainder of the time left for the meeting.
+The oral exam will take place remotely via Zoom. Everyone has signed up for a time to have their exam. Camera needs to be on in Zoom and you should arrange for a quiet place to do the exam. It will last a maximum of 20 minutes (expect a little less) and we will use the [all screens mode](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0074632) in Zoom. You will receive a unique calendar invite with a Zoom link for your exam time. There are 10 minutes between each of the oral exams of downtime for me. Please be on time. If late, you will only have the remainder of the time left for the meeting.
 
 The most important part of the Oral Exam is not all the knowledge you have memorized, but that it is a "student-driven" conversation. I will expect for you to keep the conversation going. I will ask follow up questions, time permitted.
 
