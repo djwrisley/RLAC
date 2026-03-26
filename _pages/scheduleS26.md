@@ -110,7 +110,7 @@ Due Date: 20 Feb, 1-2 points on Assignment 1. Guidelines on writing extra credit
 ### Week 7 (Mar 3, 5)
 **Topic:**  Wrap-Up  
 
-Reflection on Part 1 on working with corpora. and preparation for Part 2. Key concepts for course thus far.
+Reflection on Part 1 on working with corpora. and preparation for Part 2. Review of key concepts for course thus far.
 
 Oral Exam week of March 30th. Sign ups available [here](https://docs.google.com/spreadsheets/d/1m90mbN0lPIxWyw2xtDToG8Fbz4P9jb4xzy_p-NZ5dlI/edit?gid=1828842838#gid=1828842838). 
 
@@ -118,9 +118,11 @@ EID & SPRING BREAK -- keep calm and have a break!
 
 ## Part 2: Digital Text Analysis (+ Creating Digital Text) — Project-Based Learning
 
-### Week 8 Approaches to Text Creation from Digitized Sources (Mar 24, 26)
-**Topic:** OCR and HTR  
-Optical Character Recognition and Handwritten Text Recognition. Working with digitized documents from archives and special collections.  
+### Week 8 Recap and Moving Forward (Text Creation and Analysis)  (Mar 24, 26)
+
+| Date | Preparation | Activity | 
+| :--- | :--- | :--- |
+| 24 March | guidelines for oral exam | re-introduction of the oral exam |
 
 ### Week 9 (Mar 31, Apr 2)
 **Topic:** Approaches to analyzing OCR'd or HTR'd text. More sentiment analysis, TF/IDF and Distinctive Words. Integrating CoPilot into our Analysis (benefits, drawbacks and ethics)
