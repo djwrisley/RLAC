@@ -6,7 +6,7 @@ tags:
   - S26
 ---
 
-## Overview - DRAFT
+## Overview - FINAL 
 
 I have curated here a number of possible oral exam questions that would be relevant for the middle of the term in this class. 
 
