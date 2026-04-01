@@ -72,7 +72,7 @@ Participation is assessed on the basis of:
 
 ## Oral Exam Rubric
 
-| Criterion | Exemplary (15) | Proficient (12) | Developing (9) | Beginning (6) | Incomplete (0) |
+| Criterion | Exemplary (10) | Proficient (8) | Developing (7) | Beginning (5) | Incomplete (0) |
 |-----------|--------|-----------|-----------|---------|------------|
 | **Content Mastery** | Demonstrates comprehensive and nuanced understanding of all key topics; integrates course concepts seamlessly | Shows clear understanding of key topics; may miss minor nuance | Adequate grasp of primary concepts; gaps in depth/accuracy | Limited understanding; significant content gaps and misconceptions | Shows minimal or incorrect understanding; fails to correctly address content |
 | **Accuracy of Responses** | Answers are consistently accurate, insightful, and logically justified; integrates evidence or examples where appropriate | Mostly accurate responses with occasional minor errors; sound reasoning | Some correct responses; inconsistent reasoning; moderate inaccuracies | Frequent inaccuracies; reasoning is unclear or flawed | Responses are largely incorrect or irrelevant |
