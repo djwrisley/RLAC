@@ -146,11 +146,16 @@ EID & SPRING BREAK -- keep calm and have a break!
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 7 April | <br> -TF-IDF, what is it? <br> -Comparing TF, IDF to other frequency metrics | Notebook: "TF-IDF with science fiction writers from Project Gutenberg" |
-| 2 April | <br> -The novel, "1, The Road" <br> -Kerouac's novel On the Road <br> -Fiction written by AI <br> -On doing OCR with tesseract | <br> -Notebook: "Extracting Information from '1, The Road amd Mapping the Itinerary" |
+| 9 April | <br> -The novel, "1, The Road" <br> -Kerouac's novel On the Road <br> -Fiction written by AI <br> -On doing OCR with tesseract | <br> -Notebook: "Extracting Information from '1, The Road amd Mapping the Itinerary" |
 
 ### Week 11 (Apr 14, 16)
-**Topic:** Word Embeddings 1  
+**Topic:** Word Embeddings  
 Introduction to word embeddings and semantic relationships. Understanding distributed representations of meaning.
+
+| Date | Preparation | Activity | 
+| :--- | :--- | :--- |
+| 14 April | <br> -TF-IDF, what is it? <br> -Comparing TF, IDF to other frequency metrics | Notebook: "TF-IDF with science fiction writers from Project Gutenberg" |
+| 16 April | <br> -[The novel, "1, The Road"](https://en.wikipedia.org/wiki/1_the_Road) <br> -[On Ross Goodwin](https://aiartists.org/ross-goodwin) <br> -[Kerouac's 1957 novel On the Road](https://en.wikipedia.org/wiki/On_the_Road) <br> -[Authors and Publishers Using AI](https://www.goodreads.com/list/show/184248.Authors_Publishers_Using_AI_Artificial_Intelligence_)  | <br> -[Batch OCR with tesseract](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files) <br> -Notebook: "Extracting Information from '1, The Road amd Mapping the Itinerary" |
 
 **Second Response Due: Friday, April 20** Giving an LLM uncontextualized data about an itinerary. Prompt [here](). Rubric in the rubric tab. 
 {: .notice} 
