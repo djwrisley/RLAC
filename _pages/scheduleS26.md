@@ -132,31 +132,35 @@ EID & SPRING BREAK -- keep calm and have a break!
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 31 March | [guidelines for oral exam](https://djwrisley.github.io/RLAC/oralreflectionquestions/) | no class due to connectivity issues |
-| 2 April | stylometry with Project Gutenberg science fiction | Notebooks: "Stylometry with RLAC Ghostwriters" (posit.cloud) "Rolling Stylometry with Science Fiction writers" |
+| 2 April | stylometry with Project Gutenberg science fiction | <br> -Notebook: "Stylometry with RLAC Ghostwriters" <br> -Notebook: "Rolling Stylometry with Science Fiction writers" |
 
 **EXTRA CREDIT OPPORTUNITY: EcStatic Magic: Making Static Sites for DH Projects, Tues, 31 March, 1:30PM-3:00PM Eastern time, 1 or 2 points on an assignment [remote, offered by NYUNY](https://nyu.libcal.com/event/16510755). See guidelines for extra credit [here](https://djwrisley.github.io/RLAC/blog/guidelines-extra-credit/)**
 {: .notice} 
 
-**Second Assignment Due: Friday, April XX**
+**Second Assignment Due: Friday, April 13** Comparing TF IDF & Stylometry with science fiction authors. Prompt located [here](). Rubric can be found on the rubrics tab.
 {: .notice}
 
-****
-
-
 ### Week 10 (Apr 7, 9)
-**Topic:** Stylometry  
-Computational stylistic analysis. Author identification, authorship attribution, and style analysis. Work with class writings. 
+**Topic:** Term Frequency - Inverse Document Frequency (TF IDF), uses and sensitivites; Case Study with OCR and Entity Extraction "1, the Road"
+
+| Date | Preparation | Activity | 
+| :--- | :--- | :--- |
+| 7 April | <br> -TF-IDF, what is it? <br> -Comparing TF, IDF to other frequency metrics | Notebook: "TF-IDF with science fiction writers from Project Gutenberg" |
+| 2 April | <br> -The novel, "1, The Road" <br> -Kerouac's novel On the Road <br> -Fiction written by AI <br> -On doing OCR with tesseract | <br> -Notebook: "Extracting Information from '1, The Road amd Mapping the Itinerary" |
 
 ### Week 11 (Apr 14, 16)
 **Topic:** Word Embeddings 1  
 Introduction to word embeddings and semantic relationships. Understanding distributed representations of meaning.
 
-**Second Response Due: Friday, April 18**
+**Second Response Due: Friday, April 20** Giving an LLM uncontextualized data about an itinerary. Prompt [here](). Rubric in the rubric tab. 
 {: .notice} 
 
 ### Week 12 (Apr 21, 23)
 **Topic:** Word Embeddings 2 / Topic Modeling 
 More with word embeddings. Visualization and interpretation of semantic spaces.
+
+**Third Assignment Due: Sunday, 10 May** Comparing Topic modeling and word embeddings for science fiction corpus. Prompt [here](). Rubric in the rubric tab. 
+{: .notice} 
 
 ### Week 13 (Apr 28, 30)
 **Topic:** Comparison of Approaches & Lab Time  
@@ -166,12 +170,6 @@ Hands-on work on final projects. Individual and small group consultations with i
 **Topic:** Lab Time / Final Presentations Preparation  
 Continued project work. Preparing presentations and written components.
 
-### Week 15 (May 12, 14)
-**Topic:** Final Presentations and Wrap-Up  
-Student presentations of final projects. Course reflection and synthesis.
-
-**Third Assignment Due: Friday, May 15**
-{: .notice}
 
 ---
 
