@@ -140,6 +140,9 @@ EID & SPRING BREAK -- keep calm and have a break!
 **Second Assignment Due: Friday, April 13** Comparing TF IDF & Stylometry with science fiction authors. Prompt located [here](). Rubric can be found on the rubrics tab.
 {: .notice}
 
+**EXTRA CREDIT OPPORTUNITY: Digital Concrete: tools for making visual poetry, Tues, 7 April, noon-1pm Eastern time, 1 or 2 points on an assignment [remote, offered by Toronto Metropolitan University's Centre for Digital Humanities](https://cdh.rula.info/newsletter/). See guidelines for extra credit [here](https://djwrisley.github.io/RLAC/blog/guidelines-extra-credit/)**
+{: .notice} 
+
 ### Week 10 (Apr 7, 9)
 **Topic:** Term Frequency - Inverse Document Frequency (TF IDF), uses and sensitivites; Case Study with OCR and Entity Extraction "1, the Road"
 
