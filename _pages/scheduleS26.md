@@ -140,15 +140,15 @@ EID & SPRING BREAK -- keep calm and have a break!
 **Second Assignment Due: Friday, April 13** Comparing TF IDF & Stylometry with science fiction authors. Prompt located [here](). Rubric can be found on the rubrics tab.
 {: .notice}
 
-**EXTRA CREDIT OPPORTUNITY: Digital Concrete: tools for making visual poetry, Tues, 7 April, noon-1pm Eastern time, 1 or 2 points on an assignment [remote, offered by Toronto Metropolitan University's Centre for Digital Humanities](https://cdh.rula.info/newsletter/). See guidelines for extra credit [here](https://djwrisley.github.io/RLAC/blog/guidelines-extra-credit/)**
+**EXTRA CREDIT OPPORTUNITY: Digital Concrete: Tools for Making Visual Poetry, Tues, 7 April, noon-1pm Eastern time, 1 or 2 points on an assignment [remote, offered by Toronto Metropolitan University's Centre for Digital Humanities](https://cdh.rula.info/newsletter/) and [register here](https://torontomu.zoom.us/meeting/register/3ols7PiqToWWcLrB4GX1Fw#/registration). See guidelines for extra credit [here](https://djwrisley.github.io/RLAC/blog/guidelines-extra-credit/)**
 {: .notice} 
 
 ### Week 10 (Apr 7, 9)
-**Topic:** Term Frequency - Inverse Document Frequency (TF IDF), uses and sensitivites; Case Study with OCR and Entity Extraction "1, the Road"
+**Topic:** Term Frequency - Inverse Document Frequency (TF IDF), Uses and Sensitivites; Case Study with OCR and Entity Extraction "1, the Road"
 
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
-| 7 April | <br> -TF-IDF, what is it? <br> -Comparing TF, IDF to other frequency metrics | Notebook: "TF-IDF with science fiction writers from Project Gutenberg" |
+| 7 April | <br> -[TF-IDF, what is it?](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) <br> -Comparing TF, IDF to other frequency metrics | Notebook: "TF-IDF with science fiction writers from Project Gutenberg" |
 | 9 April | <br> -The novel, "1, The Road" <br> -Kerouac's novel On the Road <br> -Fiction written by AI <br> -On doing OCR with tesseract | <br> -Notebook: "Extracting Information from '1, The Road amd Mapping the Itinerary" |
 
 ### Week 11 (Apr 14, 16)
