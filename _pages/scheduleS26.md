@@ -132,7 +132,7 @@ EID & SPRING BREAK -- keep calm and have a break!
 | Date | Preparation | Activity | 
 | :--- | :--- | :--- |
 | 31 March | no class due to connectivity issues | no class due to connectivity issues |
-| 2 April | stylometry with Project Gutenberg science fiction | <br> -Notebook: "Stylometry with RLAC Ghostwriters" <br> -Notebook: "Rolling Stylometry with Science Fiction writers" |
+| 2 April | stylometry with Project Gutenberg science fiction authors | <br> -Notebook: "Stylometry with RLAC Ghostwriters" <br> -Notebook: "Rolling Stylometry with Science Fiction writers" |
 
 **EXTRA CREDIT OPPORTUNITY: EcStatic Magic: Making Static Sites for DH Projects, Tues, 31 March, 1:30PM-3:00PM Eastern time, 1 or 2 points on an assignment [remote, offered by NYUNY](https://nyu.libcal.com/event/16510755). See guidelines for extra credit [here](https://djwrisley.github.io/RLAC/blog/guidelines-extra-credit/)**
 {: .notice} 
