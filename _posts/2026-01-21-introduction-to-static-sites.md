@@ -18,6 +18,8 @@ This course site is an example of a very simple static site built in [Jekyll](ht
 Here are some customized ones: 
 - [The Programming Historian](https://programminghistorian.org/) - also Jekyll and in Github.
 - [Stanford Literary Lab](https://litlab.stanford.edu/) - they explain why they adopted a static site [here](https://litlab.stanford.edu/techne/new-litlab-website/)
+- [Models Of and For](https://lib-static.github.io/models/) - A curated directory of projects using a static web approach (Models Of), templates / frameworks for creating new projects (Models For), and helpful utilities for Lib-Static development (Tools).
+- [Collection Builder](https://collectionbuilder.github.io/) - an open source framework for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology -- templates that work from Google Sheets!
 
 <!--more-->
 
