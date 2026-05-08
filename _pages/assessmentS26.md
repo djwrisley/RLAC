@@ -40,10 +40,6 @@ You will complete 2 written responses throughout the semester, each worth up to 
 - Reflective pieces on conceptual issues or course themes
 - Critical analyses of tools, methods, or course readings
 
-**Submission Dates:**
-- Response 1: TBA
-- Response 2: TBA
-
 ---
 
 ### Three Assignments (50% total — 10% first assignment, 20% for following)
@@ -72,11 +68,12 @@ ___
 
 ---
 
-## Grading Scale
+## Grading Scale 
 
 | Grade | Percentage |
 |-------|-----------|
-| A | 90-100% |
+| A | 94-100% |
+| A- | 90-93% |
 | B+ | 85-89% |
 | B | 80-84% |
 | B- | 75-79% |
